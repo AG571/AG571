@@ -1,43 +1,40 @@
 name: Daily README heartbeat
+
 on:
-  schedule:
-    - cron: "15 07 * * *"   # daily 07:15 UTC
   workflow_dispatch:
+  schedule:
+    - cron: '15 07 * * *'   # daily 07:15 UTC
 
 permissions:
   contents: write
 
 jobs:
-  heartbeat:
+  hb:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update README section
+      - name: Update README
         shell: bash
         run: |
-          set -euo pipefail
+          set -e
           FILE="README.md"
           START="<!-- TIL-START -->"
           END="<!-- TIL-END -->"
+          TODAY=$(date -u +%F)
 
-          # Ensure markers exist
+          # If markers are missing, append them with a first line
           if ! grep -q "$START" "$FILE" || ! grep -q "$END" "$FILE"; then
-            {
-              echo ""
-              echo "$START"
-              echo "**Today I learned:** First heartbeat • $(date -u +'%Y-%m-%d')"
-              echo "$END"
-            } >> "$FILE"
+            printf "\n%s\n%s • %s\n%s\n" \
+              "$START" \
+              "**Today I learned:** First heartbeat" \
+              "$TODAY" \
+              "$END" >> "$FILE"
           else
-            python3 - <<'PY'
-import re, random, datetime
-fn = "README.md"
-with open(fn, "r", encoding="utf-8") as f:
-    txt = f.read()
-start = "<!-- TIL-START -->"
-end = "<!-- TIL-END -->"
+            python3 - "$FILE" "$START" "$END" "$TODAY" <<'PY'
+import sys, re, random
+fn, start, end, today = sys.argv[1:]
 facts = [
     "Read about agentic AI workflows.",
     "Improved automation logic.",
@@ -45,11 +42,12 @@ facts = [
     "Refined dataset structure.",
     "Reviewed AI reliability papers."
 ]
-today = datetime.datetime.utcnow().strftime("%Y-%m-%d")
+with open(fn, "r", encoding="utf-8") as f:
+    txt = f.read()
 block = f"{start}\n**Today I learned:** {random.choice(facts)} • {today}\n{end}"
-new = re.sub(start + r".*?" + end, block, txt, flags=re.S)
+txt = re.sub(start + r".*?" + end, block, txt, flags=re.S)
 with open(fn, "w", encoding="utf-8") as f:
-    f.write(new)
+    f.write(txt)
 PY
           fi
 
@@ -57,12 +55,13 @@ PY
         env:
           GH_TOKEN: ${{ secrets.PAT_PUSH }}
         run: |
+          set -e
           git config user.name "Aviv Geron"
           git config user.email "geron.aviv@hotmail.com"
           if ! git diff --quiet; then
             git add README.md
-            git commit -m "chore: daily heartbeat update"
-            git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} HEAD:main
+            git commit -m "chore: heartbeat"
+            git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}" HEAD:main
           else
-            echo "No changes to commit."
+            echo "No changes"
           fi
