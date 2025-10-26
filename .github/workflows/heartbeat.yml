@@ -1,9 +1,9 @@
-name: Daily README heartbeat
+name: Daily heartbeat
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 07 * * *'   # daily 07:15 UTC
+    - cron: '15 07 * * *'  # daily 07:15 UTC
 
 permissions:
   contents: write
@@ -15,53 +15,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update README
+      - name: Write heartbeat file
         shell: bash
         run: |
           set -e
-          FILE="README.md"
-          START="<!-- TIL-START -->"
-          END="<!-- TIL-END -->"
-          TODAY=$(date -u +%F)
-
-          # If markers are missing, append them with a first line
-          if ! grep -q "$START" "$FILE" || ! grep -q "$END" "$FILE"; then
-            printf "\n%s\n%s • %s\n%s\n" \
-              "$START" \
-              "**Today I learned:** First heartbeat" \
-              "$TODAY" \
-              "$END" >> "$FILE"
-          else
-            python3 - "$FILE" "$START" "$END" "$TODAY" <<'PY'
-import sys, re, random
-fn, start, end, today = sys.argv[1:]
-facts = [
-    "Read about agentic AI workflows.",
-    "Improved automation logic.",
-    "Explored new ML evaluation tools.",
-    "Refined dataset structure.",
-    "Reviewed AI reliability papers."
-]
-with open(fn, "r", encoding="utf-8") as f:
-    txt = f.read()
-block = f"{start}\n**Today I learned:** {random.choice(facts)} • {today}\n{end}"
-txt = re.sub(start + r".*?" + end, block, txt, flags=re.S)
-with open(fn, "w", encoding="utf-8") as f:
-    f.write(txt)
-PY
-          fi
+          echo "Last update: $(date -u +%F)T$(date -u +%H:%M:%SZ)" > heartbeat.txt
 
       - name: Commit and push
         env:
           GH_TOKEN: ${{ secrets.PAT_PUSH }}
+        shell: bash
         run: |
           set -e
           git config user.name "Aviv Geron"
           git config user.email "geron.aviv@hotmail.com"
-          if ! git diff --quiet; then
-            git add README.md
-            git commit -m "chore: heartbeat"
-            git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}" HEAD:main
-          else
-            echo "No changes"
-          fi
+          git add heartbeat.txt
+          git commit -m "chore: heartbeat" || echo "No changes to commit"
+          git push "https://x-access-token:${GH_TOKEN}@github.com/${{github.repository}}" HEAD:main
