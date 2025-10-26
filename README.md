@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Aviv Geron
 
+[![Daily heartbeat](https://github.com/AG571/avivgeron/actions/workflows/heartbeat.yml/badge.svg)](https://github.com/AG571/avivgeron/actions/workflows/heartbeat.yml)
+
 ### AI Operations & ML Specialist  
 Automating QA, moderation, and intelligent workflows.  
 10+ years delivering measurable impact through data-driven operations and automation.
