@@ -1,36 +1,65 @@
 name: Daily README heartbeat
 on:
   schedule:
-    - cron: "15 07 * * *"   # Runs every day at 07:15 UTC
-  workflow_dispatch:        # Allow manual run from the Actions tab
+    - cron: "15 07 * * *"   # daily 07:15 UTC
+  workflow_dispatch:
+
 permissions:
   contents: write
 
 jobs:
-  update:
+  heartbeat:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Update README section
+        shell: bash
         run: |
+          set -euo pipefail
+          FILE="README.md"
           START="<!-- TIL-START -->"
           END="<!-- TIL-END -->"
-          TODAY=$(date -u +"%Y-%m-%d")
-          FACTS=("Read about agentic AI workflows." "Improved automation logic." "Explored new ML evaluation tools." "Refined dataset structure." "Reviewed AI reliability papers.")
-          PICK=${FACTS[$RANDOM % ${#FACTS[@]}]}
-          NEW="$START
-**Today I learned:** $PICK • $TODAY
-$END"
-          perl -0777 -pe "s|$START.*?$END|$NEW|s" -i README.md
 
-      - name: Commit and push as Aviv
+          # Ensure markers exist
+          if ! grep -q "$START" "$FILE" || ! grep -q "$END" "$FILE"; then
+            {
+              echo ""
+              echo "$START"
+              echo "**Today I learned:** First heartbeat • $(date -u +'%Y-%m-%d')"
+              echo "$END"
+            } >> "$FILE"
+          else
+            python3 - <<'PY'
+import re, random, datetime
+fn = "README.md"
+with open(fn, "r", encoding="utf-8") as f:
+    txt = f.read()
+start = "<!-- TIL-START -->"
+end = "<!-- TIL-END -->"
+facts = [
+    "Read about agentic AI workflows.",
+    "Improved automation logic.",
+    "Explored new ML evaluation tools.",
+    "Refined dataset structure.",
+    "Reviewed AI reliability papers."
+]
+today = datetime.datetime.utcnow().strftime("%Y-%m-%d")
+block = f"{start}\n**Today I learned:** {random.choice(facts)} • {today}\n{end}"
+new = re.sub(start + r".*?" + end, block, txt, flags=re.S)
+with open(fn, "w", encoding="utf-8") as f:
+    f.write(new)
+PY
+          fi
+
+      - name: Commit and push
         env:
           GH_TOKEN: ${{ secrets.PAT_PUSH }}
         run: |
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git config user.name "Aviv Geron"
-            git config user.email "geron.aviv@hotmail.com"
+          git config user.name "Aviv Geron"
+          git config user.email "geron.aviv@hotmail.com"
+          if ! git diff --quiet; then
             git add README.md
             git commit -m "chore: daily heartbeat update"
             git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} HEAD:main
