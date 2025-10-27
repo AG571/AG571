@@ -3,7 +3,7 @@ name: Daily heartbeat
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 07 * * *'  # 07:15 UTC daily
+    - cron: '15 07 * * *'  # every day at 07:15 UTC
 
 permissions:
   contents: write
@@ -11,6 +11,7 @@ permissions:
 jobs:
   hb:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -22,81 +23,53 @@ jobs:
 
       - name: Install deps
         run: |
-          pip install feedparser beautifulsoup4 tldextract
+          python -m pip install --upgrade pip
+          pip install requests pyyaml
 
       - name: Build AI news summary and update README
-        shell: python
         run: |
-          import datetime, re, pathlib, textwrap, html
-          import feedparser, tldextract
-          from bs4 import BeautifulSoup
+          import requests, re, datetime, pathlib
 
           README_PATH = pathlib.Path("README.md")
-          readme = README_PATH.read_text(encoding="utf-8")
-
           START = "<!--START_HEARTBEAT-->"
-          END   = "<!--END_HEARTBEAT-->"
-          UTC_NOW = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+          END = "<!--END_HEARTBEAT-->"
+          today = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
-          # Google News RSS for AI (English, UK)
-          RSS = "https://news.google.com/rss/search?q=artificial+intelligence+OR+AI&hl=en-GB&gl=GB&ceid=GB:en"
-          d = feedparser.parse(RSS)
-          entries = d.entries[:5]  # top 5
+          # Fetch top AI news
+          try:
+              resp = requests.get("https://api.thenewsapi.com/v1/news/all?search=artificial%20intelligence&language=en&api_token=demo")
+              data = resp.json().get("data", [])[:3]
+              news = "\n".join([f"- [{n['title']}]({n['url']})" for n in data]) if data else "No new AI news today."
+          except Exception as e:
+              news = f"(Error fetching news: {e})"
 
-          def clean_html(s):
-              if not s: return ""
-              return BeautifulSoup(s, "html.parser").get_text(" ", strip=True)
+          block = f"{START}\n\n**Last update:** {today}\n\n{news}\n\n{END}"
 
-          def host_of(url):
-              try:
-                  ext = tldextract.extract(url)
-                  host = ".".join([p for p in [ext.domain, ext.suffix] if p])
-                  return host or "source"
-              except Exception:
-                  return "source"
-
-          bullets = []
-          for e in entries:
-              title = (getattr(e, "title", "") or "").strip().replace("\n", " ")
-              link  = (getattr(e, "link", "") or "").strip()
-              desc  = clean_html(getattr(e, "summary", "")) or clean_html(getattr(e, "description", ""))
-              # Make a tight one-liner summary
-              if desc:
-                  desc = desc.replace("…", "...")
-                  if len(desc) > 180:
-                      desc = desc[:177].rsplit(" ", 1)[0] + "..."
-              host = host_of(link)
-              if title and link:
-                  bullets.append(f"- **{title}** — {desc} *(via {host})* → [{host}]({link})")
-
-          if not bullets:
-              bullets = ["- _No AI news found today_"]
-
-          new_block = "\n".join([
-              START,
-              f"Last update: **{UTC_NOW}**",
-              "",
-              "### Today’s AI news summary",
-              *bullets,
-              END
-          ])
-
-          pattern = re.compile(re.escape(START) + r"[\\s\\S]*?" + re.escape(END), re.M)
-          updated = pattern.sub(new_block, readme) if pattern.search(readme) else (readme.rstrip() + "\n\n" + new_block + "\n")
-
+          readme = README_PATH.read_text(encoding="utf-8")
+          pattern = re.compile(f"{START}[\\s\\S]*?{END}", re.M)
+          updated = pattern.sub(block, readme) if pattern.search(readme) else readme.rstrip() + "\n\n" + block
           README_PATH.write_text(updated, encoding="utf-8")
 
       - name: Commit and push
         env:
-          GH_TOKEN: ${{secrets.PAT_PUSH}}
+          GH_TOKEN: ${{ secrets.PAT_PUSH }}
         shell: bash
         run: |
-          set -e
-          git config user.name  "Aviv Geron"
+          set -euxo pipefail
+
+          git config user.name "Aviv Geron"
           git config user.email "geron.aviv@hotmail.com"
-          if ! git diff --quiet; then
+
+          echo "Repo: ${{ github.repository }}"
+          echo "Branch (ref): ${GITHUB_REF_NAME:-$(git rev-parse --abbrev-ref HEAD)}"
+
+          # Show status before deciding to commit
+          git status --porcelain || true
+
+          if ! git diff --quiet -- README.md; then
             git add README.md
             git commit -m "chore: daily AI news summary"
-            git push "https://x-access-token:${GH_TOKEN}@github.com/${{github.repository}}" HEAD:main
+            git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" HEAD:${GITHUB_REF_NAME:-main}
           else
             echo "No changes to commit"
+          fi
