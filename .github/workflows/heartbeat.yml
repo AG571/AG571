@@ -3,7 +3,7 @@ name: Daily heartbeat
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 07 * * *'  # daily 07:15 UTC
+    - cron: '15 07 * * *'  # 07:15 UTC daily
 
 permissions:
   contents: write
@@ -15,20 +15,88 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Write heartbeat file
-        shell: bash
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install deps
         run: |
-          set -e
-          echo "Last update: $(date -u +%F)T$(date -u +%H:%M:%SZ)" > heartbeat.txt
+          pip install feedparser beautifulsoup4 tldextract
+
+      - name: Build AI news summary and update README
+        shell: python
+        run: |
+          import datetime, re, pathlib, textwrap, html
+          import feedparser, tldextract
+          from bs4 import BeautifulSoup
+
+          README_PATH = pathlib.Path("README.md")
+          readme = README_PATH.read_text(encoding="utf-8")
+
+          START = "<!--START_HEARTBEAT-->"
+          END   = "<!--END_HEARTBEAT-->"
+          UTC_NOW = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+
+          # Google News RSS for AI (English, UK)
+          RSS = "https://news.google.com/rss/search?q=artificial+intelligence+OR+AI&hl=en-GB&gl=GB&ceid=GB:en"
+          d = feedparser.parse(RSS)
+          entries = d.entries[:5]  # top 5
+
+          def clean_html(s):
+              if not s: return ""
+              return BeautifulSoup(s, "html.parser").get_text(" ", strip=True)
+
+          def host_of(url):
+              try:
+                  ext = tldextract.extract(url)
+                  host = ".".join([p for p in [ext.domain, ext.suffix] if p])
+                  return host or "source"
+              except Exception:
+                  return "source"
+
+          bullets = []
+          for e in entries:
+              title = (getattr(e, "title", "") or "").strip().replace("\n", " ")
+              link  = (getattr(e, "link", "") or "").strip()
+              desc  = clean_html(getattr(e, "summary", "")) or clean_html(getattr(e, "description", ""))
+              # Make a tight one-liner summary
+              if desc:
+                  desc = desc.replace("…", "...")
+                  if len(desc) > 180:
+                      desc = desc[:177].rsplit(" ", 1)[0] + "..."
+              host = host_of(link)
+              if title and link:
+                  bullets.append(f"- **{title}** — {desc} *(via {host})* → [{host}]({link})")
+
+          if not bullets:
+              bullets = ["- _No AI news found today_"]
+
+          new_block = "\n".join([
+              START,
+              f"Last update: **{UTC_NOW}**",
+              "",
+              "### Today’s AI news summary",
+              *bullets,
+              END
+          ])
+
+          pattern = re.compile(re.escape(START) + r"[\\s\\S]*?" + re.escape(END), re.M)
+          updated = pattern.sub(new_block, readme) if pattern.search(readme) else (readme.rstrip() + "\n\n" + new_block + "\n")
+
+          README_PATH.write_text(updated, encoding="utf-8")
 
       - name: Commit and push
         env:
-          GH_TOKEN: ${{ secrets.PAT_PUSH }}
+          GH_TOKEN: ${{secrets.PAT_PUSH}}
         shell: bash
         run: |
           set -e
-          git config user.name "Aviv Geron"
+          git config user.name  "Aviv Geron"
           git config user.email "geron.aviv@hotmail.com"
-          git add heartbeat.txt
-          git commit -m "chore: heartbeat" || echo "No changes to commit"
-          git push "https://x-access-token:${GH_TOKEN}@github.com/${{github.repository}}" HEAD:main
+          if ! git diff --quiet; then
+            git add README.md
+            git commit -m "chore: daily AI news summary"
+            git push "https://x-access-token:${GH_TOKEN}@github.com/${{github.repository}}" HEAD:main
+          else
+            echo "No changes to commit"
