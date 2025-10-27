@@ -19,4 +19,13 @@ Automating QA, moderation, and intelligent workflows.
 ### 🧠 Areas of Interest
 - AI governance & operational integrity  
 - Agentic automation and self-correcting systems  
-- Data labeling pipelines & model lifecycle optimization  
+- Data labeling pipelines & model lifecycle optimization
+
+---
+
+## 💡 Latest Learnings
+_Auto-updated daily from my AI Heartbeat_
+
+<!--START_HEARTBEAT-->
+Last update: (none yet)
+<!--END_HEARTBEAT-->
