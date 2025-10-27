@@ -27,5 +27,11 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: (none yet)
+
+**Last update:** 2025-10-27 23:13 UTC
+
+- [China may match or beat America in AI](https://www.economist.com/news/business/21725018-its-deep-pool-data-may-let-it-lead-artificial-intelligence-china-may-match-or-beat-america)
+- [Ask HN: How to learn AI from first principles?](https://news.ycombinator.com/item?id=42827913)
+- [Ask HN: Game devs, what is the hardest part about designing an AI for your game?](https://news.ycombinator.com/item?id=19321637)
+
 <!--END_HEARTBEAT-->
