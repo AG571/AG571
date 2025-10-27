@@ -23,7 +23,7 @@ Automating QA, moderation, and intelligent workflows.
 
 ---
 
-## 💡 Latest Learnings
+### 💡 Latest Learnings
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
