@@ -3,7 +3,7 @@ name: Daily heartbeat
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 07 * * *'  # every day at 07:15 UTC
+    - cron: '15 07 * * *'  # 07:15 UTC daily (08:15 London when on BST)
 
 permissions:
   contents: write
@@ -27,28 +27,48 @@ jobs:
           pip install requests pyyaml
 
       - name: Build AI news summary and update README
+        shell: bash
         run: |
+          python - <<'PY'
           import requests, re, datetime, pathlib
 
           README_PATH = pathlib.Path("README.md")
           START = "<!--START_HEARTBEAT-->"
-          END = "<!--END_HEARTBEAT-->"
-          today = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+          END   = "<!--END_HEARTBEAT-->"
+          ts = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
-          # Fetch top AI news
-          try:
-              resp = requests.get("https://api.thenewsapi.com/v1/news/all?search=artificial%20intelligence&language=en&api_token=demo")
-              data = resp.json().get("data", [])[:3]
-              news = "\n".join([f"- [{n['title']}]({n['url']})" for n in data]) if data else "No new AI news today."
-          except Exception as e:
-              news = f"(Error fetching news: {e})"
+          # Fetch a few AI headlines (no auth needed)
+          def fetch_news():
+              try:
+                  r = requests.get(
+                      "https://hn.algolia.com/api/v1/search",
+                      params={
+                          "query": "AI OR 'artificial intelligence'",
+                          "tags": "story",
+                          "hitsPerPage": 5,
+                          "numericFilters": "points>50",
+                      },
+                      timeout=15,
+                  )
+                  r.raise_for_status()
+                  hits = r.json().get("hits", [])[:3]
+                  items = []
+                  for h in hits:
+                      title = h.get("title") or "(untitled)"
+                      url = h.get("url") or f"https://news.ycombinator.com/item?id={h.get('objectID')}"
+                      items.append(f"- [{title}]({url})")
+                  return "\n".join(items) if items else "No fresh AI headlines today."
+              except Exception as e:
+                  return f"(Error fetching news: {e})"
 
-          block = f"{START}\n\n**Last update:** {today}\n\n{news}\n\n{END}"
+          news_md = fetch_news()
+          block = f"{START}\n\n**Last update:** {ts}\n\n{news_md}\n\n{END}"
 
-          readme = README_PATH.read_text(encoding="utf-8")
+          text = README_PATH.read_text(encoding="utf-8")
           pattern = re.compile(f"{START}[\\s\\S]*?{END}", re.M)
-          updated = pattern.sub(block, readme) if pattern.search(readme) else readme.rstrip() + "\n\n" + block
+          updated = pattern.sub(block, text) if pattern.search(text) else text.rstrip() + "\n\n" + block
           README_PATH.write_text(updated, encoding="utf-8")
+          PY
 
       - name: Commit and push
         env:
@@ -57,13 +77,10 @@ jobs:
         run: |
           set -euxo pipefail
 
-          git config user.name "Aviv Geron"
+          git config user.name  "Aviv Geron"
           git config user.email "geron.aviv@hotmail.com"
 
-          echo "Repo: ${{ github.repository }}"
-          echo "Branch (ref): ${GITHUB_REF_NAME:-$(git rev-parse --abbrev-ref HEAD)}"
-
-          # Show status before deciding to commit
+          # show status for debugging
           git status --porcelain || true
 
           if ! git diff --quiet -- README.md; then
