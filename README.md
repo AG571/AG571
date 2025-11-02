@@ -28,7 +28,7 @@ _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
 
-**Last update:** 2025-11-01 07:28 UTC
+**Last update:** 2025-11-02 07:29 UTC
 
 - [China may match or beat America in AI](https://www.economist.com/news/business/21725018-its-deep-pool-data-may-let-it-lead-artificial-intelligence-china-may-match-or-beat-america)
 - [Ask HN: How to learn AI from first principles?](https://news.ycombinator.com/item?id=42827913)
