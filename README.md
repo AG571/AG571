@@ -27,11 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
+Last update: 2025-11-18 23:16 UTC
 
-**Last update:** 2025-11-18 07:37 UTC
-
-- [China may match or beat America in AI](https://www.economist.com/news/business/21725018-its-deep-pool-data-may-let-it-lead-artificial-intelligence-china-may-match-or-beat-america)
-- [Ask HN: How to learn AI from first principles?](https://news.ycombinator.com/item?id=42827913)
-- [Ask HN: Game devs, what is the hardest part about designing an AI for your game?](https://news.ycombinator.com/item?id=19321637)
-
+- [Google Chief Warns over Trillion-Dollar AI Bubble](https://www.findarticles.com/google-chief-warns-over-trillion-dollar-ai-bubble/) — Hacker News
+- [AI-powered opportunity identification from authentic entrepreneur discussions](https://foundry-iq.com) — Hacker News
+- [AI attacks demand a mental shift](https://softbeehive.com/blog/ai-attacks-demand-a-mental-shift) — Hacker News
 <!--END_HEARTBEAT-->
