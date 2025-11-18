@@ -3,7 +3,7 @@ name: Daily heartbeat
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 07 * * *'  # daily 07:15 UTC
+    - cron: '15 07 * * *'  # daily at 07:15 UTC
 
 permissions:
   contents: write
@@ -21,140 +21,120 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Build AI news summary and update README
-        run: |
-          python - << 'PY'
-          import requests, re, datetime, pathlib
+      # No dependency install step needed anymore
 
-          README_PATH = pathlib.Path("README.md")
+      - name: Build AI news summary and update README
+        env:
+          README_PATH: README.md
+        shell: bash
+        run: |
+          python << 'PY'
+          from pathlib import Path
+          import re
+          import json
+          import datetime as dt
+          import urllib.request
+          import ssl
+
+          README_PATH = Path("README.md")
           START = "<!--START_HEARTBEAT-->"
           END = "<!--END_HEARTBEAT-->"
 
-          # ---------- Data sources ----------
+          def fetch_json(url: str):
+            """Fetch JSON using stdlib urllib (no external deps)."""
+            ctx = ssl.create_default_context()
+            ctx.check_hostname = False
+            ctx.verify_mode = ssl.CERT_NONE
+            with urllib.request.urlopen(url, context=ctx, timeout=10) as resp:
+              data = resp.read()
+            return json.loads(data.decode("utf-8"))
 
-          def fetch_hn(limit: int = 4):
-              """Fetch AI-related stories from Hacker News."""
-              url = "https://hn.algolia.com/api/v1/search"
-              params = {"query": "AI", "tags": "story", "hitsPerPage": limit}
-              try:
-                  r = requests.get(url, params=params, timeout=10)
-                  r.raise_for_status()
-                  data = r.json()
-              except Exception as e:
-                  print(f"[WARN] Hacker News fetch failed: {e}")
-                  return []
+          articles = []
 
-              items = []
-              for hit in data.get("hits", []):
-                  title = hit.get("title")
-                  url = hit.get("url") or f"https://news.ycombinator.com/item?id={hit.get('objectID')}"
-                  if title and url:
-                      items.append({
-                          "title": title,
-                          "url": url,
-                          "source": "Hacker News",
-                      })
-              return items
+          # 1) Hacker News (Algolia API) - AI related stories
+          try:
+            hn_url = (
+              "https://hn.algolia.com/api/v1/search_by_date"
+              "?tags=story&query=AI&hitsPerPage=10"
+            )
+            hn_data = fetch_json(hn_url)
+            for hit in hn_data.get("hits", []):
+              title = hit.get("title") or hit.get("story_title")
+              url = hit.get("url") or hit.get("story_url")
+              if title and url:
+                articles.append((title.strip(), url, "Hacker News"))
+          except Exception as e:
+            print("HN fetch error:", e)
 
-          def fetch_reddit(limit: int = 4):
-              """Fetch top posts from r/MachineLearning."""
-              url = "https://www.reddit.com/r/MachineLearning/top.json"
-              params = {"t": "day", "limit": limit}
-              headers = {"User-Agent": "github-actions-heartbeat-ai-news/1.0"}
-              try:
-                  r = requests.get(url, params=params, headers=headers, timeout=10)
-                  r.raise_for_status()
-                  data = r.json()
-              except Exception as e:
-                  print(f"[WARN] Reddit fetch failed: {e}")
-                  return []
+          # 2) StackExchange AI site - recent questions
+          try:
+            se_url = (
+              "https://api.stackexchange.com/2.3/questions"
+              "?order=desc&sort=activity&tagged=artificial-intelligence"
+              "&site=ai&pagesize=10"
+            )
+            se_data = fetch_json(se_url)
+            for q in se_data.get("items", []):
+              title = q.get("title")
+              url = q.get("link")
+              if title and url:
+                articles.append((title.strip(), url, "StackExchange AI"))
+          except Exception as e:
+            print("StackExchange fetch error:", e)
 
-              items = []
-              for child in data.get("data", {}).get("children", []):
-                  d = child.get("data", {})
-                  title = d.get("title")
-                  external_url = d.get("url")
-                  permalink = d.get("permalink") or ""
-                  url = external_url or ("https://www.reddit.com" + permalink)
-                  if title and url:
-                      items.append({
-                          "title": title,
-                          "url": url,
-                          "source": "r/MachineLearning",
-                      })
-              return items
+          # Fallback if everything fails
+          if not articles:
+            articles = [
+              (
+                "How to learn AI from first principles",
+                "https://news.ycombinator.com/",
+                "Hacker News"
+              ),
+            ]
 
-          # ---------- Markdown builder ----------
+          # De-duplicate by URL and keep at most 3 items
+          seen = set()
+          unique = []
+          for title, url, source in articles:
+            if url in seen:
+              continue
+            seen.add(url)
+            unique.append((title, url, source))
+            if len(unique) >= 3:
+              break
 
-          def build_block(items, now_utc):
-              lines = []
-              lines.append(f"Last update: {now_utc:%Y-%m-%d %H:%M} UTC")
-              lines.append("")
-              if not items:
-                  lines.append(
-                      "- No fresh AI links found today. "
-                      "*(Sources checked: Hacker News, r/MachineLearning)*"
-                  )
-              else:
-                  for item in items:
-                      title = item["title"].replace("\n", " ").strip()
-                      url = item["url"]
-                      source = item["source"]
-                      lines.append(f"- [{title}]({url}) _(source: {source})_")
-              return "\n".join(lines)
+          now = dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
-          # ---------- Main logic ----------
+          # Build markdown block
+          lines = [
+            f"Last update: {now}",
+            "",
+          ]
+          for title, url, source in unique:
+            lines.append(f"- [{title}]({url}) — {source}")
 
-          def main():
-              now = datetime.datetime.utcnow()
+          block = "\n".join(lines)
 
-              try:
-                  readme = README_PATH.read_text(encoding="utf-8")
-              except FileNotFoundError:
-                  raise SystemExit("README.md not found")
+          readme = README_PATH.read_text(encoding="utf-8")
 
-              hn_items = fetch_hn(5)
-              reddit_items = fetch_reddit(5)
+          pattern = re.compile(
+            re.escape(START) + r"[\s\S]*?" + re.escape(END),
+            flags=re.M,
+          )
+          replacement = f"{START}\n{block}\n{END}"
 
-              # Merge + de-duplicate by URL, preserve order
-              combined = []
-              seen_urls = set()
-              for item in hn_items + reddit_items:
-                  key = item["url"]
-                  if key in seen_urls:
-                      continue
-                  seen_urls.add(key)
-                  combined.append(item)
-                  if len(combined) >= 5:
-                      break
+          if pattern.search(readme):
+            updated = pattern.sub(replacement, readme)
+          else:
+            updated = readme.rstrip() + "\n\n" + replacement + "\n"
 
-              new_block = build_block(combined, now)
-
-              pattern = re.compile(
-                  re.escape(START) + r"[\s\S]*?" + re.escape(END),
-                  re.M,
-              )
-              replacement = f"{START}\n{new_block}\n{END}"
-
-              if pattern.search(readme):
-                  updated = pattern.sub(replacement, readme)
-              else:
-                  # If markers were missing, append them at the end
-                  updated = readme.rstrip() + "\n\n" + replacement + "\n"
-
-              if updated != readme:
-                  README_PATH.write_text(updated, encoding="utf-8")
-                  print("README.md updated with fresh AI links.")
-              else:
-                  print("No changes to README; content is identical.")
-
-          if __name__ == "__main__":
-              main()
+          README_PATH.write_text(updated, encoding="utf-8")
           PY
 
       - name: Commit and push
         env:
           GH_TOKEN: ${{ secrets.PAT_PUSH }}
+        shell: bash
         run: |
           set -euo pipefail
 
