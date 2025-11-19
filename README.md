@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-11-18 23:16 UTC
+Last update: 2025-11-19 07:35 UTC
 
-- [Google Chief Warns over Trillion-Dollar AI Bubble](https://www.findarticles.com/google-chief-warns-over-trillion-dollar-ai-bubble/) — Hacker News
-- [AI-powered opportunity identification from authentic entrepreneur discussions](https://foundry-iq.com) — Hacker News
-- [AI attacks demand a mental shift](https://softbeehive.com/blog/ai-attacks-demand-a-mental-shift) — Hacker News
+- [Show HN: Slopper: Private AI Replies](https://play.google.com/store/apps/details?id=com.indrek.slopper&hl=en_US) — Hacker News
+- [How to bring a Product Manager dream into reality with AI](https://medium.com/@mketab86/how-to-bring-a-product-manager-dream-into-reality-with-ai-512f7f27a1b3) — Hacker News
+- [Show HN: I blogged about Google Antigravity using Antigravity](https://blog.tldrversion.com/posts/google-antigravity) — Hacker News
 <!--END_HEARTBEAT-->
