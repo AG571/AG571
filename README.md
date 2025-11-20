@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-11-19 07:35 UTC
+Last update: 2025-11-20 07:34 UTC
 
-- [Show HN: Slopper: Private AI Replies](https://play.google.com/store/apps/details?id=com.indrek.slopper&hl=en_US) — Hacker News
-- [How to bring a Product Manager dream into reality with AI](https://medium.com/@mketab86/how-to-bring-a-product-manager-dream-into-reality-with-ai-512f7f27a1b3) — Hacker News
-- [Show HN: I blogged about Google Antigravity using Antigravity](https://blog.tldrversion.com/posts/google-antigravity) — Hacker News
+- [Ainekko Buys Esperanto RISC-V Edge Inference Hardware IP, Open-Sources It](https://www.eetimes.com/ainekko-buys-esperanto-hardware-ip-open-sources-it/) — Hacker News
+- [CES Munich Lectures Economics: AI and the Work of the Future [video]](https://www.youtube.com/watch?v=R4P7BTBhnrY) — Hacker News
+- [TalkAny: Free English Speaking Practice – Unlimited AI Voice Chats 24/7](https://talkany.app) — Hacker News
 <!--END_HEARTBEAT-->
