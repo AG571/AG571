@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-11-20 07:34 UTC
+Last update: 2025-11-21 07:37 UTC
 
-- [Ainekko Buys Esperanto RISC-V Edge Inference Hardware IP, Open-Sources It](https://www.eetimes.com/ainekko-buys-esperanto-hardware-ip-open-sources-it/) — Hacker News
-- [CES Munich Lectures Economics: AI and the Work of the Future [video]](https://www.youtube.com/watch?v=R4P7BTBhnrY) — Hacker News
-- [TalkAny: Free English Speaking Practice – Unlimited AI Voice Chats 24/7](https://talkany.app) — Hacker News
+- [Developing an AI Strategy for Documentation](https://thisisimportant.net/posts/ai-strategy-for-documentation/) — Hacker News
+- [DeepSeek writes insecure code if prompt mentions topics restricted in China](https://www.crowdstrike.com/en-us/blog/crowdstrike-researchers-identify-hidden-vulnerabilities-ai-coded-software/) — Hacker News
+- [Show HN: Yoink – Copy any website's design system for your AI coding assistant](https://github.com/andersmyrmel/yoink) — Hacker News
 <!--END_HEARTBEAT-->
