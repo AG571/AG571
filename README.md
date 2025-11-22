@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-11-21 07:37 UTC
+Last update: 2025-11-22 07:30 UTC
 
-- [Developing an AI Strategy for Documentation](https://thisisimportant.net/posts/ai-strategy-for-documentation/) — Hacker News
-- [DeepSeek writes insecure code if prompt mentions topics restricted in China](https://www.crowdstrike.com/en-us/blog/crowdstrike-researchers-identify-hidden-vulnerabilities-ai-coded-software/) — Hacker News
-- [Show HN: Yoink – Copy any website's design system for your AI coding assistant](https://github.com/andersmyrmel/yoink) — Hacker News
+- [L2M: Claude Code but for legacy code modernization](https://github.com/astrio-ai/l2m) — Hacker News
+- [Memory chips could be the next bottleneck for AI (2024)](https://economist.com/business/2024/10/24/memory-chips-could-be-the-next-bottleneck-for-ai) — Hacker News
+- [Project Sapphire (1995)](https://www.airandspaceforces.com/article/0895sapphire/) — Hacker News
 <!--END_HEARTBEAT-->
