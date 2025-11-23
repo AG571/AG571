@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-11-22 07:30 UTC
+Last update: 2025-11-23 07:27 UTC
 
-- [L2M: Claude Code but for legacy code modernization](https://github.com/astrio-ai/l2m) — Hacker News
-- [Memory chips could be the next bottleneck for AI (2024)](https://economist.com/business/2024/10/24/memory-chips-could-be-the-next-bottleneck-for-ai) — Hacker News
-- [Project Sapphire (1995)](https://www.airandspaceforces.com/article/0895sapphire/) — Hacker News
+- [Show HN: Chemistry AI – A step-by-step chemistry solver for students](https://chemistryai.chat) — Hacker News
+- [Show HN: AI Watermarkremover](https://aiwatermarkremover.online/chatgpt-watermark-remover) — Hacker News
+- [AI Horror Stories](https://whenaifail.com/category/ai-coding/) — Hacker News
 <!--END_HEARTBEAT-->
