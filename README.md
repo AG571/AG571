@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-11-23 07:27 UTC
+Last update: 2025-11-24 07:29 UTC
 
-- [Show HN: Chemistry AI – A step-by-step chemistry solver for students](https://chemistryai.chat) — Hacker News
-- [Show HN: AI Watermarkremover](https://aiwatermarkremover.online/chatgpt-watermark-remover) — Hacker News
-- [AI Horror Stories](https://whenaifail.com/category/ai-coding/) — Hacker News
+- [AI Document Processing with Docling Java, Arconia, and Spring Boot](https://www.thomasvitale.com/ai-document-processing-docling-java-arconia-spring-boot/) — Hacker News
+- [Why Starting Simple Is Your Secret Weapon in the AI-Assisted Development Era](https://practicalsecurity.substack.com/p/why-starting-simple-is-your-secret) — Hacker News
+- [Nano Banana Pro and 2.0 AI](https://www.nanobanana-pro.app) — Hacker News
 <!--END_HEARTBEAT-->
