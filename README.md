@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-11-24 07:29 UTC
+Last update: 2025-11-25 07:29 UTC
 
-- [AI Document Processing with Docling Java, Arconia, and Spring Boot](https://www.thomasvitale.com/ai-document-processing-docling-java-arconia-spring-boot/) — Hacker News
-- [Why Starting Simple Is Your Secret Weapon in the AI-Assisted Development Era](https://practicalsecurity.substack.com/p/why-starting-simple-is-your-secret) — Hacker News
-- [Nano Banana Pro and 2.0 AI](https://www.nanobanana-pro.app) — Hacker News
+- [Collection of LLMs that run well in 32gb VRAM](https://huggingface.co/collections/easiest-ai-shawn/rtx-5090-example-models-unfiltered) — Hacker News
+- [The Airport-Lounge Wars](https://www.newyorker.com/magazine/2025/12/01/the-airport-lounge-wars) — Hacker News
+- [Instructions for generating AI porn posted on .gov website](https://bakersfieldnow.com/news/local/nude-ai-deepfake-instructions-posted-on-local-air-quality-district-website) — Hacker News
 <!--END_HEARTBEAT-->
