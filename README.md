@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-11-26 07:29 UTC
+Last update: 2025-11-27 07:30 UTC
 
-- [Show HN: RapGenerator – Turn lyrics/ideas into full rap tracks (no music skills)](https://rapgenerator.online/) — Hacker News
-- [Show HN: InterviewFlowAI – AI phone and Meet interviews for fast screening](https://interviewflowai.com/) — Hacker News
-- [Show HN: Aithings.dev – a directory for AI tools, resources, and communities](https://www.aithings.dev/) — Hacker News
+- [A Deep Dive into MCP and the Future of AI Tooling](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/) — Hacker News
+- [California prosecutors used AI to file inaccurate motion in criminal case](https://www.theguardian.com/us-news/2025/nov/26/prosecutor-ai-inaccurate-motion) — Hacker News
+- [Palo Alto Networks to Acquire Chronosphere (Creators of M3DB)](https://www.paloaltonetworks.com/company/press/2025/palo-alto-networks-to-acquire-chronosphere--next-gen-observability-leader--for-the-ai-era) — Hacker News
 <!--END_HEARTBEAT-->
