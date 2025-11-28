@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-11-27 07:30 UTC
+Last update: 2025-11-28 07:29 UTC
 
-- [A Deep Dive into MCP and the Future of AI Tooling](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/) — Hacker News
-- [California prosecutors used AI to file inaccurate motion in criminal case](https://www.theguardian.com/us-news/2025/nov/26/prosecutor-ai-inaccurate-motion) — Hacker News
-- [Palo Alto Networks to Acquire Chronosphere (Creators of M3DB)](https://www.paloaltonetworks.com/company/press/2025/palo-alto-networks-to-acquire-chronosphere--next-gen-observability-leader--for-the-ai-era) — Hacker News
+- [Show HN: SiteIQ – LLM and Web security testing tool (built by a high schooler)](https://github.com/sastrophy/siteiq) — Hacker News
+- [Professional Headshots: Why Your Corporate Image Matters More Than You Think](https://www.aiheadshotreviews.com/articles/professional-headshots-guide) — Hacker News
+- [Heyoner Mario Logo: AI Builds Retro Gaming Brand Identity for Model Figure Shops](https://www.ailogocreator.io/blog/heyoner-mario-logo-ai-builds-retro-gaming-brand-identity-for-model-figure-shops) — Hacker News
 <!--END_HEARTBEAT-->
