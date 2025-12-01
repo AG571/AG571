@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-11-30 07:26 UTC
+Last update: 2025-12-01 07:32 UTC
 
-- [Zero click interface interaction design in the age of AI](https://medium.com/@pacificleo/zero-click-interface-interaction-design-in-the-age-of-artificial-intellegence-40cfaab7c2dc) — Hacker News
-- [OpenAdServer – A self-hosted ad server in Python, aiming to replace Revive"](https://github.com/seanZhang414/openadserver) — Hacker News
-- [Italy's Competition Watchdog Broadens WhatsApp AI Policy Probe](https://www.wsj.com/tech/ai/italys-competition-watchdog-broadens-whatsapp-ai-policy-probe-64c904cd) — Hacker News
+- [Show HN: Can you spot AI-generated content? (spoiler: probably not)](https://valid-human.vercel.app/) — Hacker News
+- [The hottest Stanford computer science class is embracing, not banning, AI tools](https://www.businessinsider.com/uneasy-time-to-be-a-computer-science-student-at-stanford-2025-11) — Hacker News
+- [Show HN: Photo app that does just one thing – no stories/reels/algorithm](https://www.drfts.app/) — Hacker News
 <!--END_HEARTBEAT-->
