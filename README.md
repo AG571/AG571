@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-01 07:32 UTC
+Last update: 2025-12-02 07:32 UTC
 
-- [Show HN: Can you spot AI-generated content? (spoiler: probably not)](https://valid-human.vercel.app/) — Hacker News
-- [The hottest Stanford computer science class is embracing, not banning, AI tools](https://www.businessinsider.com/uneasy-time-to-be-a-computer-science-student-at-stanford-2025-11) — Hacker News
-- [Show HN: Photo app that does just one thing – no stories/reels/algorithm](https://www.drfts.app/) — Hacker News
+- [China claims 3D hybrid bonding techniques for 120 TFLOPS of power](https://www.tomshardware.com/tech-industry/semiconductors/china-claims-14nm-ai-chip-can-rival-nvidia-4nm-gpus) — Hacker News
+- [Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://arxiv.org/abs/2511.07885) — Hacker News
+- [OpenAI's Altman Declares 'Code Red' to Improve ChatGPT](https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6) — Hacker News
 <!--END_HEARTBEAT-->
