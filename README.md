@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-03 07:31 UTC
+Last update: 2025-12-04 07:31 UTC
 
-- [AI receptionist, look for GTM cofounder](https://callpal.com) — Hacker News
-- [Show HN: An AI environment to understand sources or topics](https://www.kerns.ai/) — Hacker News
-- [Search for Malaysia Airlines flight MH370 to resume](https://www.theguardian.com/world/2025/dec/03/search-for-malaysia-airline-flight-mh370-to-resume-over-11-years-after-plane-went-missing) — Hacker News
+- [Show HN: Crovia – offline-verifiable AI royalty evidence (CEP.v1)](https://github.com/croviatrust/crovia-core) — Hacker News
+- [How AI is transforming work at Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic) — Hacker News
+- [Show HN: Wan 2.6 – Professional AI Video Generation with Reference Consistency](https://www.wan2-6.com/?i=d1d5k) — Hacker News
 <!--END_HEARTBEAT-->
