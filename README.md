@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-04 07:31 UTC
+Last update: 2025-12-05 07:31 UTC
 
-- [Show HN: Crovia – offline-verifiable AI royalty evidence (CEP.v1)](https://github.com/croviatrust/crovia-core) — Hacker News
-- [How AI is transforming work at Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic) — Hacker News
-- [Show HN: Wan 2.6 – Professional AI Video Generation with Reference Consistency](https://www.wan2-6.com/?i=d1d5k) — Hacker News
+- [BrainPredict – 445 AI models for business predictions, 100% on-premises](https://brainpredict.ai) — Hacker News
+- [Why AI coding has made me stop using Django [video]](https://www.youtube.com/watch?v=9rsBaTRI7Is) — Hacker News
+- [Free Beta: Fine-tuning SDK for LLMs, comments welcome](https://www.hpc-ai.com/fine-tuning) — Hacker News
 <!--END_HEARTBEAT-->
