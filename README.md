@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-05 07:31 UTC
+Last update: 2025-12-06 07:27 UTC
 
-- [BrainPredict – 445 AI models for business predictions, 100% on-premises](https://brainpredict.ai) — Hacker News
-- [Why AI coding has made me stop using Django [video]](https://www.youtube.com/watch?v=9rsBaTRI7Is) — Hacker News
-- [Free Beta: Fine-tuning SDK for LLMs, comments welcome](https://www.hpc-ai.com/fine-tuning) — Hacker News
+- [The Reverse-Centaur's Guide to Criticizing AI – Cory Doctorow](https://pluralistic.net/2025/12/05/pop-that-bubble/) — Hacker News
+- [Show HN: Infinite Lofi Generative Music](https://loopmaster.xyz/editor?aidj&prompt=lofi%20gentle%20music,%20dub&swap=60&mix=60&temperature=1.5&top_p=0.85) — Hacker News
+- [Debugger MCP Server – AI-Controlled Debugging for All JetBrains IDEs](https://plugins.jetbrains.com/plugin/29233-debugger-mcp-server) — Hacker News
 <!--END_HEARTBEAT-->
