@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-06 07:27 UTC
+Last update: 2025-12-07 07:26 UTC
 
-- [The Reverse-Centaur's Guide to Criticizing AI – Cory Doctorow](https://pluralistic.net/2025/12/05/pop-that-bubble/) — Hacker News
-- [Show HN: Infinite Lofi Generative Music](https://loopmaster.xyz/editor?aidj&prompt=lofi%20gentle%20music,%20dub&swap=60&mix=60&temperature=1.5&top_p=0.85) — Hacker News
-- [Debugger MCP Server – AI-Controlled Debugging for All JetBrains IDEs](https://plugins.jetbrains.com/plugin/29233-debugger-mcp-server) — Hacker News
+- [Think First, AI Second](https://every.to/p/think-first-ai-second) — Hacker News
+- [Show HN: Morph-AI-Era – Turn CSV files into interactive dashboards instantly](https://morph-ai-era.online) — Hacker News
+- [The Her Talking Phone May Have Arrived–She Speaks Chinese](https://www.scientificamerican.com/article/bytedance-launches-doubao-real-time-ai-voice-assistant-for-phones/) — Hacker News
 <!--END_HEARTBEAT-->
