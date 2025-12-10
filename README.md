@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-09 07:32 UTC
+Last update: 2025-12-10 07:33 UTC
 
-- [Socialism AI goes live on December 12, 2025](https://www.wsws.org/en/articles/2025/12/08/jfjv-d08.html) — Hacker News
-- [The Chinese finance whizz whose DeepSeek AI model stunned the world](https://www.nature.com/articles/d41586-025-03845-4) — Hacker News
-- [Show HN: SafeGrub – Verify food restrictions using Gemini 2.5 and Grounding](https://safegrub-ai.com) — Hacker News
+- [Show HN: The Box – Run multiple Claude CLI agents in parallel in the cloud](https://the-box.dev) — Hacker News
+- [AI Model Timeline](https://www.aitimelines.club) — Hacker News
+- [LearnFlux: AI-Powered Learning Assistant](https://www.learnflux.net/) — Hacker News
 <!--END_HEARTBEAT-->
