@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-11 07:33 UTC
+Last update: 2025-12-12 07:32 UTC
 
-- [What I Look for in AI-Assisted PRs](https://benjamincongdon.me/blog/2025/12/10/What-I-Look-For-in-AI-Assisted-PRs/) — Hacker News
-- [AI Product Retention Crisis: Why Users Aren't Staying](https://medium.com/@gp2030/ai-product-retention-crisis-why-users-arent-staying-1ecb781ac5c2) — Hacker News
-- [China's AI Power Play: Cheap Electricity from Biggest Grid](https://www.wsj.com/tech/china-ai-electricity-data-centers-d2a86935) — Hacker News
+- [AI Accountants – FINA AI](https://fina.team/) — Hacker News
+- [Show HN: Stimm – Low-Latency Voice Agent Platform (Python/WebRTC)](https://github.com/stimm-ai/stimm) — Hacker News
+- [Disco is Google's new generative AI web app experience](https://blog.google/technology/google-labs/gentabs-gemini-3/) — Hacker News
 <!--END_HEARTBEAT-->
