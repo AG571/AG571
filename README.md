@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-12 07:32 UTC
+Last update: 2025-12-13 07:30 UTC
 
-- [AI Accountants – FINA AI](https://fina.team/) — Hacker News
-- [Show HN: Stimm – Low-Latency Voice Agent Platform (Python/WebRTC)](https://github.com/stimm-ai/stimm) — Hacker News
-- [Disco is Google's new generative AI web app experience](https://blog.google/technology/google-labs/gentabs-gemini-3/) — Hacker News
+- [Shaping the future of AI from the history of Transformer [2024]](https://docs.google.com/presentation/d/1u05yQQaw4QXLVYGLI6o3YoFHv6eC3YN8GvWD8JMumpE/edit?slide=id.g26e4534ad50_0_99#slide=id.g26e4534ad50_0_99) — Hacker News
+- [AI Can Write Your Code. It Can't Do Your Job](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/) — Hacker News
+- [Show HN: Zootopia OC Maker – Create Zootopia-Style Original Characters with AI](https://aiocmaker.com/oc-maker/zootopia-oc-maker) — Hacker News
 <!--END_HEARTBEAT-->
