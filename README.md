@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-13 07:30 UTC
+Last update: 2025-12-14 07:28 UTC
 
-- [Shaping the future of AI from the history of Transformer [2024]](https://docs.google.com/presentation/d/1u05yQQaw4QXLVYGLI6o3YoFHv6eC3YN8GvWD8JMumpE/edit?slide=id.g26e4534ad50_0_99#slide=id.g26e4534ad50_0_99) — Hacker News
-- [AI Can Write Your Code. It Can't Do Your Job](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/) — Hacker News
-- [Show HN: Zootopia OC Maker – Create Zootopia-Style Original Characters with AI](https://aiocmaker.com/oc-maker/zootopia-oc-maker) — Hacker News
+- [AI Analyzes Language as Well as a Human Expert](https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/) — Hacker News
+- [Theory and AI Alignment](https://scottaaronson.blog/?p=9333) — Hacker News
+- [Show HN: I built an AI that scans 10k Reddit comments to find 'Blue Ocean' ideas](https://blog.vect.pro/trend-hacking-guide) — Hacker News
 <!--END_HEARTBEAT-->
