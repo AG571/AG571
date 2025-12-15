@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-14 07:28 UTC
+Last update: 2025-12-15 07:34 UTC
 
-- [AI Analyzes Language as Well as a Human Expert](https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/) — Hacker News
-- [Theory and AI Alignment](https://scottaaronson.blog/?p=9333) — Hacker News
-- [Show HN: I built an AI that scans 10k Reddit comments to find 'Blue Ocean' ideas](https://blog.vect.pro/trend-hacking-guide) — Hacker News
+- [AI URI Scheme](https://www.ietf.org/archive/id/draft-sogomonian-ai-uri-scheme-01.html) — Hacker News
+- [Building AI-Powered Image Generation with OpenAI-Compatible Responses API](https://vllora.dev/blog/building-ai-powered-image-gen-responses-api/) — Hacker News
+- [Nvidia-backed Starcloud trains first AI model in space, orbital data centers](https://www.cnbc.com/2025/12/10/nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html) — Hacker News
 <!--END_HEARTBEAT-->
