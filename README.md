@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-15 07:34 UTC
+Last update: 2025-12-16 07:33 UTC
 
-- [AI URI Scheme](https://www.ietf.org/archive/id/draft-sogomonian-ai-uri-scheme-01.html) — Hacker News
-- [Building AI-Powered Image Generation with OpenAI-Compatible Responses API](https://vllora.dev/blog/building-ai-powered-image-gen-responses-api/) — Hacker News
-- [Nvidia-backed Starcloud trains first AI model in space, orbital data centers](https://www.cnbc.com/2025/12/10/nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html) — Hacker News
+- [US Government launches 'Tech Force' to hire AI talent](https://www.cnn.com/2025/12/15/tech/government-tech-force-ai) — Hacker News
+- [The Turtle Pipeline: How Safety Layers Cause Overprocessing in AI](https://substack.com/inbox/post/181702158) — Hacker News
+- [Teaching a Modern AI to Think Like a Commodore 64 [video]](https://www.youtube.com/watch?v=PyUuLYJLhUA) — Hacker News
 <!--END_HEARTBEAT-->
