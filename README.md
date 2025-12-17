@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-16 07:33 UTC
+Last update: 2025-12-17 07:32 UTC
 
-- [US Government launches 'Tech Force' to hire AI talent](https://www.cnn.com/2025/12/15/tech/government-tech-force-ai) — Hacker News
-- [The Turtle Pipeline: How Safety Layers Cause Overprocessing in AI](https://substack.com/inbox/post/181702158) — Hacker News
-- [Teaching a Modern AI to Think Like a Commodore 64 [video]](https://www.youtube.com/watch?v=PyUuLYJLhUA) — Hacker News
+- [Wol AI – The AI workspace that gets shit done](https://wolai.lovable.app/) — Hacker News
+- [Show HN: Tuby.dev – Indexing Rails videos via Vision AI code analysis](https://tuby.dev/) — Hacker News
+- [Book Review: Algorithms of Armageddon: Impact of AI on Future Wars](https://ssi.armywarcollege.edu/SSI-Media/Recent-Publications/Article/4311743/book-review-algorithms-of-armageddon-the-impact-of-artificial-intelligence-on-f/) — Hacker News
 <!--END_HEARTBEAT-->
