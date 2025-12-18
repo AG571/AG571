@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-17 07:32 UTC
+Last update: 2025-12-18 07:32 UTC
 
-- [Wol AI – The AI workspace that gets shit done](https://wolai.lovable.app/) — Hacker News
-- [Show HN: Tuby.dev – Indexing Rails videos via Vision AI code analysis](https://tuby.dev/) — Hacker News
-- [Book Review: Algorithms of Armageddon: Impact of AI on Future Wars](https://ssi.armywarcollege.edu/SSI-Media/Recent-Publications/Article/4311743/book-review-algorithms-of-armageddon-the-impact-of-artificial-intelligence-on-f/) — Hacker News
+- [BrainPredict – 445 on‑prem AI models for business predictions, no LLMs](https://brainpredict.ai) — Hacker News
+- [Google TPU for AI Inference](https://www.naddod.com/ai-insights/google-tpu-the-ai-chip-for-the-ai-inference-era) — Hacker News
+- [Why Venture Capital Misunderstands the Power Law](https://www.alphanome.ai/post/the-map-is-not-the-territory-why-venture-capital-misunderstands-the-power-law) — Hacker News
 <!--END_HEARTBEAT-->
