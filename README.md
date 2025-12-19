@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-18 07:32 UTC
+Last update: 2025-12-19 07:32 UTC
 
-- [BrainPredict – 445 on‑prem AI models for business predictions, no LLMs](https://brainpredict.ai) — Hacker News
-- [Google TPU for AI Inference](https://www.naddod.com/ai-insights/google-tpu-the-ai-chip-for-the-ai-inference-era) — Hacker News
-- [Why Venture Capital Misunderstands the Power Law](https://www.alphanome.ai/post/the-map-is-not-the-territory-why-venture-capital-misunderstands-the-power-law) — Hacker News
+- [Ditch textbooks and learn how to use a wrench to AI-proof your job?](https://www.economist.com/international/2025/12/18/ditch-textbooks-and-learn-how-to-use-a-wrench-to-ai-proof-your-job) — Hacker News
+- [Swipe Ready AI Dating Photo Generator](https://swipeready.net/) — Hacker News
+- [What the hyperproduction of AI slop is doing to science](https://theconversation.com/what-the-hyperproduction-of-ai-slop-is-doing-to-science-272250) — Hacker News
 <!--END_HEARTBEAT-->
