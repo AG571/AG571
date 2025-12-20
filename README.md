@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-19 07:32 UTC
+Last update: 2025-12-20 07:27 UTC
 
-- [Ditch textbooks and learn how to use a wrench to AI-proof your job?](https://www.economist.com/international/2025/12/18/ditch-textbooks-and-learn-how-to-use-a-wrench-to-ai-proof-your-job) — Hacker News
-- [Swipe Ready AI Dating Photo Generator](https://swipeready.net/) — Hacker News
-- [What the hyperproduction of AI slop is doing to science](https://theconversation.com/what-the-hyperproduction-of-ai-slop-is-doing-to-science-272250) — Hacker News
+- [We asked four AI coding agents to rebuild Minesweeper–the results were explosive](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) — Hacker News
+- [Show HN: HiFidelity – A native macOS offline audiophile music player](https://rvarunrathod.github.io/HiFidelity/) — Hacker News
+- [Show HN: One Thing at a Time Please – A Kanban board with one ticket slot](https://onethingatatimeplease.com/) — Hacker News
 <!--END_HEARTBEAT-->
