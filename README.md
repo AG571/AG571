@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-21 07:29 UTC
+Last update: 2025-12-22 07:33 UTC
 
-- [Clair Obscur has 'Game of the Year" title stripped away over AI use](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/) — Hacker News
-- [Show HN: Free Roblox GamePlay Video Generator Tool (Inreels.ai)](https://www.inreels.ai/tools/free-roblox-video-maker) — Hacker News
-- [New study reveals that AI cannot write like a human](https://www.ucc.ie/en/news/2025/new-study-reveals-that-ai-cannot-fully-write-like-a-human.html) — Hacker News
+- [I announced my divorce on Instagram and then AI impersonated me](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/) — Hacker News
+- [Alibaba's Qwen releases AI model that splits images into editable layers like PS](https://the-decoder.com/alibabas-qwen-releases-ai-model-that-splits-images-into-editable-layers-like-photoshop/) — Hacker News
+- [Show HN: An AI That Builds Personalized Reading Lists](https://goodbookfinder.com/) — Hacker News
 <!--END_HEARTBEAT-->
