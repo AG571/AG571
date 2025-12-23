@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-22 07:33 UTC
+Last update: 2025-12-23 07:33 UTC
 
-- [I announced my divorce on Instagram and then AI impersonated me](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/) — Hacker News
-- [Alibaba's Qwen releases AI model that splits images into editable layers like PS](https://the-decoder.com/alibabas-qwen-releases-ai-model-that-splits-images-into-editable-layers-like-photoshop/) — Hacker News
-- [Show HN: An AI That Builds Personalized Reading Lists](https://goodbookfinder.com/) — Hacker News
+- [Executable governance for AI: turning policy text into runnable tests](https://arxiv.org/abs/2512.04408) — Hacker News
+- [AI and Travel Planning: The Case for Human Expertise](https://archaeology-travel.com/travel-tips/ai-travel-planning-the-case-for-human-expertise/) — Hacker News
+- [AI Is Bad UX](https://buttondown.com/apperceptive/archive/ai-is-bad-ux/) — Hacker News
 <!--END_HEARTBEAT-->
