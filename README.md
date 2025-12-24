@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-23 07:33 UTC
+Last update: 2025-12-24 07:33 UTC
 
-- [Executable governance for AI: turning policy text into runnable tests](https://arxiv.org/abs/2512.04408) — Hacker News
-- [AI and Travel Planning: The Case for Human Expertise](https://archaeology-travel.com/travel-tips/ai-travel-planning-the-case-for-human-expertise/) — Hacker News
-- [AI Is Bad UX](https://buttondown.com/apperceptive/archive/ai-is-bad-ux/) — Hacker News
+- [The 80/20 Test: What AI Reveals About Your Mediocre Managers](https://www.levelup-experience.com/blog/8020-test-ai-reveals-mediocre-managers) — Hacker News
+- [Study: Shrinking AI memory boosts accuracy](https://www.ed.ac.uk/news/shrinking-ai-memory-boosts-accuracy) — Hacker News
+- [OpenAI GPT-5.2 Codex vs. Gemini 3 Pro vs. Opus 4.5: Coding comparison](https://www.tensorlake.ai/blog/gpt5.2-gemini3-opus4.5-coding) — Hacker News
 <!--END_HEARTBEAT-->
