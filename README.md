@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-24 07:33 UTC
+Last update: 2025-12-25 07:31 UTC
 
-- [The 80/20 Test: What AI Reveals About Your Mediocre Managers](https://www.levelup-experience.com/blog/8020-test-ai-reveals-mediocre-managers) — Hacker News
-- [Study: Shrinking AI memory boosts accuracy](https://www.ed.ac.uk/news/shrinking-ai-memory-boosts-accuracy) — Hacker News
-- [OpenAI GPT-5.2 Codex vs. Gemini 3 Pro vs. Opus 4.5: Coding comparison](https://www.tensorlake.ai/blog/gpt5.2-gemini3-opus4.5-coding) — Hacker News
+- [Why Your AI Agents Are Hallucinating (and How to Stop It)](https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it) — Hacker News
+- [CEO blasts companies with billions in funding but zero revenue](https://fortune.com/2025/12/24/databricks-ceo-ali-ghodsi-bubble-insane-zero-revenue-ai-circular/) — Hacker News
+- [Show HN: Got tired of searching for AI news daily so I built my own AI news page](https://dreyx.com/) — Hacker News
 <!--END_HEARTBEAT-->
