@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-25 07:31 UTC
+Last update: 2025-12-26 07:32 UTC
 
-- [Why Your AI Agents Are Hallucinating (and How to Stop It)](https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it) — Hacker News
-- [CEO blasts companies with billions in funding but zero revenue](https://fortune.com/2025/12/24/databricks-ceo-ali-ghodsi-bubble-insane-zero-revenue-ai-circular/) — Hacker News
-- [Show HN: Got tired of searching for AI news daily so I built my own AI news page](https://dreyx.com/) — Hacker News
+- ["AI Village" LLMs tracked down and spammed famous programmers email addresses](https://theaidigest.org/village) — Hacker News
+- [SQLite AI](https://www.sqlite.ai) — Hacker News
+- [Show HN: AI Accel,Tension-based pruning framework(40% sparsity, 1.5-2x speedups)](https://github.com/wwes4/AI_Accel_1.5x) — Hacker News
 <!--END_HEARTBEAT-->
