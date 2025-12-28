@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-27 07:28 UTC
+Last update: 2025-12-28 07:30 UTC
 
-- [Tinker: General Availability and Vision Input](https://thinkingmachines.ai/blog/tinker-general-availability/) — Hacker News
-- [Tech groups shift $120B of AI data centre debt off balance sheets](https://www.ft.com/content/0ae9d6cd-6b94-4e22-a559-f047734bef83) — Hacker News
-- [GenAI experts replace 'Halo: Evolved' staff to impact Xbox game development](https://www.notebookcheck.net/Generative-AI-experts-replace-Halo-Campaign-Evolved-staff-to-impact-Xbox-game-development.1192829.0.html) — Hacker News
+- [A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/) — Hacker News
+- [Racist AI fakes are now a business – and a political tool](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend) — Hacker News
+- [Show HN: I visualized C pointers because I was failing my class (built with AI)](https://afmicreates-c-learning.streamlit.app/) — Hacker News
 <!--END_HEARTBEAT-->
