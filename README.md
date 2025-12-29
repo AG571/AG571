@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2025-12-28 07:30 UTC
+Last update: 2025-12-29 07:35 UTC
 
-- [A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/) — Hacker News
-- [Racist AI fakes are now a business – and a political tool](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend) — Hacker News
-- [Show HN: I visualized C pointers because I was failing my class (built with AI)](https://afmicreates-c-learning.streamlit.app/) — Hacker News
+- [Americans Hate AI. Which Party Will Benefit?](https://www.politico.com/news/magazine/2025/12/28/ai-job-losses-populism-democrats-bernie-sanders-00706680) — Hacker News
+- [Show HN: Instant map of your flight routes, no account required](https://myflightroutes.com/) — Hacker News
+- [Oracle shares on pace for worst quarter since 2001, concerns about AI build-out](https://www.cnbc.com/2025/12/26/oracle-stock-on-pace-for-worst-quarter-since-2001-ai-concerns.html) — Hacker News
 <!--END_HEARTBEAT-->
