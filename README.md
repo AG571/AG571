@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-01 07:32 UTC
+Last update: 2026-01-02 07:34 UTC
 
-- [Show HN: GitHub Action for AI/LLM Security Scanning in CI/CD](https://github.com/XSource-Sec/agent-audit-action) — Hacker News
-- [Taxation in a Strong AI World](https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai-world.html) — Hacker News
-- [Aura – A Ruby-inspired declarative language for AI/ML pipelines and web apps](https://github.com/johnvteixido/aura-lang) — Hacker News
+- [Patients Starting to Fight Back Against Insurance AI Usage](https://www.pbs.org/video/ai-and-insurance-1763846838/) — Hacker News
+- [Show HN: DentistAI – AI receptionist that answers dental practice calls 24/7](https://dentistai.com) — Hacker News
+- [Inflated data lakehouse costs and latencies? – Blame S3's choice of HTTP/1.1](https://www.onehouse.ai/blog/inflated-data-lakehouse-costs-and-latencies-blame-s3s-choice-of-http-1-1) — Hacker News
 <!--END_HEARTBEAT-->
