@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-03 07:29 UTC
+Last update: 2026-01-04 07:31 UTC
 
-- [At least 7 explosions and low-flying aircraft are heard in Venezuela's Caracas](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e) — Hacker News
-- [I got 500 devs to try my AI app builder in a week (solo founder, no ads)](https://www.indiehackers.com/post/how-i-got-500-devs-to-try-my-ai-app-builder-in-a-week-solo-founder-no-ads-ziE6XkhduF9WPxGSaZ0v) — Hacker News
-- [Show HN: Underserved Directory Niches (Hand-picked for 2026)](https://directoryideas.ai/underserved-niches) — Hacker News
+- [Square Face Generator – Free Cute Pixel Avatar Maker Online](https://squarefacegenerator.app/) — Hacker News
+- [Show HN: Ghost Interfaces – Why "Seamless" AI is eroding human agency](https://drive.google.com/drive/folders/1fSRuCz3iFcdV361K0Uin-vP49MJQYGld) — Hacker News
+- [India orders Musk's X to fix Grok over 'obscene' AI content](https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/) — Hacker News
 <!--END_HEARTBEAT-->
