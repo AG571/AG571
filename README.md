@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-04 07:31 UTC
+Last update: 2026-01-05 07:38 UTC
 
-- [Square Face Generator – Free Cute Pixel Avatar Maker Online](https://squarefacegenerator.app/) — Hacker News
-- [Show HN: Ghost Interfaces – Why "Seamless" AI is eroding human agency](https://drive.google.com/drive/folders/1fSRuCz3iFcdV361K0Uin-vP49MJQYGld) — Hacker News
-- [India orders Musk's X to fix Grok over 'obscene' AI content](https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/) — Hacker News
+- [The AI Learning Platform That You Need](https://www.brighteraai.fun/) — Hacker News
+- [Show HN: Live VNC for web agents – debugging native captcha on Cloud Run](https://www.rtrvr.ai/blog/live-vnc-takeover-serverless-chrome) — Hacker News
+- [Show HN: A diagnostic report for students studying math](https://books.innings2.com/pages/cbse_math_worksheets.html) — Hacker News
 <!--END_HEARTBEAT-->
