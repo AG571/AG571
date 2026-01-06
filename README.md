@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-05 07:38 UTC
+Last update: 2026-01-06 07:36 UTC
 
-- [The AI Learning Platform That You Need](https://www.brighteraai.fun/) — Hacker News
-- [Show HN: Live VNC for web agents – debugging native captcha on Cloud Run](https://www.rtrvr.ai/blog/live-vnc-takeover-serverless-chrome) — Hacker News
-- [Show HN: A diagnostic report for students studying math](https://books.innings2.com/pages/cbse_math_worksheets.html) — Hacker News
+- [Text2SQL with a graph database back end](https://app.queryweaver.ai/) — Hacker News
+- [Text over voice for every AI chat](http://www.henryhale.dev/blog/text-over-voice-for-every-ai-chat/) — Hacker News
+- [Ask HN: My AI app builder has users, not buyers – why?](https://www.zolly.dev/) — Hacker News
 <!--END_HEARTBEAT-->
