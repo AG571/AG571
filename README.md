@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-06 07:36 UTC
+Last update: 2026-01-07 07:35 UTC
 
-- [Text2SQL with a graph database back end](https://app.queryweaver.ai/) — Hacker News
-- [Text over voice for every AI chat](http://www.henryhale.dev/blog/text-over-voice-for-every-ai-chat/) — Hacker News
-- [Ask HN: My AI app builder has users, not buyers – why?](https://www.zolly.dev/) — Hacker News
+- [XARA9 – Complete AI Framework running on consumer hardware](https://xara9.com/) — Hacker News
+- [Unified Local Observability for AI Coding Assistants](https://ai-observer.dev/) — Hacker News
+- [Search engine bots crawled so AI bots could run](https://stackoverflow.blog/2026/01/06/search-engine-bots-crawled-so-ai-bots-could-run/) — Hacker News
 <!--END_HEARTBEAT-->
