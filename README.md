@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-07 07:35 UTC
+Last update: 2026-01-08 07:34 UTC
 
-- [XARA9 – Complete AI Framework running on consumer hardware](https://xara9.com/) — Hacker News
-- [Unified Local Observability for AI Coding Assistants](https://ai-observer.dev/) — Hacker News
-- [Search engine bots crawled so AI bots could run](https://stackoverflow.blog/2026/01/06/search-engine-bots-crawled-so-ai-bots-could-run/) — Hacker News
+- [I learn about generative AI](http://blog.pamelafox.org/2025/08/how-i-learn-about-generative-ai.html) — Hacker News
+- [AI isn't "just predicting the next word" anymore](https://stevenadler.substack.com/p/ai-isnt-just-predicting-the-next) — Hacker News
+- [Show HN: Build a Database Services in Minutes with Bult.ai](https://blog.bult.ai/build-a-database-service-in-minutes-with-bult-ai/) — Hacker News
 <!--END_HEARTBEAT-->
