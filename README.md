@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-09 07:35 UTC
+Last update: 2026-01-10 07:29 UTC
 
-- [Join Us in Building LoongFlow – Cognitive Evolutionary AI Framework](https://github.com/baidu-baige/LoongFlow) — Hacker News
-- [Google Is Adding an 'AI Inbox' to Gmail That Summarizes Emails](https://www.wired.com/story/google-ai-inbox-gmail/) — Hacker News
-- [Terence Tao's list of AI contributions to Erdős problems](https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems) — Hacker News
+- [AI PCs aren't selling, and Microsoft's PC partners are scrambling](https://www.zdnet.com/article/ai-pcs-arent-selling-and-microsofts-pc-partners-are-scrambling/) — Hacker News
+- [Europe's sovereign AI future doesn't need cutting-edge chip manufacturing](https://bits-chips.com/article/europes-sovereign-ai-future-doesnt-need-cutting-edge-chip-manufacturing/) — Hacker News
+- [AxiomProver Solves All Problems at Putnam 2025: Proof Release and Commentary](https://axiommath.ai/territory/from-seeing-why-to-checking-everything) — Hacker News
 <!--END_HEARTBEAT-->
