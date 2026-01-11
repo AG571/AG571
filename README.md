@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-10 07:29 UTC
+Last update: 2026-01-11 07:30 UTC
 
-- [AI PCs aren't selling, and Microsoft's PC partners are scrambling](https://www.zdnet.com/article/ai-pcs-arent-selling-and-microsofts-pc-partners-are-scrambling/) — Hacker News
-- [Europe's sovereign AI future doesn't need cutting-edge chip manufacturing](https://bits-chips.com/article/europes-sovereign-ai-future-doesnt-need-cutting-edge-chip-manufacturing/) — Hacker News
-- [AxiomProver Solves All Problems at Putnam 2025: Proof Release and Commentary](https://axiommath.ai/territory/from-seeing-why-to-checking-everything) — Hacker News
+- [We Put Claude Code in Rollercoaster Tycoon](https://ramplabs.substack.com/p/ai-plays-rollercoaster-tycoon) — Hacker News
+- [HeyToken – Access all LLMs for 30% less via a unified API](https://heytoken.ai) — Hacker News
+- [Anthropic: Demystifying Evals for AI Agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) — Hacker News
 <!--END_HEARTBEAT-->
