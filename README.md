@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-11 07:30 UTC
+Last update: 2026-01-12 07:37 UTC
 
-- [We Put Claude Code in Rollercoaster Tycoon](https://ramplabs.substack.com/p/ai-plays-rollercoaster-tycoon) — Hacker News
-- [HeyToken – Access all LLMs for 30% less via a unified API](https://heytoken.ai) — Hacker News
-- [Anthropic: Demystifying Evals for AI Agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) — Hacker News
+- [What Happens When Superhuman AIs Compete for Control? (From "AI 2027" Project)](https://blog.ai-futures.org/p/what-happens-when-superhuman-ais) — Hacker News
+- [TweetGrok Twitter Viewer – Browse Public Tweets Without Logging In](https://tweetgrok.ai/twitter-viewer) — Hacker News
+- [Most US Gen Zers and millennials listen to about three hours of AI music a week](https://sherwood.news/markets/morgan-stanley-most-gen-zers-and-millennials-in-the-us-listen-to-about-three/) — Hacker News
 <!--END_HEARTBEAT-->
