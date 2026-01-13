@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-12 07:37 UTC
+Last update: 2026-01-13 07:34 UTC
 
-- [What Happens When Superhuman AIs Compete for Control? (From "AI 2027" Project)](https://blog.ai-futures.org/p/what-happens-when-superhuman-ais) — Hacker News
-- [TweetGrok Twitter Viewer – Browse Public Tweets Without Logging In](https://tweetgrok.ai/twitter-viewer) — Hacker News
-- [Most US Gen Zers and millennials listen to about three hours of AI music a week](https://sherwood.news/markets/morgan-stanley-most-gen-zers-and-millennials-in-the-us-listen-to-about-three/) — Hacker News
+- [AI is causing developers to abandon Stack Overflow](https://www.infoworld.com/article/4115691/ai-is-causing-developers-to-abandon-stack-overflow.html) — Hacker News
+- [Jamie Oliver to call millions in SA by their names – using AI](https://www.news24.com/business/companies/jamie-oliver-to-call-millions-in-sa-by-their-names-using-ai-20260111-0890) — Hacker News
+- [Show HN: Arcane – minimal AI chat TUI](https://github.com/bm611/arcane) — Hacker News
 <!--END_HEARTBEAT-->
