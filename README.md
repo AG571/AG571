@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-13 07:34 UTC
+Last update: 2026-01-14 07:35 UTC
 
-- [AI is causing developers to abandon Stack Overflow](https://www.infoworld.com/article/4115691/ai-is-causing-developers-to-abandon-stack-overflow.html) — Hacker News
-- [Jamie Oliver to call millions in SA by their names – using AI](https://www.news24.com/business/companies/jamie-oliver-to-call-millions-in-sa-by-their-names-using-ai-20260111-0890) — Hacker News
-- [Show HN: Arcane – minimal AI chat TUI](https://github.com/bm611/arcane) — Hacker News
+- [McKinsey challenges graduates to use AI chatbot in recruitment overhaul](https://www.ft.com/content/de7855f0-f586-4708-a8ed-f0458eb25586) — Hacker News
+- [PartyBench: AI throws a house party and is graded on its performance [SATIRE]](https://www.astralcodexten.com/p/sota-on-bay-area-house-party) — Hacker News
+- [Documented Alaska Airlines loyalty thefts shows architectural failure](https://www.noseyparker.org/p/alaska-airlines-where-the-top-customers) — Hacker News
 <!--END_HEARTBEAT-->
