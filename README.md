@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-14 07:35 UTC
+Last update: 2026-01-15 07:35 UTC
 
-- [McKinsey challenges graduates to use AI chatbot in recruitment overhaul](https://www.ft.com/content/de7855f0-f586-4708-a8ed-f0458eb25586) — Hacker News
-- [PartyBench: AI throws a house party and is graded on its performance [SATIRE]](https://www.astralcodexten.com/p/sota-on-bay-area-house-party) — Hacker News
-- [Documented Alaska Airlines loyalty thefts shows architectural failure](https://www.noseyparker.org/p/alaska-airlines-where-the-top-customers) — Hacker News
+- [DataRiver – Bank statement parsing using a private AI model](https://www.datariver.co) — Hacker News
+- [China's Z.ai claims it trained a model using only Huawei hardware](https://www.theregister.com/2026/01/15/zhipu_glm_image_huawei_hardware/) — Hacker News
+- [Vibe-ported airfoil design code (XFOIL) from Fortran to JavaScript web app](https://www.vibefoil.com/) — Hacker News
 <!--END_HEARTBEAT-->
