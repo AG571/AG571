@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-15 07:35 UTC
+Last update: 2026-01-16 07:34 UTC
 
-- [DataRiver – Bank statement parsing using a private AI model](https://www.datariver.co) — Hacker News
-- [China's Z.ai claims it trained a model using only Huawei hardware](https://www.theregister.com/2026/01/15/zhipu_glm_image_huawei_hardware/) — Hacker News
-- [Vibe-ported airfoil design code (XFOIL) from Fortran to JavaScript web app](https://www.vibefoil.com/) — Hacker News
+- [Show HN: AI agent that joins Google Meet/Zoom to give live product demos](https://www.pipersdr.com/) — Hacker News
+- [Uncensored AI for image and video generation](https://www.gocrazyai.com/) — Hacker News
+- [Irrational betting craze signals we're on the cusp of a crash](https://www.thetimes.com/business/companies-markets/article/stocks-ai-crash-imminent-prediction-markets-3krjcznwp) — Hacker News
 <!--END_HEARTBEAT-->
