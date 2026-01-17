@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-16 07:34 UTC
+Last update: 2026-01-17 07:29 UTC
 
-- [Show HN: AI agent that joins Google Meet/Zoom to give live product demos](https://www.pipersdr.com/) — Hacker News
-- [Uncensored AI for image and video generation](https://www.gocrazyai.com/) — Hacker News
-- [Irrational betting craze signals we're on the cusp of a crash](https://www.thetimes.com/business/companies-markets/article/stocks-ai-crash-imminent-prediction-markets-3krjcznwp) — Hacker News
+- [AI Contribution Policy](https://www.graphite.art/volunteer/guide/starting-a-task/ai-contribution-policy/) — Hacker News
+- [AI friend- Brought to you by your friendly neighborhood mega corporation](https://gpt3experiments.substack.com/p/your-ai-friend-brought-to-you-by) — Hacker News
+- [China blocks Nvidia H200 AI chips that US Government cleared for export – report](https://www.theguardian.com/technology/2026/jan/17/china-blocks-nvidia-h200-ai-chips-that-us-government-cleared-for-export-report) — Hacker News
 <!--END_HEARTBEAT-->
