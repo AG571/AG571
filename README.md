@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-17 07:29 UTC
+Last update: 2026-01-18 07:29 UTC
 
-- [AI Contribution Policy](https://www.graphite.art/volunteer/guide/starting-a-task/ai-contribution-policy/) — Hacker News
-- [AI friend- Brought to you by your friendly neighborhood mega corporation](https://gpt3experiments.substack.com/p/your-ai-friend-brought-to-you-by) — Hacker News
-- [China blocks Nvidia H200 AI chips that US Government cleared for export – report](https://www.theguardian.com/technology/2026/jan/17/china-blocks-nvidia-h200-ai-chips-that-us-government-cleared-for-export-report) — Hacker News
+- [Image-to-text working out of the box](https://github.com/rene-ajm-veerman/nicerApp-WebOS-5.10.z/blob/main/NicerAppWebOS/scripts.maintenance/ollama.image-to-text.AI.py) — Hacker News
+- [Air traffic control: the IBM 9020](https://computer.rip/2026-01-17-air-traffic-control-9020.html) — Hacker News
+- [Zencoder: Zenflow](https://zencoder.ai/lp/zenflow-enterprise) — Hacker News
 <!--END_HEARTBEAT-->
