@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-18 07:29 UTC
+Last update: 2026-01-19 07:39 UTC
 
-- [Image-to-text working out of the box](https://github.com/rene-ajm-veerman/nicerApp-WebOS-5.10.z/blob/main/NicerAppWebOS/scripts.maintenance/ollama.image-to-text.AI.py) — Hacker News
-- [Air traffic control: the IBM 9020](https://computer.rip/2026-01-17-air-traffic-control-9020.html) — Hacker News
-- [Zencoder: Zenflow](https://zencoder.ai/lp/zenflow-enterprise) — Hacker News
+- [Making a label printer work under Linux using agentic AI](https://sschueller.github.io/posts/making-a-label-printer-work-under-linux-using-agentic-ai/) — Hacker News
+- [Show HN: CervellaSwarm – 16 AI agents and 3 debug guardians, coordinated via MCP](https://github.com/rafapra3008/cervellaswarm) — Hacker News
+- [Run AI tools like Cursor,Claude Code, Codex on your own models](https://github.com/Fast-Editor/Lynkr) — Hacker News
 <!--END_HEARTBEAT-->
