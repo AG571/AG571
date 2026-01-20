@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-19 07:39 UTC
+Last update: 2026-01-20 07:38 UTC
 
-- [Making a label printer work under Linux using agentic AI](https://sschueller.github.io/posts/making-a-label-printer-work-under-linux-using-agentic-ai/) — Hacker News
-- [Show HN: CervellaSwarm – 16 AI agents and 3 debug guardians, coordinated via MCP](https://github.com/rafapra3008/cervellaswarm) — Hacker News
-- [Run AI tools like Cursor,Claude Code, Codex on your own models](https://github.com/Fast-Editor/Lynkr) — Hacker News
+- [AI and jobs: The decline started before ChatGPT](https://engineeringprompts.substack.com/p/ai-and-jobs-the-decline-started-before) — Hacker News
+- [OpenAI GPT-5.2-Codex (High) vs. Claude Opus 4.5 vs. Gemini 3 Pro (In Production)](https://www.tensorlake.ai/blog/gpt5.2-codex-high-vs-opus-4.5-vs-gemini-3-pro) — Hacker News
+- [Defections from $12B Thinking Machines shows struggle for AI talent](https://fortune.com/2026/01/16/mira-murati-thinking-machines-staff-defections-openai-zoph-metz-schoenholz/) — Hacker News
 <!--END_HEARTBEAT-->
