@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-20 07:38 UTC
+Last update: 2026-01-21 07:41 UTC
 
-- [AI and jobs: The decline started before ChatGPT](https://engineeringprompts.substack.com/p/ai-and-jobs-the-decline-started-before) — Hacker News
-- [OpenAI GPT-5.2-Codex (High) vs. Claude Opus 4.5 vs. Gemini 3 Pro (In Production)](https://www.tensorlake.ai/blog/gpt5.2-codex-high-vs-opus-4.5-vs-gemini-3-pro) — Hacker News
-- [Defections from $12B Thinking Machines shows struggle for AI talent](https://fortune.com/2026/01/16/mira-murati-thinking-machines-staff-defections-openai-zoph-metz-schoenholz/) — Hacker News
+- [Scottrade Is Back – The 80s Legend Revived with AI Power, 100% Free (For Now)](https://scottrade.net/) — Hacker News
+- [AI Writes Python Code, but Maintaining It Is Still Your Job](https://www.kdnuggets.com/ai-writes-python-code-but-maintaining-it-is-still-your-job) — Hacker News
+- [The Agentic AI Handbook: Production-Ready Patterns](https://www.nibzard.com/agentic-handbook) — Hacker News
 <!--END_HEARTBEAT-->
