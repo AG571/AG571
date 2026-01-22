@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-21 07:41 UTC
+Last update: 2026-01-22 07:37 UTC
 
-- [Scottrade Is Back – The 80s Legend Revived with AI Power, 100% Free (For Now)](https://scottrade.net/) — Hacker News
-- [AI Writes Python Code, but Maintaining It Is Still Your Job](https://www.kdnuggets.com/ai-writes-python-code-but-maintaining-it-is-still-your-job) — Hacker News
-- [The Agentic AI Handbook: Production-Ready Patterns](https://www.nibzard.com/agentic-handbook) — Hacker News
+- [Can Humans Smell Rain Better Than Sharks Smell Blood?](https://www.safewaters.ai/posts/humans-smell-rain-better-than-sharks-smell-blood) — Hacker News
+- [Show HN: AI-Powered Virtual Haircut Simulator with 360° View](https://shorthairstyles.app/) — Hacker News
+- [The Data Box; Why "Smarter" AI Feels Dumber](https://blog.nimbial.com/pages/the_data_box) — Hacker News
 <!--END_HEARTBEAT-->
