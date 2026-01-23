@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-22 07:37 UTC
+Last update: 2026-01-23 07:36 UTC
 
-- [Can Humans Smell Rain Better Than Sharks Smell Blood?](https://www.safewaters.ai/posts/humans-smell-rain-better-than-sharks-smell-blood) — Hacker News
-- [Show HN: AI-Powered Virtual Haircut Simulator with 360° View](https://shorthairstyles.app/) — Hacker News
-- [The Data Box; Why "Smarter" AI Feels Dumber](https://blog.nimbial.com/pages/the_data_box) — Hacker News
+- [Show HN: AI Product Video Ads – Upload image and prompt → video ad](https://freyavideo.com/create/ad-generator) — Hacker News
+- [Korea's AI law requires watermarks on generated content](https://koreajoongangdaily.joins.com/news/2026-01-22/business/tech/Koreas-groundbreaking-AI-law-requires-watermarks-on-generated-content-but-enforcement-gaps-remain/2506349) — Hacker News
+- [Why External AI Reasoning Breaks Articles 12 and 61 of the EU AI Act by Default](https://zenodo.org/records/18346151) — Hacker News
 <!--END_HEARTBEAT-->
