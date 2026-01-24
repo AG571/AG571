@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-23 07:36 UTC
+Last update: 2026-01-24 07:30 UTC
 
-- [Show HN: AI Product Video Ads – Upload image and prompt → video ad](https://freyavideo.com/create/ad-generator) — Hacker News
-- [Korea's AI law requires watermarks on generated content](https://koreajoongangdaily.joins.com/news/2026-01-22/business/tech/Koreas-groundbreaking-AI-law-requires-watermarks-on-generated-content-but-enforcement-gaps-remain/2506349) — Hacker News
-- [Why External AI Reasoning Breaks Articles 12 and 61 of the EU AI Act by Default](https://zenodo.org/records/18346151) — Hacker News
+- [Entelgia: A consciousness-inspired multi-agent AI system with persistent memory](https://github.com/sivanhavkin/Entelgia) — Hacker News
+- [Vimeo's Slow Fade](https://substack.com/inbox/post/185519916) — Hacker News
+- [Show HN: Open-source Figma design to code](https://github.com/vibeflowing-inc/vibe_figma) — Hacker News
 <!--END_HEARTBEAT-->
