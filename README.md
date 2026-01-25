@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-24 07:30 UTC
+Last update: 2026-01-25 07:31 UTC
 
-- [Entelgia: A consciousness-inspired multi-agent AI system with persistent memory](https://github.com/sivanhavkin/Entelgia) — Hacker News
-- [Vimeo's Slow Fade](https://substack.com/inbox/post/185519916) — Hacker News
-- [Show HN: Open-source Figma design to code](https://github.com/vibeflowing-inc/vibe_figma) — Hacker News
+- [Show HN: Lumina – Open-source observability for LLM applications](https://github.com/use-lumina/Lumina) — Hacker News
+- [Hacker turned WiFi airwaves into LED art with a Raspberry Pi](https://www.theregister.com/2026/01/23/raspberry_pi_wifi_wall_art/) — Hacker News
+- [Show HN: Voice to Text– Free browser-based speech-to-text with local projects](https://www.voicetotextonline.com/) — Hacker News
 <!--END_HEARTBEAT-->
