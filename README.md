@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-25 07:31 UTC
+Last update: 2026-01-26 07:38 UTC
 
-- [Show HN: Lumina – Open-source observability for LLM applications](https://github.com/use-lumina/Lumina) — Hacker News
-- [Hacker turned WiFi airwaves into LED art with a Raspberry Pi](https://www.theregister.com/2026/01/23/raspberry_pi_wifi_wall_art/) — Hacker News
-- [Show HN: Voice to Text– Free browser-based speech-to-text with local projects](https://www.voicetotextonline.com/) — Hacker News
+- [Show HN: Image to 3D AI Generator – Instant 3D Models from Photos](https://heydream.im/image-to-3d/) — Hacker News
+- [Functioning Open Source Version of Lovable/Bolt/Replit](https://github.com/polterguy/magic) — Hacker News
+- [Show HN: GLM-Image Dense-knowledge AI Generator](https://www.glmimage1.com) — Hacker News
 <!--END_HEARTBEAT-->
