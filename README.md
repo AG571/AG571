@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-26 07:38 UTC
+Last update: 2026-01-27 07:37 UTC
 
-- [Show HN: Image to 3D AI Generator – Instant 3D Models from Photos](https://heydream.im/image-to-3d/) — Hacker News
-- [Functioning Open Source Version of Lovable/Bolt/Replit](https://github.com/polterguy/magic) — Hacker News
-- [Show HN: GLM-Image Dense-knowledge AI Generator](https://www.glmimage1.com) — Hacker News
+- [Show HN: GetClawdbot – A Community Guide and Skill Hub for Clawdbot](https://getclawdbot.org) — Hacker News
+- [Disabling GitHub MCP on CC extended my sessions ~10%](https://staunch.ai/blog/disabling-github-mcp) — Hacker News
+- [DeepSeek-OCR 2](https://github.com/deepseek-ai/DeepSeek-OCR-2) — Hacker News
 <!--END_HEARTBEAT-->
