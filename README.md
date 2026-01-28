@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-27 07:37 UTC
+Last update: 2026-01-28 07:37 UTC
 
-- [Show HN: GetClawdbot – A Community Guide and Skill Hub for Clawdbot](https://getclawdbot.org) — Hacker News
-- [Disabling GitHub MCP on CC extended my sessions ~10%](https://staunch.ai/blog/disabling-github-mcp) — Hacker News
-- [DeepSeek-OCR 2](https://github.com/deepseek-ai/DeepSeek-OCR-2) — Hacker News
+- [We Need to Talk: The AI Voice Game](https://civai.org/talk) — Hacker News
+- [I reverse-engineered "Direct" traffic and found 40% was AI bots](https://www.Zyro.world/) — Hacker News
+- [Peaceful – An AI-generated clone of ICE List](https://gitlab.com/joseph8th/peaceful) — Hacker News
 <!--END_HEARTBEAT-->
