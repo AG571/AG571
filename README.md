@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-28 07:37 UTC
+Last update: 2026-01-29 07:52 UTC
 
-- [We Need to Talk: The AI Voice Game](https://civai.org/talk) — Hacker News
-- [I reverse-engineered "Direct" traffic and found 40% was AI bots](https://www.Zyro.world/) — Hacker News
-- [Peaceful – An AI-generated clone of ICE List](https://gitlab.com/joseph8th/peaceful) — Hacker News
+- [Helix 02: Full-Body Autonomy](https://www.figure.ai/news/helix-02) — Hacker News
+- [Listen to the AirTag's remixed new chime](https://www.macworld.com/article/3045497/listen-to-the-airtags-remixed-new-chime.html) — Hacker News
+- [Show HN: TheBaduk – A Go/Baduk Platform Built with Vanilla JavaScript](https://thebaduk.com) — Hacker News
 <!--END_HEARTBEAT-->
