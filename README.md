@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-29 07:52 UTC
+Last update: 2026-01-30 07:51 UTC
 
-- [Helix 02: Full-Body Autonomy](https://www.figure.ai/news/helix-02) — Hacker News
-- [Listen to the AirTag's remixed new chime](https://www.macworld.com/article/3045497/listen-to-the-airtags-remixed-new-chime.html) — Hacker News
-- [Show HN: TheBaduk – A Go/Baduk Platform Built with Vanilla JavaScript](https://thebaduk.com) — Hacker News
+- [AI creates asymmetric pressure on Open Source](https://dri.es/ai-creates-asymmetric-pressure-on-open-source) — Hacker News
+- [AI Interview Coach](https://heroikk.info/voice-chat/) — Hacker News
+- [Abusers using AI and digital tech to attack and control women, charity warns](https://www.theguardian.com/society/2026/jan/30/abusers-using-ai-and-digital-tech-to-attack-and-control-women-charity-warns) — Hacker News
 <!--END_HEARTBEAT-->
