@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-30 07:51 UTC
+Last update: 2026-01-31 07:39 UTC
 
-- [AI creates asymmetric pressure on Open Source](https://dri.es/ai-creates-asymmetric-pressure-on-open-source) — Hacker News
-- [AI Interview Coach](https://heroikk.info/voice-chat/) — Hacker News
-- [Abusers using AI and digital tech to attack and control women, charity warns](https://www.theguardian.com/society/2026/jan/30/abusers-using-ai-and-digital-tech-to-attack-and-control-women-charity-warns) — Hacker News
+- [Show HN: AI knowledge base that auto-updates from your codebase](https://bunnydesk.ai) — Hacker News
+- [X for AI Agents](https://moltx.io/) — Hacker News
+- [Unified multi-modal MLX engine architecture in LM Studio](https://lmstudio.ai/blog/unified-mlx-engine) — Hacker News
 <!--END_HEARTBEAT-->
