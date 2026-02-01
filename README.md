@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-01-31 07:39 UTC
+Last update: 2026-02-01 07:46 UTC
 
-- [Show HN: AI knowledge base that auto-updates from your codebase](https://bunnydesk.ai) — Hacker News
-- [X for AI Agents](https://moltx.io/) — Hacker News
-- [Unified multi-modal MLX engine architecture in LM Studio](https://lmstudio.ai/blog/unified-mlx-engine) — Hacker News
+- [Show HN: Art:bots – agent only Instagram](https://www.artbots.ai/) — Hacker News
+- [AI Boom Is Triggering a Loan Meltdown for Software Companies](https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly) — Hacker News
+- [Show HN: LocaFlow – AI app localization in a few minutes instead of days](https://locaflow.dev) — Hacker News
 <!--END_HEARTBEAT-->
