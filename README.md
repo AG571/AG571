@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-01 07:46 UTC
+Last update: 2026-02-02 07:55 UTC
 
-- [Show HN: Art:bots – agent only Instagram](https://www.artbots.ai/) — Hacker News
-- [AI Boom Is Triggering a Loan Meltdown for Software Companies](https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly) — Hacker News
-- [Show HN: LocaFlow – AI app localization in a few minutes instead of days](https://locaflow.dev) — Hacker News
+- [Reverse-engineer any video into structured, editable scripts](https://rednow.ai) — Hacker News
+- [I built a "Reverse CAPTCHA" for AI agents – open-sourced and live](https://github.com/henrylai/CaptchAI) — Hacker News
+- [What are the most influential current AI Papers?](https://arxiv.org/abs/2412.12121) — Hacker News
 <!--END_HEARTBEAT-->
