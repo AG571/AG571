@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-02 07:55 UTC
+Last update: 2026-02-03 07:52 UTC
 
-- [Reverse-engineer any video into structured, editable scripts](https://rednow.ai) — Hacker News
-- [I built a "Reverse CAPTCHA" for AI agents – open-sourced and live](https://github.com/henrylai/CaptchAI) — Hacker News
-- [What are the most influential current AI Papers?](https://arxiv.org/abs/2412.12121) — Hacker News
+- [Show HN: OAuth 2.0 server with AI security agents (EU sovereign alternative)](https://github.com/devon39/server-oauth-security) — Hacker News
+- [Z.ai GLM-OCR: SOTA performance, optimized for complex document understanding](https://ocr.z.ai) — Hacker News
+- [A simple HTTPS, HTTP/3, SSL and security headers checker I built with AI](https://httpsornot.com/) — Hacker News
 <!--END_HEARTBEAT-->
