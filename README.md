@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-04 07:52 UTC
+Last update: 2026-02-05 07:55 UTC
 
-- [Show HN: Astrolabe – Navigate Your Data Universe in Nextcloud](https://blog.coutinho.io/introducing-astrolabe-navigate-your-data-universe-in-nextcloud) — Hacker News
-- [Oracle to raise $50B as AI debt piles up](https://www.marketwatch.com/story/oracles-monster-25-billion-debt-financing-points-to-anxieties-around-ai-funding-b92c634b?gaa_at=eafs&gaa_n=AWEtsqczVlBBoDjcC6lCxjyKeNisB6QEz-oEo2k0PWtFwpsWKtDrK59-8jvylfPs4hg%3D&gaa_ts=6982f2dc&gaa_sig=-KcqgqDi0dxU0ClZBaHnzzgUTR14fkTa5R5HKguuHzRXJHBu8gNGy1MqJfI3oFVq-3e_cvFlJqfulVUup8b5hw%3D%3D) — Hacker News
-- [Siemens Energy Bets $1B That A.I. Power Demand Will Last](https://www.nytimes.com/2026/02/03/business/energy-environment/siemens-energy-ai-power-demand.html) — Hacker News
+- [Show HN: I built an AI tool to help technical founders improve their pitch](https://pitchmode.org) — Hacker News
+- [Show HN: YouTube Skills for AI Agents and OpenClaw](https://github.com/ZeroPointRepo/youtube-skills) — Hacker News
+- [Show HN: Imagens.app – Free AI image generator and enhancer for creators](https://imagens.app/) — Hacker News
 <!--END_HEARTBEAT-->
