@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-05 07:55 UTC
+Last update: 2026-02-06 07:53 UTC
 
-- [Show HN: I built an AI tool to help technical founders improve their pitch](https://pitchmode.org) — Hacker News
-- [Show HN: YouTube Skills for AI Agents and OpenClaw](https://github.com/ZeroPointRepo/youtube-skills) — Hacker News
-- [Show HN: Imagens.app – Free AI image generator and enhancer for creators](https://imagens.app/) — Hacker News
+- [Z-Image AI](https://z-image.vip) — Hacker News
+- [What even is an 'AI growth zone', anyway?](https://takes.jamesomalley.co.uk/p/ai-growth-zones) — Hacker News
+- [Show HN: Agent-smith – Auto-generate AGENTS.md for AI coding assistants](https://github.com/jpoindexter/agentsmith) — Hacker News
 <!--END_HEARTBEAT-->
