@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-06 07:53 UTC
+Last update: 2026-02-07 07:43 UTC
 
-- [Z-Image AI](https://z-image.vip) — Hacker News
-- [What even is an 'AI growth zone', anyway?](https://takes.jamesomalley.co.uk/p/ai-growth-zones) — Hacker News
-- [Show HN: Agent-smith – Auto-generate AGENTS.md for AI coding assistants](https://github.com/jpoindexter/agentsmith) — Hacker News
+- [Show HN: Empusa – Visual debugger to catch and resume AI agent retry loops](https://github.com/justin55afdfdsf5ds45f4ds5f45ds4/EmpusaAI) — Hacker News
+- [Show HN: MindDraft – AI task app with smart actions and auto expense tracking](https://minddraft.ai) — Hacker News
+- [Rentahuman.ai Turns Humans into On-Demand Labor for AI Agents](https://www.forbes.com/sites/ronschmelzer/2026/02/05/when-ai-agents-start-hiring-humans-rentahumanai-turns-the-tables/) — Hacker News
 <!--END_HEARTBEAT-->
