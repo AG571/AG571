@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-07 07:43 UTC
+Last update: 2026-02-08 07:47 UTC
 
-- [Show HN: Empusa – Visual debugger to catch and resume AI agent retry loops](https://github.com/justin55afdfdsf5ds45f4ds5f45ds4/EmpusaAI) — Hacker News
-- [Show HN: MindDraft – AI task app with smart actions and auto expense tracking](https://minddraft.ai) — Hacker News
-- [Rentahuman.ai Turns Humans into On-Demand Labor for AI Agents](https://www.forbes.com/sites/ronschmelzer/2026/02/05/when-ai-agents-start-hiring-humans-rentahumanai-turns-the-tables/) — Hacker News
+- [Open-Weight Models Are Getting Serious: GLM 4.7 vs. MiniMax M2.1](https://blog.kilo.ai/p/open-weight-models-are-getting-serious) — Hacker News
+- [Using AI for Code Reviews: What Works, What Doesn't, and Why](https://entelligence.ai/blogs/entelligence-ai-in-cli) — Hacker News
+- [What rare disease AI teaches us about longitudinal health](https://myaether.live/blog/what-rare-disease-ai-teaches-us-about-longitudinal-health) — Hacker News
 <!--END_HEARTBEAT-->
