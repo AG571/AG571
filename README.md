@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-08 07:47 UTC
+Last update: 2026-02-09 08:02 UTC
 
-- [Open-Weight Models Are Getting Serious: GLM 4.7 vs. MiniMax M2.1](https://blog.kilo.ai/p/open-weight-models-are-getting-serious) — Hacker News
-- [Using AI for Code Reviews: What Works, What Doesn't, and Why](https://entelligence.ai/blogs/entelligence-ai-in-cli) — Hacker News
-- [What rare disease AI teaches us about longitudinal health](https://myaether.live/blog/what-rare-disease-ai-teaches-us-about-longitudinal-health) — Hacker News
+- [Show HN: Molinar – Open-source alternative to ai.com (AGPL-3.0)](https://business.molinar.ai) — Hacker News
+- [Show HN: MemeOS – The Ultimate Meme Operating System (iOS)](https://apps.apple.com/us/app/memeos-ai-meme-maker-editor/id6758034477) — Hacker News
+- [One Person, 34 Services: How AI Tooling Changed the Economics of Running Homelab](https://blog.coutinho.io/how-ai-tooling-changed-the-economics-of-running-a-production-grade-homelab) — Hacker News
 <!--END_HEARTBEAT-->
