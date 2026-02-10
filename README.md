@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-09 08:02 UTC
+Last update: 2026-02-10 08:04 UTC
 
-- [Show HN: Molinar – Open-source alternative to ai.com (AGPL-3.0)](https://business.molinar.ai) — Hacker News
-- [Show HN: MemeOS – The Ultimate Meme Operating System (iOS)](https://apps.apple.com/us/app/memeos-ai-meme-maker-editor/id6758034477) — Hacker News
-- [One Person, 34 Services: How AI Tooling Changed the Economics of Running Homelab](https://blog.coutinho.io/how-ai-tooling-changed-the-economics-of-running-a-production-grade-homelab) — Hacker News
+- [Show HN: MCP App Template designed for coding agents](https://github.com/sebderhy/mcp-app-template) — Hacker News
+- [My Thoughts on AI](https://sarah.engineer/posts/thoughts-on-ai/) — Hacker News
+- [Show HN: Seedance2 – Stop "prompt guessing" and start directing AI video](https://seedancevideo.app/) — Hacker News
 <!--END_HEARTBEAT-->
