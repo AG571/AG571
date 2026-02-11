@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-10 08:04 UTC
+Last update: 2026-02-11 08:00 UTC
 
-- [Show HN: MCP App Template designed for coding agents](https://github.com/sebderhy/mcp-app-template) — Hacker News
-- [My Thoughts on AI](https://sarah.engineer/posts/thoughts-on-ai/) — Hacker News
-- [Show HN: Seedance2 – Stop "prompt guessing" and start directing AI video](https://seedancevideo.app/) — Hacker News
+- [Create Caricature of Me and My Job – Viral AI Trend Free](https://caricaturetrend.com/) — Hacker News
+- [Show HN: Actionbook – Resilient browser automation engine for AI agents (Rust)](https://github.com/actionbook/actionbook) — Hacker News
+- [Inside OpenAI's Decision to Kill the AI Model That People Loved Too Much](https://www.wsj.com/tech/ai/chatgpt-4o-openai-315138b8) — Hacker News
 <!--END_HEARTBEAT-->
