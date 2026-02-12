@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-11 08:00 UTC
+Last update: 2026-02-12 07:57 UTC
 
-- [Create Caricature of Me and My Job – Viral AI Trend Free](https://caricaturetrend.com/) — Hacker News
-- [Show HN: Actionbook – Resilient browser automation engine for AI agents (Rust)](https://github.com/actionbook/actionbook) — Hacker News
-- [Inside OpenAI's Decision to Kill the AI Model That People Loved Too Much](https://www.wsj.com/tech/ai/chatgpt-4o-openai-315138b8) — Hacker News
+- [Show HN: Running your own AI assistant for €19/month](https://clawhosters.com/blog/posts/own-ai-assistant-costs-clawhosters) — Hacker News
+- [Show HN: Memio, a knowledge hub for your notes, RSS, and web articles on Android](https://www.memio.site/) — Hacker News
+- [AI's Real Impact on Software Launches: Evidence from Product Hunt](https://asanchez.dev/blog/ais-real-impact-on-software-launches-evidence-from-product-hunt/) — Hacker News
 <!--END_HEARTBEAT-->
