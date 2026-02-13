@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-12 07:57 UTC
+Last update: 2026-02-13 07:55 UTC
 
-- [Show HN: Running your own AI assistant for €19/month](https://clawhosters.com/blog/posts/own-ai-assistant-costs-clawhosters) — Hacker News
-- [Show HN: Memio, a knowledge hub for your notes, RSS, and web articles on Android](https://www.memio.site/) — Hacker News
-- [AI's Real Impact on Software Launches: Evidence from Product Hunt](https://asanchez.dev/blog/ais-real-impact-on-software-launches-evidence-from-product-hunt/) — Hacker News
+- [Europe joins the constellation-launching game with debut of Ariane 64](https://aerospaceamerica.aiaa.org/europe-joins-the-constellation-launching-game-with-debut-of-ariane-64/) — Hacker News
+- [Show HN: AgentProbe – Validate AI agent endpoints across 8 protocols in one URL](https://agentprobe.xyz) — Hacker News
+- [Big Tech's $700B AI Buildout Is Draining Aquifers Faster Than They Recharge](https://alexnik2.substack.com/p/the-physical-layer-01) — Hacker News
 <!--END_HEARTBEAT-->
