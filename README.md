@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-13 07:55 UTC
+Last update: 2026-02-14 07:45 UTC
 
-- [Europe joins the constellation-launching game with debut of Ariane 64](https://aerospaceamerica.aiaa.org/europe-joins-the-constellation-launching-game-with-debut-of-ariane-64/) — Hacker News
-- [Show HN: AgentProbe – Validate AI agent endpoints across 8 protocols in one URL](https://agentprobe.xyz) — Hacker News
-- [Big Tech's $700B AI Buildout Is Draining Aquifers Faster Than They Recharge](https://alexnik2.substack.com/p/the-physical-layer-01) — Hacker News
+- [Modern Python monorepo for Apache Airflow (2025)](https://medium.com/apache-airflow/modern-python-monorepo-for-apache-airflow-part-1-1fe84863e1e1) — Hacker News
+- [Show HN: What if your job search worked while you were working/sleeping?](https://jobspire.co.in/) — Hacker News
+- [Show HN: A playable toy model of frontier AI lab capex decisions](https://darios-dilemma.up.railway.app/) — Hacker News
 <!--END_HEARTBEAT-->
