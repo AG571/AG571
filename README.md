@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-14 07:45 UTC
+Last update: 2026-02-15 07:47 UTC
 
-- [Modern Python monorepo for Apache Airflow (2025)](https://medium.com/apache-airflow/modern-python-monorepo-for-apache-airflow-part-1-1fe84863e1e1) — Hacker News
-- [Show HN: What if your job search worked while you were working/sleeping?](https://jobspire.co.in/) — Hacker News
-- [Show HN: A playable toy model of frontier AI lab capex decisions](https://darios-dilemma.up.railway.app/) — Hacker News
+- [Show HN: AI-optimized x86-64 assembly vs. GCC -O3 on three production kernels](https://github.com/cleonard2341/ai-kernel-optimizer/blob/main/blog/ai-assembly-vs-gcc-o3.md) — Hacker News
+- [As Complexity Grows, Architecture Dominates Material](https://worksonmymachine.ai/p/as-complexity-grows-architecture) — Hacker News
+- [Show HN: LocalGPT Gen – LLM-driven world generation in Rust/Bevy [video]](https://www.youtube.com/watch?v=n18qnSDmBK0) — Hacker News
 <!--END_HEARTBEAT-->
