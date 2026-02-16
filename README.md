@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-15 07:47 UTC
+Last update: 2026-02-16 07:59 UTC
 
-- [Show HN: AI-optimized x86-64 assembly vs. GCC -O3 on three production kernels](https://github.com/cleonard2341/ai-kernel-optimizer/blob/main/blog/ai-assembly-vs-gcc-o3.md) — Hacker News
-- [As Complexity Grows, Architecture Dominates Material](https://worksonmymachine.ai/p/as-complexity-grows-architecture) — Hacker News
-- [Show HN: LocalGPT Gen – LLM-driven world generation in Rust/Bevy [video]](https://www.youtube.com/watch?v=n18qnSDmBK0) — Hacker News
+- [Aided by AI, Santa Monica broadens hunt for bike and bus lane blockers](https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/) — Hacker News
+- [Just in Time Software](https://commaok.xyz/ai/just-in-time-software/) — Hacker News
+- [Show HN: Pg-workflows – Lightweight workflows for Node.js using Postgres](https://sokratisvidros.github.io/pg-workflows/) — Hacker News
 <!--END_HEARTBEAT-->
