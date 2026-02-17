@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-16 07:59 UTC
+Last update: 2026-02-17 07:56 UTC
 
-- [Aided by AI, Santa Monica broadens hunt for bike and bus lane blockers](https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/) — Hacker News
-- [Just in Time Software](https://commaok.xyz/ai/just-in-time-software/) — Hacker News
-- [Show HN: Pg-workflows – Lightweight workflows for Node.js using Postgres](https://sokratisvidros.github.io/pg-workflows/) — Hacker News
+- [AI is destroying open source, and it's not even good yet](https://www.youtube.com/watch?v=bZJ7A1QoUEI) — Hacker News
+- [Why AI writing is so generic, boring, and dangerous: Semantic ablation](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/) — Hacker News
+- [Apax pulls out of Pinewood Technologies takeover after AI scare](https://www.thetimes.com/business/companies-markets/article/apax-pinewood-technologies-bid-ai-fqql85jzz) — Hacker News
 <!--END_HEARTBEAT-->
