@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-17 07:56 UTC
+Last update: 2026-02-18 07:57 UTC
 
-- [AI is destroying open source, and it's not even good yet](https://www.youtube.com/watch?v=bZJ7A1QoUEI) — Hacker News
-- [Why AI writing is so generic, boring, and dangerous: Semantic ablation](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/) — Hacker News
-- [Apax pulls out of Pinewood Technologies takeover after AI scare](https://www.thetimes.com/business/companies-markets/article/apax-pinewood-technologies-bid-ai-fqql85jzz) — Hacker News
+- [Show HN: I analyzed 120 films to help screenwriters test narrative structure](https://arc.quanten.co) — Hacker News
+- [Show HN: Converged – open-source ops layer for CNC shops and print bureaus](https://github.com/solenopsys/converged) — Hacker News
+- [Show HN: Rick Voice – Give any bot Rick Sanchez's voice (Python, open source)](https://github.com/mattzzz/rick-voice) — Hacker News
 <!--END_HEARTBEAT-->
