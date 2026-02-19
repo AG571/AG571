@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-18 07:57 UTC
+Last update: 2026-02-19 07:55 UTC
 
-- [Show HN: I analyzed 120 films to help screenwriters test narrative structure](https://arc.quanten.co) — Hacker News
-- [Show HN: Converged – open-source ops layer for CNC shops and print bureaus](https://github.com/solenopsys/converged) — Hacker News
-- [Show HN: Rick Voice – Give any bot Rick Sanchez's voice (Python, open source)](https://github.com/mattzzz/rick-voice) — Hacker News
+- [Show HN: Kore – local AI memory layer with Ebbinghaus forgetting curve](https://github.com/auriti-web-design/kore-memory) — Hacker News
+- [Show HN: Social Cookie Jar – Social media automation for AI agents](https://github.com/Artifact-Virtual/social-cookie-jar) — Hacker News
+- [Show HN: Onairos SDK– Unified Context API, unlocking cross platform user history](https://onairos.io) — Hacker News
 <!--END_HEARTBEAT-->
