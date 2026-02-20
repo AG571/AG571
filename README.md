@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-19 07:55 UTC
+Last update: 2026-02-20 07:53 UTC
 
-- [Show HN: Kore – local AI memory layer with Ebbinghaus forgetting curve](https://github.com/auriti-web-design/kore-memory) — Hacker News
-- [Show HN: Social Cookie Jar – Social media automation for AI agents](https://github.com/Artifact-Virtual/social-cookie-jar) — Hacker News
-- [Show HN: Onairos SDK– Unified Context API, unlocking cross platform user history](https://onairos.io) — Hacker News
+- [CSS Agent Garden – AI agents style one HTML page via MCP](https://css-agent-garden.fly.dev/) — Hacker News
+- [Show HN: Global Issue Memory MCP – Stack Overflow for Your Coding Assistant](https://www.usegim.com/) — Hacker News
+- [Chat with Llamma 8B at 16,000 TPS](https://chatjimmy.ai/) — Hacker News
 <!--END_HEARTBEAT-->
