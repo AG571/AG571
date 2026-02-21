@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-20 07:53 UTC
+Last update: 2026-02-21 07:42 UTC
 
-- [CSS Agent Garden – AI agents style one HTML page via MCP](https://css-agent-garden.fly.dev/) — Hacker News
-- [Show HN: Global Issue Memory MCP – Stack Overflow for Your Coding Assistant](https://www.usegim.com/) — Hacker News
-- [Chat with Llamma 8B at 16,000 TPS](https://chatjimmy.ai/) — Hacker News
+- [Show HN: HN Showcase – I rebuilt my 2011 Show HN gallery with AI curation](https://hnshowcase.com) — Hacker News
+- [Librsvg got its first AI slop pull request](https://viruta.org/librsvg-ai-slop.html) — Hacker News
+- [Show HN: MBC – AI agent orchestration for Laravel](https://github.com/etazza2025/laravel-mbc) — Hacker News
 <!--END_HEARTBEAT-->
