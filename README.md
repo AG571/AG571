@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-21 07:42 UTC
+Last update: 2026-02-22 07:46 UTC
 
-- [Show HN: HN Showcase – I rebuilt my 2011 Show HN gallery with AI curation](https://hnshowcase.com) — Hacker News
-- [Librsvg got its first AI slop pull request](https://viruta.org/librsvg-ai-slop.html) — Hacker News
-- [Show HN: MBC – AI agent orchestration for Laravel](https://github.com/etazza2025/laravel-mbc) — Hacker News
+- ['Training a Human Takes 20 Years of Food': Sam Altman on How Much Power AI Uses](https://www.news18.com/world/training-a-human-takes-20-years-of-food-sam-altman-on-how-much-power-ai-consumes-ws-kl-9922309.html) — Hacker News
+- [AI Tools: Slowing Down Developers Instead of Speeding Them Up – Here's Why](https://medium.com/@riturajpokhriyal/why-ai-coding-tools-are-making-you-slower-and-what-actually-works-c18f432e470b) — Hacker News
+- [Z-Image is an AI-powered image generator](https://z-image.fun/) — Hacker News
 <!--END_HEARTBEAT-->
