@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-22 07:46 UTC
+Last update: 2026-02-23 08:00 UTC
 
-- ['Training a Human Takes 20 Years of Food': Sam Altman on How Much Power AI Uses](https://www.news18.com/world/training-a-human-takes-20-years-of-food-sam-altman-on-how-much-power-ai-consumes-ws-kl-9922309.html) — Hacker News
-- [AI Tools: Slowing Down Developers Instead of Speeding Them Up – Here's Why](https://medium.com/@riturajpokhriyal/why-ai-coding-tools-are-making-you-slower-and-what-actually-works-c18f432e470b) — Hacker News
-- [Z-Image is an AI-powered image generator](https://z-image.fun/) — Hacker News
+- [Show HN: OpenGem – A Load-Balanced Gemini API Proxy (No API Key Required)](https://github.com/arifozgun/OpenGem) — Hacker News
+- [Web Verbs](https://github.com/nlweb-ai/MSR-Web-Verbs) — Hacker News
+- [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/) — Hacker News
 <!--END_HEARTBEAT-->
