@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-23 08:00 UTC
+Last update: 2026-02-24 07:57 UTC
 
-- [Show HN: OpenGem – A Load-Balanced Gemini API Proxy (No API Key Required)](https://github.com/arifozgun/OpenGem) — Hacker News
-- [Web Verbs](https://github.com/nlweb-ai/MSR-Web-Verbs) — Hacker News
-- [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/) — Hacker News
+- [Next-Markdown-mirror – make Next.js pages readable to AI (Markdown and llms.txt)](https://github.com/JakubKontra/next-markdown-mirror) — Hacker News
+- [Pi Coding Agent](https://shittycodingagent.ai/) — Hacker News
+- [Help me with positioning/marketing of my AI agent](https://getharmony.ai/) — Hacker News
 <!--END_HEARTBEAT-->
