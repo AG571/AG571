@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-25 07:59 UTC
+Last update: 2026-02-26 07:57 UTC
 
-- [ShipGrowth – Discover, Compare and Submit Best AI Tools](https://shipgrowth.dev) — Hacker News
-- [WiseTech Global to cut 2k jobs as AI ends era of 'manually writing code'](https://www.abc.net.au/news/2026-02-25/wisetech-job-losses-losing-2000-over-next-two-years-coding-era/106387486) — Hacker News
-- [Show HN: Chorus – Open-source Agent and human collaboration platform on AI-DLC](https://github.com/Chorus-AIDLC/Chorus) — Hacker News
+- ["AI raises the quality of tuning beyond what most of us can achieve manually"](https://medium.com/@fransverduynlunel/a-fluitje-van-een-cent-my-experience-automating-postgres-performance-tuning-9d816a9ab96d) — Hacker News
+- [Show HN: PolyTell-AI Chrome extension that shows Polymarket odds as you browse](https://polytell.app/) — Hacker News
+- [Free AI Headshot Generator – Professional Photos from Any Selfie](https://aiheadshotgenerator.online/) — Hacker News
 <!--END_HEARTBEAT-->
