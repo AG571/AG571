@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-26 07:57 UTC
+Last update: 2026-02-27 07:52 UTC
 
-- ["AI raises the quality of tuning beyond what most of us can achieve manually"](https://medium.com/@fransverduynlunel/a-fluitje-van-een-cent-my-experience-automating-postgres-performance-tuning-9d816a9ab96d) — Hacker News
-- [Show HN: PolyTell-AI Chrome extension that shows Polymarket odds as you browse](https://polytell.app/) — Hacker News
-- [Free AI Headshot Generator – Professional Photos from Any Selfie](https://aiheadshotgenerator.online/) — Hacker News
+- [Let's AI be your shipping manager](https://atoship.com/docs/integrations/openclaw) — Hacker News
+- [Block lays off 40% of its staff because of AI, CEO says most CO will do the same](https://www.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey) — Hacker News
+- [Jack Dorseys Block to cut nearly half its workforce in AI overhaul, shares surge](https://www.reuters.com/business/blocks-fourth-quarter-profit-rises-announces-over-4000-job-cuts-2026-02-26/) — Hacker News
 <!--END_HEARTBEAT-->
