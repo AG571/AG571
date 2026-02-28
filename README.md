@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-27 07:52 UTC
+Last update: 2026-02-28 07:36 UTC
 
-- [Let's AI be your shipping manager](https://atoship.com/docs/integrations/openclaw) — Hacker News
-- [Block lays off 40% of its staff because of AI, CEO says most CO will do the same](https://www.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey) — Hacker News
-- [Jack Dorseys Block to cut nearly half its workforce in AI overhaul, shares surge](https://www.reuters.com/business/blocks-fourth-quarter-profit-rises-announces-over-4000-job-cuts-2026-02-26/) — Hacker News
+- [Show HN: Open Vernacular AI Kit – preprocessing for Indian code-mixed text](https://github.com/SudhirGadhvi/open-vernacular-ai-kit) — Hacker News
+- [Monitor the Situation Dashboard](https://monitor-the-situation.com) — Hacker News
+- [Show HN: Bridge your Claude/OpenAI subs into a team API with per-key cost caps](https://github.com/Shreyas-Dayal/ai-cli-bridge) — Hacker News
 <!--END_HEARTBEAT-->
