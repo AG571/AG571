@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-02-28 07:36 UTC
+Last update: 2026-03-01 07:44 UTC
 
-- [Show HN: Open Vernacular AI Kit – preprocessing for Indian code-mixed text](https://github.com/SudhirGadhvi/open-vernacular-ai-kit) — Hacker News
-- [Monitor the Situation Dashboard](https://monitor-the-situation.com) — Hacker News
-- [Show HN: Bridge your Claude/OpenAI subs into a team API with per-key cost caps](https://github.com/Shreyas-Dayal/ai-cli-bridge) — Hacker News
+- [10-202: Introduction to Modern AI (CMU)](https://modernaicourse.org) — Hacker News
+- [Worlds First AI-OS](https://github.com/siresorose/ai-os) — Hacker News
+- [Show HN: MemLineage: governed writes for AI agents](https://github.com/zhuamber370/memlineage) — Hacker News
 <!--END_HEARTBEAT-->
