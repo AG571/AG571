@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-01 07:44 UTC
+Last update: 2026-03-02 07:53 UTC
 
-- [10-202: Introduction to Modern AI (CMU)](https://modernaicourse.org) — Hacker News
-- [Worlds First AI-OS](https://github.com/siresorose/ai-os) — Hacker News
-- [Show HN: MemLineage: governed writes for AI agents](https://github.com/zhuamber370/memlineage) — Hacker News
+- [The AI ROI Gap](https://www.samratjha.com/blog/enterprise-ai-roi/) — Hacker News
+- [Show HN: A minimal neumorphic CSS library](https://github.com/liliang-cn/TactileCSS) — Hacker News
+- [Show HN: Instant file upload and URL for AI agents](https://upfile.sh/) — Hacker News
 <!--END_HEARTBEAT-->
