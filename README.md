@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-02 07:53 UTC
+Last update: 2026-03-03 07:51 UTC
 
-- [The AI ROI Gap](https://www.samratjha.com/blog/enterprise-ai-roi/) — Hacker News
-- [Show HN: A minimal neumorphic CSS library](https://github.com/liliang-cn/TactileCSS) — Hacker News
-- [Show HN: Instant file upload and URL for AI agents](https://upfile.sh/) — Hacker News
+- [Building AI agent for our own company](https://blog.leanmcp.com/blog/llms-getting-leanmcp-wrong) — Hacker News
+- [Show HN: C-Suite Skills – a full exec team as skills](https://github.com/pollow/c-suite-skills) — Hacker News
+- [Veo 3 AI](https://veo-3-ai.org/) — Hacker News
 <!--END_HEARTBEAT-->
