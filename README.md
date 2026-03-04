@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-03 07:51 UTC
+Last update: 2026-03-04 07:49 UTC
 
-- [Building AI agent for our own company](https://blog.leanmcp.com/blog/llms-getting-leanmcp-wrong) — Hacker News
-- [Show HN: C-Suite Skills – a full exec team as skills](https://github.com/pollow/c-suite-skills) — Hacker News
-- [Veo 3 AI](https://veo-3-ai.org/) — Hacker News
+- [Show HN: LEAX – CLI tool for analyzing C memory leaks with AI-assisted fixes](https://github.com/hooop/leax) — Hacker News
+- [All top AI models in one place – GPT, Claude, Gemini, Grok](https://www.chatgoat.ai/en) — Hacker News
+- [China uses AI doctor clones to help patients and improve healthcare](https://zoneofasia.com/china-uses-ai-doctor-clones-to-help-patients-and-improve-healthcare/) — Hacker News
 <!--END_HEARTBEAT-->
