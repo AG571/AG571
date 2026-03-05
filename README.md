@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-04 07:49 UTC
+Last update: 2026-03-05 07:51 UTC
 
-- [Show HN: LEAX – CLI tool for analyzing C memory leaks with AI-assisted fixes](https://github.com/hooop/leax) — Hacker News
-- [All top AI models in one place – GPT, Claude, Gemini, Grok](https://www.chatgoat.ai/en) — Hacker News
-- [China uses AI doctor clones to help patients and improve healthcare](https://zoneofasia.com/china-uses-ai-doctor-clones-to-help-patients-and-improve-healthcare/) — Hacker News
+- [Sam Altman admits OpenAI can't control Pentagon's use of AI](https://www.theguardian.com/technology/2026/mar/04/sam-altman-openai-pentagon) — Hacker News
+- [Show HN: BitFun – An Agentic Development Environment (Rust and TypeScript)](https://github.com/GCWing/BitFun) — Hacker News
+- [AI model trained on 9.3T base pairs can now design novel genes](https://www.dongascience.com/en/news/76660) — Hacker News
 <!--END_HEARTBEAT-->
