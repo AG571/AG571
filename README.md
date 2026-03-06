@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-05 07:51 UTC
+Last update: 2026-03-06 07:49 UTC
 
-- [Sam Altman admits OpenAI can't control Pentagon's use of AI](https://www.theguardian.com/technology/2026/mar/04/sam-altman-openai-pentagon) — Hacker News
-- [Show HN: BitFun – An Agentic Development Environment (Rust and TypeScript)](https://github.com/GCWing/BitFun) — Hacker News
-- [AI model trained on 9.3T base pairs can now design novel genes](https://www.dongascience.com/en/news/76660) — Hacker News
+- [Show HN: Codebase-md – Creates Claude.md, .cursorrules, AGENTS.md from any repo](https://github.com/sauravanand542/codebase-md) — Hacker News
+- [Kuberna Labs: AI's Economic Engine](https://github.com/kawacukennedy/kuberna-labs) — Hacker News
+- [Shellfirm – Safety guardrails for AI coding agents](https://shellfirm.vercel.app/) — Hacker News
 <!--END_HEARTBEAT-->
