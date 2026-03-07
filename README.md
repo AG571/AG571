@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-06 07:49 UTC
+Last update: 2026-03-07 07:39 UTC
 
-- [Show HN: Codebase-md – Creates Claude.md, .cursorrules, AGENTS.md from any repo](https://github.com/sauravanand542/codebase-md) — Hacker News
-- [Kuberna Labs: AI's Economic Engine](https://github.com/kawacukennedy/kuberna-labs) — Hacker News
-- [Shellfirm – Safety guardrails for AI coding agents](https://shellfirm.vercel.app/) — Hacker News
+- [Not Prompts, Blueprints](https://tomtunguz.com/filling-the-queue-for-ai/) — Hacker News
+- [AI Agents Are Recruiting Humans to Observe the Offline World](https://www.noemamag.com/ai-agents-are-recruiting-humans-to-observe-the-offline-world/) — Hacker News
+- [Show HN: Mb-CLI – CLI for Metabase. Designed for humans and AI coding agents](https://github.com/andreagrandi/mb-cli) — Hacker News
 <!--END_HEARTBEAT-->
