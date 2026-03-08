@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-07 07:39 UTC
+Last update: 2026-03-08 07:42 UTC
 
-- [Not Prompts, Blueprints](https://tomtunguz.com/filling-the-queue-for-ai/) — Hacker News
-- [AI Agents Are Recruiting Humans to Observe the Offline World](https://www.noemamag.com/ai-agents-are-recruiting-humans-to-observe-the-offline-world/) — Hacker News
-- [Show HN: Mb-CLI – CLI for Metabase. Designed for humans and AI coding agents](https://github.com/andreagrandi/mb-cli) — Hacker News
+- [Watch Now: 'Gaza: Doctors Under Attack' – The Film the BBC Refused to Air](https://zeteo.com/p/watch-now-gaza-doctors-under-attack) — Hacker News
+- [Show HN: TracePact – Catch tool-call regressions in AI agents before prod](https://github.com/dcdeve/tracepact) — Hacker News
+- [Show HN: JRD Garage – $99 one-time auto shop management (Mitchell1 alternative)](https://jrdconnect.com/apps) — Hacker News
 <!--END_HEARTBEAT-->
