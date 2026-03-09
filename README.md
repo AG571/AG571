@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-08 07:42 UTC
+Last update: 2026-03-09 07:55 UTC
 
-- [Watch Now: 'Gaza: Doctors Under Attack' – The Film the BBC Refused to Air](https://zeteo.com/p/watch-now-gaza-doctors-under-attack) — Hacker News
-- [Show HN: TracePact – Catch tool-call regressions in AI agents before prod](https://github.com/dcdeve/tracepact) — Hacker News
-- [Show HN: JRD Garage – $99 one-time auto shop management (Mitchell1 alternative)](https://jrdconnect.com/apps) — Hacker News
+- [Show HN: Satellite imagery object detection using text prompts](https://www.useful-ai-tools.com/tools/satellite-analysis-demo/) — Hacker News
+- [How are fintech companies using AI to speed up loan approvals?](https://simplai.ai/financial-services) — Hacker News
+- [The Volokh Conspiracy Blog's AI in Court Archives](https://reason.com/category/law/ai-in-court/) — Hacker News
 <!--END_HEARTBEAT-->
