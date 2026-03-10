@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-09 07:55 UTC
+Last update: 2026-03-10 07:51 UTC
 
-- [Show HN: Satellite imagery object detection using text prompts](https://www.useful-ai-tools.com/tools/satellite-analysis-demo/) — Hacker News
-- [How are fintech companies using AI to speed up loan approvals?](https://simplai.ai/financial-services) — Hacker News
-- [The Volokh Conspiracy Blog's AI in Court Archives](https://reason.com/category/law/ai-in-court/) — Hacker News
+- [AI Gold Trading Bot reinforcement learning system for autonomous XAUUSD trading](https://github.com/forbbiden403/tradingbot) — Hacker News
+- [Show HN: Isaacus – the legal AI research company](https://isaacus.com/) — Hacker News
+- [What AI Models for War Look Like](https://www.wired.com/story/ai-model-military-use-smack-technologies/) — Hacker News
 <!--END_HEARTBEAT-->
