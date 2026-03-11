@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-10 07:51 UTC
+Last update: 2026-03-11 07:51 UTC
 
-- [AI Gold Trading Bot reinforcement learning system for autonomous XAUUSD trading](https://github.com/forbbiden403/tradingbot) — Hacker News
-- [Show HN: Isaacus – the legal AI research company](https://isaacus.com/) — Hacker News
-- [What AI Models for War Look Like](https://www.wired.com/story/ai-model-military-use-smack-technologies/) — Hacker News
+- [The State of AI in the Enterprise 2026](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html) — Hacker News
+- [AutoKernel: Autoresearch for GPU Kernels](https://github.com/RightNow-AI/autokernel) — Hacker News
+- [I Reduced 5 hours of Testing my Agentic AI applcaition to 10 mins](https://github.com/onepaneai/mantis) — Hacker News
 <!--END_HEARTBEAT-->
