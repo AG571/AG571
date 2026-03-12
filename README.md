@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-11 07:51 UTC
+Last update: 2026-03-12 07:52 UTC
 
-- [The State of AI in the Enterprise 2026](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html) — Hacker News
-- [AutoKernel: Autoresearch for GPU Kernels](https://github.com/RightNow-AI/autokernel) — Hacker News
-- [I Reduced 5 hours of Testing my Agentic AI applcaition to 10 mins](https://github.com/onepaneai/mantis) — Hacker News
+- [Show HN: AI-powered one-click translator for Pokémon GBA ROM hacks](https://github.com/Olcmyk/Meowth-GBA-Translator) — Hacker News
+- [GSD for Claude Code: A Deep Dive into the Workflow System](https://www.codecentric.de/en/knowledge-hub/blog/the-anatomy-of-claude-code-workflows-turning-slash-commands-into-an-ai-development-system) — Hacker News
+- [Show HN: Okapi yet Another Observability Thing](https://github.com/okapi-core/okapi) — Hacker News
 <!--END_HEARTBEAT-->
