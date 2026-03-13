@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-12 07:52 UTC
+Last update: 2026-03-13 07:51 UTC
 
-- [Show HN: AI-powered one-click translator for Pokémon GBA ROM hacks](https://github.com/Olcmyk/Meowth-GBA-Translator) — Hacker News
-- [GSD for Claude Code: A Deep Dive into the Workflow System](https://www.codecentric.de/en/knowledge-hub/blog/the-anatomy-of-claude-code-workflows-turning-slash-commands-into-an-ai-development-system) — Hacker News
-- [Show HN: Okapi yet Another Observability Thing](https://github.com/okapi-core/okapi) — Hacker News
+- [What if compiler errors were an API? (AI-native language demo)](https://asciinema.org/a/834560) — Hacker News
+- [Show HN: ROI-first AI automation framework for B2B companies](https://roihacking.ai/) — Hacker News
+- [Same Chat App, 4 Frameworks: Pydantic AI vs. LangChain vs. LangGraph vs. CrewAI](https://oss.vstorm.co/blog/same-chat-app-4-frameworks/) — Hacker News
 <!--END_HEARTBEAT-->
