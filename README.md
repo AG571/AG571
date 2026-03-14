@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-13 07:51 UTC
+Last update: 2026-03-14 07:48 UTC
 
-- [What if compiler errors were an API? (AI-native language demo)](https://asciinema.org/a/834560) — Hacker News
-- [Show HN: ROI-first AI automation framework for B2B companies](https://roihacking.ai/) — Hacker News
-- [Same Chat App, 4 Frameworks: Pydantic AI vs. LangChain vs. LangGraph vs. CrewAI](https://oss.vstorm.co/blog/same-chat-app-4-frameworks/) — Hacker News
+- [Show HN: PDR AI – Open-source startup accelerator engine for non-technical chaos](https://github.com/Deodat-Lawson/LaunchStack) — Hacker News
+- [Google AI Pro users getting locked out of Antigravity](https://discuss.ai.google.dev/t/google-ai-pro-subscription-antigravity-quota-not-working-as-advertised-10-day-lockout-instead-of-5-hour-reset/118505) — Hacker News
+- [Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html) — Hacker News
 <!--END_HEARTBEAT-->
