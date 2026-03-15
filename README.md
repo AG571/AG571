@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-14 07:48 UTC
+Last update: 2026-03-15 07:51 UTC
 
-- [Show HN: PDR AI – Open-source startup accelerator engine for non-technical chaos](https://github.com/Deodat-Lawson/LaunchStack) — Hacker News
-- [Google AI Pro users getting locked out of Antigravity](https://discuss.ai.google.dev/t/google-ai-pro-subscription-antigravity-quota-not-working-as-advertised-10-day-lockout-instead-of-5-hour-reset/118505) — Hacker News
-- [Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html) — Hacker News
+- [PrivAI – private AI search that runs locally](https://chatpdf-server-shtq.onrender.com/) — Hacker News
+- [Palantir CEO on Iran, AI Weapons and America's Advantage: A16Z American Dynamism [video]](https://www.youtube.com/watch?v=Wj6ttdIeBnE) — Hacker News
+- [I built an AI hedge fund panel that debates any stock](https://ainvest-jnpzmtom62rulztvu24d6c.streamlit.app/) — Hacker News
 <!--END_HEARTBEAT-->
