@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-15 07:51 UTC
+Last update: 2026-03-16 08:13 UTC
 
-- [PrivAI – private AI search that runs locally](https://chatpdf-server-shtq.onrender.com/) — Hacker News
-- [Palantir CEO on Iran, AI Weapons and America's Advantage: A16Z American Dynamism [video]](https://www.youtube.com/watch?v=Wj6ttdIeBnE) — Hacker News
-- [I built an AI hedge fund panel that debates any stock](https://ainvest-jnpzmtom62rulztvu24d6c.streamlit.app/) — Hacker News
+- [Show HN: Multibot – Open-source multi-bot AI platform on Cloudflare Workers](https://github.com/codance-ai/multibot) — Hacker News
+- [Show HN: Vizit – Generate and organise visualizations from Jira using AI agents](https://github.com/reposquirrel/Vizit) — Hacker News
+- [Code on the Fastest Largest AI Chip Ever Built](https://www.jackpearce.co.uk/notes/gpt-5-3-codex-spark-wse3-real-time-coding/) — Hacker News
 <!--END_HEARTBEAT-->
