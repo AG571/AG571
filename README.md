@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-16 08:13 UTC
+Last update: 2026-03-17 08:00 UTC
 
-- [Show HN: Multibot – Open-source multi-bot AI platform on Cloudflare Workers](https://github.com/codance-ai/multibot) — Hacker News
-- [Show HN: Vizit – Generate and organise visualizations from Jira using AI agents](https://github.com/reposquirrel/Vizit) — Hacker News
-- [Code on the Fastest Largest AI Chip Ever Built](https://www.jackpearce.co.uk/notes/gpt-5-3-codex-spark-wse3-real-time-coding/) — Hacker News
+- [40k-line AI platform built solo with Rails, self-hosted GPU, and an agent](https://austn.net/blog/building-an-ai-native-web-platform) — Hacker News
+- [China is running multiple AI races](https://www.brookings.edu/articles/china-is-running-multiple-ai-races/) — Hacker News
+- [Clawforge SaaS Starter: OpenClaw and Nvidia Starter for Local AI SaaS Workflows](https://github.com/autopilotaitech/clawforge-saas-starter) — Hacker News
 <!--END_HEARTBEAT-->
