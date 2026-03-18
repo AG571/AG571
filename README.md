@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-17 08:00 UTC
+Last update: 2026-03-18 07:58 UTC
 
-- [40k-line AI platform built solo with Rails, self-hosted GPU, and an agent](https://austn.net/blog/building-an-ai-native-web-platform) — Hacker News
-- [China is running multiple AI races](https://www.brookings.edu/articles/china-is-running-multiple-ai-races/) — Hacker News
-- [Clawforge SaaS Starter: OpenClaw and Nvidia Starter for Local AI SaaS Workflows](https://github.com/autopilotaitech/clawforge-saas-starter) — Hacker News
+- [Citcon: AI – Helsinki](https://citconf.com/helsinki2026/) — Hacker News
+- [AI won't make you rich. But fixing bugs in AI slopware will](https://boreal.social/post/ai-wont-make-you-rich-but-fixing-bugs-in-ai-slopware-will) — Hacker News
+- [Community Security Scans: Crowd-Sourced Trust for AI Agent Skills](https://skillsgate.ai/blog/community-security-scans) — Hacker News
 <!--END_HEARTBEAT-->
