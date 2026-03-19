@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-18 07:58 UTC
+Last update: 2026-03-19 07:53 UTC
 
-- [Citcon: AI – Helsinki](https://citconf.com/helsinki2026/) — Hacker News
-- [AI won't make you rich. But fixing bugs in AI slopware will](https://boreal.social/post/ai-wont-make-you-rich-but-fixing-bugs-in-ai-slopware-will) — Hacker News
-- [Community Security Scans: Crowd-Sourced Trust for AI Agent Skills](https://skillsgate.ai/blog/community-security-scans) — Hacker News
+- [Nvidia's AI-Powered Photorealistic Gaming Technology Roasted as 'AI Slop'](https://www.forbes.com/sites/conormurray/2026/03/17/nvidias-ai-powered-photorealistic-gaming-technology-roasted-as-ai-slop/) — Hacker News
+- [EpsteinBench: We Brought Epstein's Voice Back but Got More Than We Wanted](https://morgin.ai/articles/epsteinbench-we-brought-epsteins-voice-back.html) — Hacker News
+- [Arc Cancer Treatment Framework](https://arood.ai/console/arc/cancer) — Hacker News
 <!--END_HEARTBEAT-->
