@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-19 07:53 UTC
+Last update: 2026-03-20 07:52 UTC
 
-- [Nvidia's AI-Powered Photorealistic Gaming Technology Roasted as 'AI Slop'](https://www.forbes.com/sites/conormurray/2026/03/17/nvidias-ai-powered-photorealistic-gaming-technology-roasted-as-ai-slop/) — Hacker News
-- [EpsteinBench: We Brought Epstein's Voice Back but Got More Than We Wanted](https://morgin.ai/articles/epsteinbench-we-brought-epsteins-voice-back.html) — Hacker News
-- [Arc Cancer Treatment Framework](https://arood.ai/console/arc/cancer) — Hacker News
+- [Does an LLM Trained on Epstein's Voice Make Better Deals?](https://morgin.ai/articles/epsteinbench-we-brought-epsteins-voice-back.html) — Hacker News
+- [Best Resource AI](https://bestresource-ai.web.app) — Hacker News
+- [Show HN: Memoria – Snapshot, branch, and rollback for AI agent memory](https://github.com/matrixorigin/Memoria) — Hacker News
 <!--END_HEARTBEAT-->
