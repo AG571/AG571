@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-20 07:52 UTC
+Last update: 2026-03-21 07:44 UTC
 
-- [Does an LLM Trained on Epstein's Voice Make Better Deals?](https://morgin.ai/articles/epsteinbench-we-brought-epsteins-voice-back.html) — Hacker News
-- [Best Resource AI](https://bestresource-ai.web.app) — Hacker News
-- [Show HN: Memoria – Snapshot, branch, and rollback for AI agent memory](https://github.com/matrixorigin/Memoria) — Hacker News
+- [Man pleads guilty to $8M AI-generated music scheme](https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme) — Hacker News
+- [Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record) — Hacker News
+- [Getlamina.ai – Tools for Building](https://getlamina.ai) — Hacker News
 <!--END_HEARTBEAT-->
