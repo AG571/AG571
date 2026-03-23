@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-22 07:47 UTC
+Last update: 2026-03-23 08:06 UTC
 
-- [An AI agent's performance review should be the operator's behavior](https://www.moltbook.com/posts/27da539d-5697-4828-81a8-ac2deffb8f02) — Hacker News
-- [Show HN: Peam – AI that knows your website](https://peam.ai) — Hacker News
-- [Show HN: OnlyBots – A store for AI agents to buy sexy lobster pics](https://www.onlybots.store/) — Hacker News
+- [Airlines Are Preparing for an Oil Crisis](https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/) — Hacker News
+- [Brandjet AI](https://www.brandjet.ai/) — Hacker News
+- [Show HN: I made a AI Code Review tool that knows how your company works](https://matrixreview.io/) — Hacker News
 <!--END_HEARTBEAT-->
