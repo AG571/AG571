@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-23 08:06 UTC
+Last update: 2026-03-24 08:00 UTC
 
-- [Airlines Are Preparing for an Oil Crisis](https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/) — Hacker News
-- [Brandjet AI](https://www.brandjet.ai/) — Hacker News
-- [Show HN: I made a AI Code Review tool that knows how your company works](https://matrixreview.io/) — Hacker News
+- [Women Are Falling in Love with A.I. It's a Problem for Beijing](https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html) — Hacker News
+- [A simple feed to keep up with AI drops](https://www.a2i.now/) — Hacker News
+- [AI Proteomics Competition 2026 – $13K Prize, Internships and Compute Support](https://www.bohrium.com/competitions/9813928053?tab=introduce) — Hacker News
 <!--END_HEARTBEAT-->
