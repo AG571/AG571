@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-24 08:00 UTC
+Last update: 2026-03-25 07:59 UTC
 
-- [Women Are Falling in Love with A.I. It's a Problem for Beijing](https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html) — Hacker News
-- [A simple feed to keep up with AI drops](https://www.a2i.now/) — Hacker News
-- [AI Proteomics Competition 2026 – $13K Prize, Internships and Compute Support](https://www.bohrium.com/competitions/9813928053?tab=introduce) — Hacker News
+- [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) — Hacker News
+- [Voxyflow Personal AI bot that executes tasks from your Kanban cards](https://github.com/jcviau81/voxyflow) — Hacker News
+- [Show HN: Articyl – save anything, consume it anywhere (articles, podcasts, RSS)](https://articyl.com/) — Hacker News
 <!--END_HEARTBEAT-->
