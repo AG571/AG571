@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-25 07:59 UTC
+Last update: 2026-03-26 08:07 UTC
 
-- [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) — Hacker News
-- [Voxyflow Personal AI bot that executes tasks from your Kanban cards](https://github.com/jcviau81/voxyflow) — Hacker News
-- [Show HN: Articyl – save anything, consume it anywhere (articles, podcasts, RSS)](https://articyl.com/) — Hacker News
+- [The Download: reawakening frozen brains, and the AI Hype Index returns](https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/) — Hacker News
+- [Granola raises $125M at $1.5B valuation](https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/) — Hacker News
+- [Rich Content AI Chat](https://99helpers.com/tools/ai-chat) — Hacker News
 <!--END_HEARTBEAT-->
