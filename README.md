@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-27 08:04 UTC
+Last update: 2026-03-28 07:50 UTC
 
-- [A Shakeup Is Coming for the Nation-State: AI and drones may shift basis of power](https://www.thenewatlantis.com/publications/a-shakeup-is-coming-for-the-nation-state) — Hacker News
-- [Free Online AI Photo Editor](https://aiphotoeditor.io) — Hacker News
-- [Investors Prefer AI-Powered Vertical Startups](https://seedium.io/blog/tech-startup-trends/) — Hacker News
+- [CSS Refactoring with an AI Safety Net](https://danielabaron.me/blog/css-refactoring-with-an-ai-safety-net/) — Hacker News
+- [Show HN: Layer – Hide your personal AI files from Git without touching gitignore](https://crates.io/crates/git-layer) — Hacker News
+- [I Let AI Write My Code, but Not My Writing](https://hermeticwoodsman.substack.com/p/why-i-let-ai-write-my-code-but-not) — Hacker News
 <!--END_HEARTBEAT-->
