@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-28 07:50 UTC
+Last update: 2026-03-29 07:56 UTC
 
-- [CSS Refactoring with an AI Safety Net](https://danielabaron.me/blog/css-refactoring-with-an-ai-safety-net/) — Hacker News
-- [Show HN: Layer – Hide your personal AI files from Git without touching gitignore](https://crates.io/crates/git-layer) — Hacker News
-- [I Let AI Write My Code, but Not My Writing](https://hermeticwoodsman.substack.com/p/why-i-let-ai-write-my-code-but-not) — Hacker News
+- [A Recipe for Steganogravy](https://theo.lol/python/ai/steganography/seo/recipes/2026/03/27/a-recipe-for-steganogravy.html) — Hacker News
+- [Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x](https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/) — Hacker News
+- [AI Hot Takes from a Platform Engineer / SRE](https://alienchow.dev/post/ai_takeaways_mar_2026/) — Hacker News
 <!--END_HEARTBEAT-->
