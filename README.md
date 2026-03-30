@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-29 07:56 UTC
+Last update: 2026-03-30 08:45 UTC
 
-- [A Recipe for Steganogravy](https://theo.lol/python/ai/steganography/seo/recipes/2026/03/27/a-recipe-for-steganogravy.html) — Hacker News
-- [Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x](https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/) — Hacker News
-- [AI Hot Takes from a Platform Engineer / SRE](https://alienchow.dev/post/ai_takeaways_mar_2026/) — Hacker News
+- [You're right to be anxious about AI: This is how much we are building](https://www.dumky.net/posts/youre-right-to-be-anxious-about-ai-this-is-how-much-we-are-building/) — Hacker News
+- [Mathematical methods and human thought in the age of AI](https://terrytao.wordpress.com/2026/03/29/mathematical-methods-and-human-thought-in-the-age-of-ai/) — Hacker News
+- [Mistral raises $830M to build Nvidia-powered AI centres in Europe](https://www.ft.com/content/229f4f59-d518-4e00-abd6-5a5b727cd2aa) — Hacker News
 <!--END_HEARTBEAT-->
