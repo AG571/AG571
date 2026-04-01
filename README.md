@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-03-31 08:14 UTC
+Last update: 2026-04-01 08:20 UTC
 
-- [The Inference Shift – How Cheap Chips Could Put Frontier AI in Everyone's Hands](https://substack.com/home/post/p-192665961) — Hacker News
-- [Show HN: Free AI Coding Skills for Rails](https://www.railsreviews.com/skills) — Hacker News
-- [Executive Briefing: The Invisible AI Input](https://dekodiert.de/en/articles/unsichtbare-input) — Hacker News
+- [The Claude Code Source Leak](https://www.latent.space/p/ainews-the-claude-code-source-leak) — Hacker News
+- [I built a simple AI cartoon generator with multiple styles](https://www.aicartoon.info) — Hacker News
+- [Show HN: Kbot – open-source terminal AI with dream engine (676 tools, $0 local)](https://github.com/isaacsight/kernel) — Hacker News
 <!--END_HEARTBEAT-->
