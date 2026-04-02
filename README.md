@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-01 08:20 UTC
+Last update: 2026-04-02 08:13 UTC
 
-- [The Claude Code Source Leak](https://www.latent.space/p/ainews-the-claude-code-source-leak) — Hacker News
-- [I built a simple AI cartoon generator with multiple styles](https://www.aicartoon.info) — Hacker News
-- [Show HN: Kbot – open-source terminal AI with dream engine (676 tools, $0 local)](https://github.com/isaacsight/kernel) — Hacker News
+- [Pupils in England are losing their thinking skills because of AI, survey suggest](https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey) — Hacker News
+- [The Stages of AI Grief](https://deknijf.com/posts/stages-of-ai-grief/) — Hacker News
+- [Show HN: Widekey Keyboard for Android, double/long tap for 2nd on dual button](https://github.com/kaie/widekey-keyboard) — Hacker News
 <!--END_HEARTBEAT-->
