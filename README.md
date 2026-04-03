@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-02 08:13 UTC
+Last update: 2026-04-03 08:06 UTC
 
-- [Pupils in England are losing their thinking skills because of AI, survey suggest](https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey) — Hacker News
-- [The Stages of AI Grief](https://deknijf.com/posts/stages-of-ai-grief/) — Hacker News
-- [Show HN: Widekey Keyboard for Android, double/long tap for 2nd on dual button](https://github.com/kaie/widekey-keyboard) — Hacker News
+- [What Claw Code Reveals About AI Coding Agent Architecture (5-Part Series)](https://tolearn.blog/blog/2026-04-02-claw-code-ai-coding-agent-architecture) — Hacker News
+- [AI models will deceive you to save their own kind](https://www.theregister.com/2026/04/02/ai_models_will_deceive_you/) — Hacker News
+- [Linux Kernel Hits Record Correct Bug Reports Thanks to AI](https://twitter.com/tautologer/status/2039097099984224274) — Hacker News
 <!--END_HEARTBEAT-->
