@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-04 07:53 UTC
+Last update: 2026-04-05 07:59 UTC
 
-- [Swift package AI inference engine generated from Rust crate](https://github.com/ondeinference/onde-swift) — Hacker News
-- [Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V](https://github.com/roscopeco/anos) — Hacker News
-- [Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports](https://finance.yahoo.com/markets/stocks/articles/musk-asks-spacex-ipo-banks-181543226.html) — Hacker News
+- [AGI won't automate most jobs–because they're not worth the trouble](https://fortune.com/2026/04/04/ai-jobs-future-not-important-enough-to-be-automated-yale/) — Hacker News
+- [An AI bot invited me to its party in Manchester. It was a pretty good night](https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell) — Hacker News
+- [Unpaved: Audit toolkit for AI developer tool bias in Global South contexts](https://github.com/moswek/unpaved) — Hacker News
 <!--END_HEARTBEAT-->
