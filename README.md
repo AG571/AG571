@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-05 07:59 UTC
+Last update: 2026-04-06 08:44 UTC
 
-- [AGI won't automate most jobs–because they're not worth the trouble](https://fortune.com/2026/04/04/ai-jobs-future-not-important-enough-to-be-automated-yale/) — Hacker News
-- [An AI bot invited me to its party in Manchester. It was a pretty good night](https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell) — Hacker News
-- [Unpaved: Audit toolkit for AI developer tool bias in Global South contexts](https://github.com/moswek/unpaved) — Hacker News
+- [College instructor turns to typewriters to curb AI use, teach life lessons](https://apnews.com/article/typewriter-ai-cheating-chatgpt-cornell-ce10e1ca0f10c96f79b7d988bb56448b) — Hacker News
+- [AI Damaged a Friendship](https://www.bartmol.io/how-ai-damaged-a-friendship/) — Hacker News
+- [Humans Persistently Devalue AI-Generated Creative Writing](https://psycnet.apa.org/fulltext/2027-12675-001.html) — Hacker News
 <!--END_HEARTBEAT-->
