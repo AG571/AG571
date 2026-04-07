@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-06 08:44 UTC
+Last update: 2026-04-07 08:18 UTC
 
-- [College instructor turns to typewriters to curb AI use, teach life lessons](https://apnews.com/article/typewriter-ai-cheating-chatgpt-cornell-ce10e1ca0f10c96f79b7d988bb56448b) — Hacker News
-- [AI Damaged a Friendship](https://www.bartmol.io/how-ai-damaged-a-friendship/) — Hacker News
-- [Humans Persistently Devalue AI-Generated Creative Writing](https://psycnet.apa.org/fulltext/2027-12675-001.html) — Hacker News
+- [Show HN: Brag.fast – Brag about the app you're building](https://brag.fast) — Hacker News
+- [Show HN: Senthex AI firewall for LLM API calls (one line of code, 16ms overhead)](https://senthex.com:443/proxy/) — Hacker News
+- [An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs](https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9) — Hacker News
 <!--END_HEARTBEAT-->
