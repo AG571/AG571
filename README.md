@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-07 08:18 UTC
+Last update: 2026-04-08 08:18 UTC
 
-- [Show HN: Brag.fast – Brag about the app you're building](https://brag.fast) — Hacker News
-- [Show HN: Senthex AI firewall for LLM API calls (one line of code, 16ms overhead)](https://senthex.com:443/proxy/) — Hacker News
-- [An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs](https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9) — Hacker News
+- [Why GitOps still matters in a world of AI agents (FluxCon) [video]](https://www.youtube.com/watch?v=efpqMLQJaW4) — Hacker News
+- [Yu – Sandboxes your Claude Code/Codex with zero credential exposure](https://blog.dreambubble.ai/en/posts/your-ai-coding-agent-is-running-naked-on-your-laptop) — Hacker News
+- [Row over 'virtual gated community' AI surveillance plan in Toronto neighbourhood](https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock) — Hacker News
 <!--END_HEARTBEAT-->
