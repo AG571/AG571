@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-08 08:18 UTC
+Last update: 2026-04-09 08:44 UTC
 
-- [Why GitOps still matters in a world of AI agents (FluxCon) [video]](https://www.youtube.com/watch?v=efpqMLQJaW4) — Hacker News
-- [Yu – Sandboxes your Claude Code/Codex with zero credential exposure](https://blog.dreambubble.ai/en/posts/your-ai-coding-agent-is-running-naked-on-your-laptop) — Hacker News
-- [Row over 'virtual gated community' AI surveillance plan in Toronto neighbourhood](https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock) — Hacker News
+- [Seedance 2.0 on live–their strongest multimodal AI video model with native audio](https://seedance2video.cloud/) — Hacker News
+- [Blackdesk – open-source market research terminal (Go, TUI, local AI)](https://blackdesk.ai/) — Hacker News
+- [AI company's breached biometrics, ID document images make deepfake fraud easier](https://www.biometricupdate.com/202604/ai-companys-breached-biometrics-id-document-images-make-deepfake-fraud-easier) — Hacker News
 <!--END_HEARTBEAT-->
