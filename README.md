@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-09 08:44 UTC
+Last update: 2026-04-10 08:44 UTC
 
-- [Seedance 2.0 on live–their strongest multimodal AI video model with native audio](https://seedance2video.cloud/) — Hacker News
-- [Blackdesk – open-source market research terminal (Go, TUI, local AI)](https://blackdesk.ai/) — Hacker News
-- [AI company's breached biometrics, ID document images make deepfake fraud easier](https://www.biometricupdate.com/202604/ai-companys-breached-biometrics-id-document-images-make-deepfake-fraud-easier) — Hacker News
+- [Two GitHub Alumni Are Rebuilding Developer Tools for the AI Era](https://techstackups.com/articles/gitbutler-vs-entire-github-founders/) — Hacker News
+- [Google's new AI app is a glimpse of the future](https://www.computerworld.com/article/4156760/googles-new-ai-app-is-a-glimpse-of-the-future.html) — Hacker News
+- [Seeduplex: ByteDance's full-duplex voice AI](https://seeduplex.io) — Hacker News
 <!--END_HEARTBEAT-->
