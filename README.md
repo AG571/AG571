@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-10 08:44 UTC
+Last update: 2026-04-11 07:55 UTC
 
-- [Two GitHub Alumni Are Rebuilding Developer Tools for the AI Era](https://techstackups.com/articles/gitbutler-vs-entire-github-founders/) — Hacker News
-- [Google's new AI app is a glimpse of the future](https://www.computerworld.com/article/4156760/googles-new-ai-app-is-a-glimpse-of-the-future.html) — Hacker News
-- [Seeduplex: ByteDance's full-duplex voice AI](https://seeduplex.io) — Hacker News
+- [MLSharp Single-View High-Quality AI Reconstruction Pipeline](https://suto.bex.jp/mac/mlsharp/index.html) — Hacker News
+- [AI is the boss at this retail store. What could go wrong?](https://www.nbcnews.com/tech/innovation/ai-store-sf-san-francisco-bay-area-andon-labs-market-boss-rcna267013) — Hacker News
+- [IPFS Bot AI Agent Content](https://ipfs.bot/) — Hacker News
 <!--END_HEARTBEAT-->
