@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-11 07:55 UTC
+Last update: 2026-04-12 08:07 UTC
 
-- [MLSharp Single-View High-Quality AI Reconstruction Pipeline](https://suto.bex.jp/mac/mlsharp/index.html) — Hacker News
-- [AI is the boss at this retail store. What could go wrong?](https://www.nbcnews.com/tech/innovation/ai-store-sf-san-francisco-bay-area-andon-labs-market-boss-rcna267013) — Hacker News
-- [IPFS Bot AI Agent Content](https://ipfs.bot/) — Hacker News
+- [MacBook Neo vs. MacBook Air: Which One Should You Buy?](https://www.wired.com/story/macbook-neo-vs-macbook-air/) — Hacker News
+- [The AI Layoff Trap](https://arxiv.org/abs/2603.20617) — Hacker News
+- [Frugal AI for Education](https://www.col.org/frugal/) — Hacker News
 <!--END_HEARTBEAT-->
