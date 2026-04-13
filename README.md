@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-12 08:07 UTC
+Last update: 2026-04-13 09:07 UTC
 
-- [MacBook Neo vs. MacBook Air: Which One Should You Buy?](https://www.wired.com/story/macbook-neo-vs-macbook-air/) — Hacker News
-- [The AI Layoff Trap](https://arxiv.org/abs/2603.20617) — Hacker News
-- [Frugal AI for Education](https://www.col.org/frugal/) — Hacker News
+- [What if a few AI companies end up with all the money and power?](https://www.noahpinion.blog/p/what-if-a-few-ai-companies-end-up) — Hacker News
+- [AI went viral among attorneys. We have the numbers on what happened next](https://www.theregister.com/2026/04/13/ai_attorneys/) — Hacker News
+- [Timesheet Reconstruction in Law Firms: The Hidden Cost of Guessing](https://draftsheet.ai/blog/timesheet-reconstruction) — Hacker News
 <!--END_HEARTBEAT-->
