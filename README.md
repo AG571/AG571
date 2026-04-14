@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-13 09:07 UTC
+Last update: 2026-04-14 08:50 UTC
 
-- [What if a few AI companies end up with all the money and power?](https://www.noahpinion.blog/p/what-if-a-few-ai-companies-end-up) — Hacker News
-- [AI went viral among attorneys. We have the numbers on what happened next](https://www.theregister.com/2026/04/13/ai_attorneys/) — Hacker News
-- [Timesheet Reconstruction in Law Firms: The Hidden Cost of Guessing](https://draftsheet.ai/blog/timesheet-reconstruction) — Hacker News
+- [Show HN: A CLI that writes its own integration code](https://docs.superglue.cloud/getting-started/cli-skills) — Hacker News
+- [An AI Vibe Coding Horror Story](https://www.tobru.ch/an-ai-vibe-coding-horror-story/) — Hacker News
+- [Show HN: A stateful UI runtime for reactive web apps in Go](https://github.com/doors-dev/doors) — Hacker News
 <!--END_HEARTBEAT-->
