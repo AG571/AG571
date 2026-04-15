@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-14 08:50 UTC
+Last update: 2026-04-15 08:52 UTC
 
-- [Show HN: A CLI that writes its own integration code](https://docs.superglue.cloud/getting-started/cli-skills) — Hacker News
-- [An AI Vibe Coding Horror Story](https://www.tobru.ch/an-ai-vibe-coding-horror-story/) — Hacker News
-- [Show HN: A stateful UI runtime for reactive web apps in Go](https://github.com/doors-dev/doors) — Hacker News
+- [Which AI model is best for real data analysis?](https://mljar.com/analysis/) — Hacker News
+- [Show HN: SigMap – shrink AI coding context 97% with auto-scaling token budget](https://github.com/manojmallick/sigmap) — Hacker News
+- [GBrain – system to make your AI agent better reflect you](https://github.com/garrytan/gbrain) — Hacker News
 <!--END_HEARTBEAT-->
