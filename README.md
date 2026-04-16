@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-15 08:52 UTC
+Last update: 2026-04-16 08:52 UTC
 
-- [Which AI model is best for real data analysis?](https://mljar.com/analysis/) — Hacker News
-- [Show HN: SigMap – shrink AI coding context 97% with auto-scaling token budget](https://github.com/manojmallick/sigmap) — Hacker News
-- [GBrain – system to make your AI agent better reflect you](https://github.com/garrytan/gbrain) — Hacker News
+- [Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI](https://www.bbc.com/news/articles/c98mrepzgj7o) — Hacker News
+- [Show HN: I built Emailbottle – AI email assistant, no inbox access](https://emailbottle.com) — Hacker News
+- [JetBrains goes all-in on agents with Central](https://leaddev.com/ai/jetbrains-goes-all-in-on-agents-with-central) — Hacker News
 <!--END_HEARTBEAT-->
