@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-18 08:04 UTC
+Last update: 2026-04-19 08:12 UTC
 
-- [Purdue University CS240 Class over 50% of students 'caught' using AI on homework](https://old.reddit.com/r/Purdue/comments/1sogfb4/comment/ogsvymy/) — Hacker News
-- [Soul.md – open file format for AI agent identity](https://github.com/AntonioTF5/soul-spec) — Hacker News
-- [Claude Opus wrote a Chrome exploit for $2,283](https://www.hacktron.ai/blog/i-let-claude-opus-to-write-me-a-chrome-exploit) — Hacker News
+- [HN: UmaBot – a multi-agent AI assistant](https://github.com/shaktsin/umaBot) — Hacker News
+- [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years) — Hacker News
+- [Regolo – European AI Provider](https://regolo.ai/) — Hacker News
 <!--END_HEARTBEAT-->
