@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-19 08:12 UTC
+Last update: 2026-04-20 09:16 UTC
 
-- [HN: UmaBot – a multi-agent AI assistant](https://github.com/shaktsin/umaBot) — Hacker News
-- [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years) — Hacker News
-- [Regolo – European AI Provider](https://regolo.ai/) — Hacker News
+- [ZeusHammer – Built an AI Agent That "Thinks Locally"](https://github.com/pengrambo3-tech/ZeusHammer) — Hacker News
+- [Show HN: Keshro, plan and execute migrations with AI agents](https://keshro.com) — Hacker News
+- [People and AI](https://insurtechamsterdam.com/blog/ai-people-strategy-insurance) — Hacker News
 <!--END_HEARTBEAT-->
