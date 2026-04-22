@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-21 08:59 UTC
+Last update: 2026-04-22 08:55 UTC
 
-- [Overview of Kimi K2.6 Model](https://platform.kimi.ai/docs/guide/kimi-k2-6-quickstart) — Hacker News
-- [GPT Image 2 – AI-Powered Image Generation Tool](https://gptimg2ai.net) — Hacker News
-- [The AI revolution – spamming 680PRs in 442 GitHub repos in 21 days in April](https://github.com/SAY-5) — Hacker News
+- [The AI talent agent built into every creator's workflow](https://create.gotrovio.com) — Hacker News
+- [I asked my AI agent its last wrong belief. It queried its own database](https://iampneuma.com) — Hacker News
+- [Mastra Code](https://code.mastra.ai/) — Hacker News
 <!--END_HEARTBEAT-->
