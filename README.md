@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-22 08:55 UTC
+Last update: 2026-04-23 09:00 UTC
 
-- [The AI talent agent built into every creator's workflow](https://create.gotrovio.com) — Hacker News
-- [I asked my AI agent its last wrong belief. It queried its own database](https://iampneuma.com) — Hacker News
-- [Mastra Code](https://code.mastra.ai/) — Hacker News
+- [Hackers breach Anthropic's 'too dangerous to release' Mythos AI model](https://www.euronews.com/next/2026/04/22/hackers-breach-anthropics-too-dangerous-to-release-mythos-ai-model-report) — Hacker News
+- [SpaceX and Cursor have explored a team-up with Mistral to take on AI rivals](https://www.businessinsider.com/elon-musk-xai-explored-collaborating-with-mistral-cursor-2026-4) — Hacker News
+- [Google announced that Chrome is becoming an agentic workplace platform](https://thenextweb.com/news/google-chrome-enterprise-ai-coworker-agentic-browser) — Hacker News
 <!--END_HEARTBEAT-->
