@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-23 09:00 UTC
+Last update: 2026-04-24 09:07 UTC
 
-- [Hackers breach Anthropic's 'too dangerous to release' Mythos AI model](https://www.euronews.com/next/2026/04/22/hackers-breach-anthropics-too-dangerous-to-release-mythos-ai-model-report) — Hacker News
-- [SpaceX and Cursor have explored a team-up with Mistral to take on AI rivals](https://www.businessinsider.com/elon-musk-xai-explored-collaborating-with-mistral-cursor-2026-4) — Hacker News
-- [Google announced that Chrome is becoming an agentic workplace platform](https://thenextweb.com/news/google-chrome-enterprise-ai-coworker-agentic-browser) — Hacker News
+- [Fit.ly – AI Outfit Generation](https://fitly-app.onrender.com/) — Hacker News
+- [Canada's AI Startup Cohere Buys Germany's Aleph Alpha to Expand in Europe](https://www.reuters.com/legal/transactional/canadas-cohere-germanys-aleph-alpha-announce-merger-handelsblatt-reports-2026-04-24/) — Hacker News
+- [I over-engineered my AI coding setup one justified upgrade at a time](https://machinethoughts.substack.com/p/every-upgrade-made-sense-how-i-over) — Hacker News
 <!--END_HEARTBEAT-->
