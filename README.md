@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-24 09:07 UTC
+Last update: 2026-04-25 08:11 UTC
 
-- [Fit.ly – AI Outfit Generation](https://fitly-app.onrender.com/) — Hacker News
-- [Canada's AI Startup Cohere Buys Germany's Aleph Alpha to Expand in Europe](https://www.reuters.com/legal/transactional/canadas-cohere-germanys-aleph-alpha-announce-merger-handelsblatt-reports-2026-04-24/) — Hacker News
-- [I over-engineered my AI coding setup one justified upgrade at a time](https://machinethoughts.substack.com/p/every-upgrade-made-sense-how-i-over) — Hacker News
+- [OpenClaw vs. Hermes Agent: The race to build AI assistants that never forget](https://thenewstack.io/persistent-ai-agents-compared/) — Hacker News
+- [Apple's New CEO Must Launch 5 Product Ecosystems or Miss the Next iPhone Moment](https://greentic-ai.medium.com/apples-next-ceo-must-launch-these-5-product-ecosystems-or-miss-the-next-iphone-moment-68599533a491) — Hacker News
+- [Colorado citizens pay with rights, xAI pays nothing, long live democracy](https://aitwerp.com/signals/xai-colorado-discrimination-federal/) — Hacker News
 <!--END_HEARTBEAT-->
