@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-25 08:11 UTC
+Last update: 2026-04-26 08:21 UTC
 
-- [OpenClaw vs. Hermes Agent: The race to build AI assistants that never forget](https://thenewstack.io/persistent-ai-agents-compared/) — Hacker News
-- [Apple's New CEO Must Launch 5 Product Ecosystems or Miss the Next iPhone Moment](https://greentic-ai.medium.com/apples-next-ceo-must-launch-these-5-product-ecosystems-or-miss-the-next-iphone-moment-68599533a491) — Hacker News
-- [Colorado citizens pay with rights, xAI pays nothing, long live democracy](https://aitwerp.com/signals/xai-colorado-discrimination-federal/) — Hacker News
+- [Eden AI – European Alternative to OpenRouter](https://www.edenai.co) — Hacker News
+- [Airprompt – SSH into your Mac from your phone for AI agent prompts](https://www.npmjs.com/package/airprompt) — Hacker News
+- [Blueprint: AI Hardware Design](https://www.blueprint.am/) — Hacker News
 <!--END_HEARTBEAT-->
