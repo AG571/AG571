@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-26 08:21 UTC
+Last update: 2026-04-27 09:28 UTC
 
-- [Eden AI – European Alternative to OpenRouter](https://www.edenai.co) — Hacker News
-- [Airprompt – SSH into your Mac from your phone for AI agent prompts](https://www.npmjs.com/package/airprompt) — Hacker News
-- [Blueprint: AI Hardware Design](https://www.blueprint.am/) — Hacker News
+- [Moleskine's AI Lord of the Rings collection can only mock](https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/) — Hacker News
+- [Show HN: Building a SQL analyst agent from scratch](https://raminmousavi.dev/blog/building-a-sql-analyst-agent) — Hacker News
+- [Show HN: Defeating AI by making knowledge accessible to Humans](https://github.com/tnelsond/peakslab) — Hacker News
 <!--END_HEARTBEAT-->
