@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-27 09:28 UTC
+Last update: 2026-04-28 09:32 UTC
 
-- [Moleskine's AI Lord of the Rings collection can only mock](https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/) — Hacker News
-- [Show HN: Building a SQL analyst agent from scratch](https://raminmousavi.dev/blog/building-a-sql-analyst-agent) — Hacker News
-- [Show HN: Defeating AI by making knowledge accessible to Humans](https://github.com/tnelsond/peakslab) — Hacker News
+- [Show HN: Minimal Linux sandboxes to manage AI-Generated Code with ease](https://github.com/bugthesystem/agentjail) — Hacker News
+- [When model distillation becomes a diplomatic incident](https://underlines.news/2026/04/26/us-orders-global-diplomatic-warning-on-chinese-distillation-of-ai-models) — Hacker News
+- [If this doesn't scream AI bubble is about to burst IDK what does](https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing) — Hacker News
 <!--END_HEARTBEAT-->
