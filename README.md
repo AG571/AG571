@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-28 09:32 UTC
+Last update: 2026-04-29 09:21 UTC
 
-- [Show HN: Minimal Linux sandboxes to manage AI-Generated Code with ease](https://github.com/bugthesystem/agentjail) — Hacker News
-- [When model distillation becomes a diplomatic incident](https://underlines.news/2026/04/26/us-orders-global-diplomatic-warning-on-chinese-distillation-of-ai-models) — Hacker News
-- [If this doesn't scream AI bubble is about to burst IDK what does](https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing) — Hacker News
+- [Show HN: AI powered coding interview practice](https://protechstack.com/practice) — Hacker News
+- [Taylor Swift files trademarks for voice and image amid concern over AI misuse](https://www.theguardian.com/music/2026/apr/27/taylor-swift-trademarks-voice-image-ai) — Hacker News
+- [Ubuntu silicon-optimized inference snaps for AI](https://canonical.com/blog/canonical-releases-inference-snaps) — Hacker News
 <!--END_HEARTBEAT-->
