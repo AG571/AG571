@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-29 09:21 UTC
+Last update: 2026-04-30 09:23 UTC
 
-- [Show HN: AI powered coding interview practice](https://protechstack.com/practice) — Hacker News
-- [Taylor Swift files trademarks for voice and image amid concern over AI misuse](https://www.theguardian.com/music/2026/apr/27/taylor-swift-trademarks-voice-image-ai) — Hacker News
-- [Ubuntu silicon-optimized inference snaps for AI](https://canonical.com/blog/canonical-releases-inference-snaps) — Hacker News
+- [Show HN: Brifly – stop re-explaining your codebase to Claude Code every week](https://www.getbrifly.com/) — Hacker News
+- [AI doesn't kill SaaS. It kills bad priorities](https://erdincakkaya.substack.com/p/ai-doesnt-kill-saas-it-kills-bad) — Hacker News
+- [NPM supply-chain attack is targeting the SAP developer ecosystem](https://www.aikido.dev/blog/mini-shai-hulud-has-appeared) — Hacker News
 <!--END_HEARTBEAT-->
