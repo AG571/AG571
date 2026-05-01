@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-04-30 09:23 UTC
+Last update: 2026-05-01 09:05 UTC
 
-- [Show HN: Brifly – stop re-explaining your codebase to Claude Code every week](https://www.getbrifly.com/) — Hacker News
-- [AI doesn't kill SaaS. It kills bad priorities](https://erdincakkaya.substack.com/p/ai-doesnt-kill-saas-it-kills-bad) — Hacker News
-- [NPM supply-chain attack is targeting the SAP developer ecosystem](https://www.aikido.dev/blog/mini-shai-hulud-has-appeared) — Hacker News
+- [Ubuntu is going all in on Generative AI and other Linux distros might follow](https://www.neowin.net/news/ubuntu-is-going-all-in-on-generative-ai-and-other-linux-distros-might-follow/) — Hacker News
+- [AI and decomp project used to port Super Smash Bros to PC](https://github.com/JRickey/BattleShip) — Hacker News
+- [AI will dissolve human civilization as we know it](https://www.newstatesman.com/culture/books/book-of-the-day/2026/04/ai-will-dissolve-human-autonomy) — Hacker News
 <!--END_HEARTBEAT-->
