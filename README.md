@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-01 09:05 UTC
+Last update: 2026-05-02 08:41 UTC
 
-- [Ubuntu is going all in on Generative AI and other Linux distros might follow](https://www.neowin.net/news/ubuntu-is-going-all-in-on-generative-ai-and-other-linux-distros-might-follow/) — Hacker News
-- [AI and decomp project used to port Super Smash Bros to PC](https://github.com/JRickey/BattleShip) — Hacker News
-- [AI will dissolve human civilization as we know it](https://www.newstatesman.com/culture/books/book-of-the-day/2026/04/ai-will-dissolve-human-autonomy) — Hacker News
+- [AI coding tools are silently disagreeing with each other](https://github.com/sampleXbro/agentsmesh) — Hacker News
+- [Claude Code: Creating Kubernetes Debugging AI Agent for VictoriaMetrics](https://rtfm.co.ua/en/claude-code-creating-kubernetes-debugging-ai-agent-for-victoriametrics/) — Hacker News
+- [How Go Players Disempower Themselves to AI](https://www.lesswrong.com/posts/nR3DkyivzF4ve97oM/how-go-players-disempower-themselves-to-ai) — Hacker News
 <!--END_HEARTBEAT-->
