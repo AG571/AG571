@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-02 08:41 UTC
+Last update: 2026-05-03 08:54 UTC
 
-- [AI coding tools are silently disagreeing with each other](https://github.com/sampleXbro/agentsmesh) — Hacker News
-- [Claude Code: Creating Kubernetes Debugging AI Agent for VictoriaMetrics](https://rtfm.co.ua/en/claude-code-creating-kubernetes-debugging-ai-agent-for-victoriametrics/) — Hacker News
-- [How Go Players Disempower Themselves to AI](https://www.lesswrong.com/posts/nR3DkyivzF4ve97oM/how-go-players-disempower-themselves-to-ai) — Hacker News
+- [Show HN: BoxLite – the micro-VM runtime for embedded, local dev, and cloud prod](https://github.com/boxlite-ai/boxlite) — Hacker News
+- [Show HN: Editor, Browser, Terminal, Mail, Agents. AI Sharing Context](https://github.com/raiyanyahya/kit) — Hacker News
+- [PocketOS AI Fiasco – Lesson in Automation Access](https://onlytech.boo/incident/pocketos-ai-fiasco-lesson-in-automation-access-mokdojol) — Hacker News
 <!--END_HEARTBEAT-->
