@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-03 08:54 UTC
+Last update: 2026-05-04 09:29 UTC
 
-- [Show HN: BoxLite – the micro-VM runtime for embedded, local dev, and cloud prod](https://github.com/boxlite-ai/boxlite) — Hacker News
-- [Show HN: Editor, Browser, Terminal, Mail, Agents. AI Sharing Context](https://github.com/raiyanyahya/kit) — Hacker News
-- [PocketOS AI Fiasco – Lesson in Automation Access](https://onlytech.boo/incident/pocketos-ai-fiasco-lesson-in-automation-access-mokdojol) — Hacker News
+- [Evals Skills for AI Agents](https://github.com/latitude-dev/eval-skills) — Hacker News
+- [Are AI agents a scam? [video]](https://www.youtube.com/watch?v=IOoLqw4n4_g) — Hacker News
+- [Chinese hospitals are selling de-identified patient data to fuel the AI boom](https://asia.nikkei.com/spotlight/caixin/chinese-hospitals-are-selling-patient-data-to-fuel-the-ai-boom) — Hacker News
 <!--END_HEARTBEAT-->
