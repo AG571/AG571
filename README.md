@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-04 09:29 UTC
+Last update: 2026-05-05 09:16 UTC
 
-- [Evals Skills for AI Agents](https://github.com/latitude-dev/eval-skills) — Hacker News
-- [Are AI agents a scam? [video]](https://www.youtube.com/watch?v=IOoLqw4n4_g) — Hacker News
-- [Chinese hospitals are selling de-identified patient data to fuel the AI boom](https://asia.nikkei.com/spotlight/caixin/chinese-hospitals-are-selling-patient-data-to-fuel-the-ai-boom) — Hacker News
+- [Turn a feature spec into reviewed, merged code with bounded AI agents](https://github.com/alex-reysa/pm-go) — Hacker News
+- [How to Test a Salesforce Experience Aura Site Like an Apex Predator](https://www.reco.ai/blog/salesforce-experience-site-pentest-apex-predator) — Hacker News
+- [Current AI Custom Prompt](https://twitter.com/pmarca/status/2051374498994364529) — Hacker News
 <!--END_HEARTBEAT-->
