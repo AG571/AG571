@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-05 09:16 UTC
+Last update: 2026-05-06 09:34 UTC
 
-- [Turn a feature spec into reviewed, merged code with bounded AI agents](https://github.com/alex-reysa/pm-go) — Hacker News
-- [How to Test a Salesforce Experience Aura Site Like an Apex Predator](https://www.reco.ai/blog/salesforce-experience-site-pentest-apex-predator) — Hacker News
-- [Current AI Custom Prompt](https://twitter.com/pmarca/status/2051374498994364529) — Hacker News
+- [We're Not Building AI Features for the Money](https://zed.dev/blog/not-building-ai-for-the-money) — Hacker News
+- [50 AI Automations You Can Build This Weekend](https://twitter.com/eng_khairallah1/status/2045794365985935529) — Hacker News
+- [AI Story Generator – Generate Story Online Instantly](https://www.wps.com/tools/ai-story-generator/) — Hacker News
 <!--END_HEARTBEAT-->
