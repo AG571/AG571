@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-06 09:34 UTC
+Last update: 2026-05-07 09:43 UTC
 
-- [We're Not Building AI Features for the Money](https://zed.dev/blog/not-building-ai-for-the-money) — Hacker News
-- [50 AI Automations You Can Build This Weekend](https://twitter.com/eng_khairallah1/status/2045794365985935529) — Hacker News
-- [AI Story Generator – Generate Story Online Instantly](https://www.wps.com/tools/ai-story-generator/) — Hacker News
+- [Prompt Screener – Catches biased prompts before you send them to AI](https://chromewebstore.google.com/detail/prompt-screener/hdooilgdenkeeccfomlkkenhmelobcjm) — Hacker News
+- [U.S. and China Pursue Guardrails to Stop AI Rivalry from Spiraling into Crisis](https://www.wsj.com/world/china/u-s-and-china-pursue-guardrails-to-stop-ai-rivalry-from-spiraling-into-crisis-4c50bd70) — Hacker News
+- [HomeDesignsAI](https://homedesigns.ai) — Hacker News
 <!--END_HEARTBEAT-->
