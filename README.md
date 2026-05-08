@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-07 09:43 UTC
+Last update: 2026-05-08 08:46 UTC
 
-- [Prompt Screener – Catches biased prompts before you send them to AI](https://chromewebstore.google.com/detail/prompt-screener/hdooilgdenkeeccfomlkkenhmelobcjm) — Hacker News
-- [U.S. and China Pursue Guardrails to Stop AI Rivalry from Spiraling into Crisis](https://www.wsj.com/world/china/u-s-and-china-pursue-guardrails-to-stop-ai-rivalry-from-spiraling-into-crisis-4c50bd70) — Hacker News
-- [HomeDesignsAI](https://homedesigns.ai) — Hacker News
+- [Scripily – AI for Restoring and Transcribing Damaged Documents](https://scripily.com/) — Hacker News
+- [Atlas of Artificial Intelligence](https://vivamau.github.io/aimap/) — Hacker News
+- [AI is rapidly changing cybersecurity across the world](https://fixtechhubs.blogspot.com/2026/05/ai-cybersecurity-threats-are-rising.html) — Hacker News
 <!--END_HEARTBEAT-->
