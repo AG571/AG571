@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-10 09:00 UTC
+Last update: 2026-05-11 10:43 UTC
 
-- [Chess.com produces 3500 ton of CO2 in air for loading JavaScript bundles](https://www.chess.com/) — Hacker News
-- [In a quest to becoming AI independent](https://adlrocha.substack.com/p/adlrocha-in-a-quest-to-becoming-ai) — Hacker News
-- [Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount](https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount) — Hacker News
+- [The new Wild West of AI kids' toys](https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/) — Hacker News
+- [DoneSpec – deterministic completion checks for AI coding agents](https://github.com/xryv/DoneSpec) — Hacker News
+- [Show HN: AI Agents in 30 Lines of YAML: Lowdefy v5.3](https://lowdefy.com/articles/lowdefy-agents/) — Hacker News
 <!--END_HEARTBEAT-->
