@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-11 10:43 UTC
+Last update: 2026-05-12 09:47 UTC
 
-- [The new Wild West of AI kids' toys](https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/) — Hacker News
-- [DoneSpec – deterministic completion checks for AI coding agents](https://github.com/xryv/DoneSpec) — Hacker News
-- [Show HN: AI Agents in 30 Lines of YAML: Lowdefy v5.3](https://lowdefy.com/articles/lowdefy-agents/) — Hacker News
+- [Canva's Magic Layers AI Changed "Palestine" to "Ukraine" in User Designs](https://gizmodo.com/canva-admits-its-ai-tool-removed-palestine-from-designs-apologizes-for-any-distress-it-caused-2000751215) — Hacker News
+- [Cheap Missiles, Not Drones, Will Win the Next Air War](https://warontherocks.com/cogs-of-war/cheap-missiles-not-drones-will-win-the-next-air-war/) — Hacker News
+- [Show HN: RipStop – Git guardrails to reduce impact if your code agent goes wild](https://github.com/jonverrier/RipStop) — Hacker News
 <!--END_HEARTBEAT-->
