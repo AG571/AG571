@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-13 09:49 UTC
+Last update: 2026-05-14 09:38 UTC
 
-- [What if AI systems weren't chatbots?](https://arxiv.org/abs/2605.07896) — Hacker News
-- [AI agents that need real social context](https://www.socialcrawl.dev/developers) — Hacker News
-- [Exploring the "Banality" of Deception in Generative AI](https://arxiv.org/abs/2605.07012) — Hacker News
+- [Researchers say AI just broke every benchmark for autonomous cyber capability](https://cyberscoop.com/ai-autonomous-cyber-capability-benchmarks-broken-gpt5-claude-mythos/) — Hacker News
+- [Avocado Studio – open-source AI content editor for Next.js sites](https://docs.avocadostudio.dev) — Hacker News
+- [40-Year-Old System Analyzed with AI: It Turned Out to Have a Modern Architecture](https://medium.com/@noborutakahashi/a-40-year-old-system-analyzed-with-ai-it-turned-out-to-have-a-modern-architecture-83751821bf5a) — Hacker News
 <!--END_HEARTBEAT-->
