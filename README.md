@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-16 08:57 UTC
+Last update: 2026-05-17 09:11 UTC
 
-- [Show HN: AI/ML benchmark for local LLM inference and XGBoost training on GPU/CPU](https://github.com/albedan/ai-ml-gpu-bench) — Hacker News
-- [Someone Shared a Real Monet Painting as AI and Asked for Critiques](https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/) — Hacker News
-- [We Pay Salesforce 83% More Than Last Year. But Stopped Using Notion](https://www.saastr.com/why-we-pay-salesforce-83-more-than-last-year-but-stopped-using-notion-entirely-the-ai-agent-seat-problem-is-real/) — Hacker News
+- [Towards local plug-and-play AI](https://adlrocha.substack.com/p/adlrocha-towards-local-plug-and-play) — Hacker News
+- [Unit Testing's Eval Twin](https://volary.ai/articles/unit-testings-eval-twin) — Hacker News
+- [2ality blog: temporarily offline due to AI stealing work](https://2ality.com/) — Hacker News
 <!--END_HEARTBEAT-->
