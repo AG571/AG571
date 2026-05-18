@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-17 09:11 UTC
+Last update: 2026-05-18 11:11 UTC
 
-- [Towards local plug-and-play AI](https://adlrocha.substack.com/p/adlrocha-towards-local-plug-and-play) — Hacker News
-- [Unit Testing's Eval Twin](https://volary.ai/articles/unit-testings-eval-twin) — Hacker News
-- [2ality blog: temporarily offline due to AI stealing work](https://2ality.com/) — Hacker News
+- [Show HN: I built an easy to manage, sharable personal memory for my AI agents](https://ai.actingweb.io/) — Hacker News
+- [Eric Schmidt booed during graduation speech about AI](https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585) — Hacker News
+- [The Trouble with AI Investment Writing](https://behaviouralinvestment.com/2026/05/12/the-trouble-with-ai-investment-writing/) — Hacker News
 <!--END_HEARTBEAT-->
