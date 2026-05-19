@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-18 11:11 UTC
+Last update: 2026-05-19 10:42 UTC
 
-- [Show HN: I built an easy to manage, sharable personal memory for my AI agents](https://ai.actingweb.io/) — Hacker News
-- [Eric Schmidt booed during graduation speech about AI](https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585) — Hacker News
-- [The Trouble with AI Investment Writing](https://behaviouralinvestment.com/2026/05/12/the-trouble-with-ai-investment-writing/) — Hacker News
+- [AdminForth – Open-source admin framework with a built-in AI agent [video]](https://www.youtube.com/watch?v=4tB8uzY__uk) — Hacker News
+- [An open question about how AI agent skills should be distributed](https://github.com/hymhub/skill-indexer) — Hacker News
+- [The founder's playbook: Building an AI-native startup](https://claude.com/blog/the-founders-playbook) — Hacker News
 <!--END_HEARTBEAT-->
