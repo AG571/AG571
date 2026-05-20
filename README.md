@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-19 10:42 UTC
+Last update: 2026-05-20 10:27 UTC
 
-- [AdminForth – Open-source admin framework with a built-in AI agent [video]](https://www.youtube.com/watch?v=4tB8uzY__uk) — Hacker News
-- [An open question about how AI agent skills should be distributed](https://github.com/hymhub/skill-indexer) — Hacker News
-- [The founder's playbook: Building an AI-native startup](https://claude.com/blog/the-founders-playbook) — Hacker News
+- [Learnings from 100K lines of Rust with AI (2025)](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html) — Hacker News
+- [Public have more fear than hope on AI and future of work, study finds](https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds) — Hacker News
+- [AI will create more jobs than it eliminates from 2028](https://www.gartner.com/en/newsroom/press-releases/2026-05-13-gartner-hr-research-reveals-ai-will-create-more-jobs-than-it-eliminates-beginning-in-2028) — Hacker News
 <!--END_HEARTBEAT-->
