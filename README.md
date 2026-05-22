@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-21 10:47 UTC
+Last update: 2026-05-22 10:27 UTC
 
-- [AI Can Seem More Human Than Real Humans in a Classic Turing Test, Study Finds](https://today.ucsd.edu/story/ai-can-seem-more-human-than-real-humans-in-a-classic-turing-test-study-finds) — Hacker News
-- [Async Python client for private DeepSeek API](https://github.com/boykopovar/aiodeepseek) — Hacker News
-- [Built a live multi-agent AI operations workspace for software engineering teams](https://realtechsolutions.work.gd/) — Hacker News
+- [Proton Pass for AI Agents](https://proton.me/blog/pass-access-tokens) — Hacker News
+- [Baby Magic – AI baby images, videos, and family memories](https://www.babymagic.app) — Hacker News
+- [Show HN: Interactive and Stylized AI Chat](https://chromewebstore.google.com/detail/interactive-ai-chat/eekeccamfcidaehbacpfgdabddgnpgdi) — Hacker News
 <!--END_HEARTBEAT-->
