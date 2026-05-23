@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-22 10:27 UTC
+Last update: 2026-05-23 09:09 UTC
 
-- [Proton Pass for AI Agents](https://proton.me/blog/pass-access-tokens) — Hacker News
-- [Baby Magic – AI baby images, videos, and family memories](https://www.babymagic.app) — Hacker News
-- [Show HN: Interactive and Stylized AI Chat](https://chromewebstore.google.com/detail/interactive-ai-chat/eekeccamfcidaehbacpfgdabddgnpgdi) — Hacker News
+- [Ongoing Supply Chain Attack on Composer Packages](https://twitter.com/AikidoSecurity/status/2057958510445658144) — Hacker News
+- [AMD's Lemonade SDK for AI Promotes macOS to GA Status, ROCm 7.13 Integrated](https://www.phoronix.com/news/Lemonade-SDK-10.5-Released) — Hacker News
+- [Embedded acoustic AI with <16ms latency running on 8MB RAM](https://www.voisace.com/blog) — Hacker News
 <!--END_HEARTBEAT-->
