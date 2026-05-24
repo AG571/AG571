@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-23 09:09 UTC
+Last update: 2026-05-24 09:24 UTC
 
-- [Ongoing Supply Chain Attack on Composer Packages](https://twitter.com/AikidoSecurity/status/2057958510445658144) — Hacker News
-- [AMD's Lemonade SDK for AI Promotes macOS to GA Status, ROCm 7.13 Integrated](https://www.phoronix.com/news/Lemonade-SDK-10.5-Released) — Hacker News
-- [Embedded acoustic AI with <16ms latency running on 8MB RAM](https://www.voisace.com/blog) — Hacker News
+- ["Write as Little Code as Possible"](https://age-of-product.com/little-code-ai/) — Hacker News
+- [OpenAI and Nvidia Are Using Google's SynthID to Watermark AI Content](https://firethering.com/openai-nvidia-using-google-synthid-ai-watermarking/) — Hacker News
+- [Karen Hao: AI creating a DESPERATE BASE OF WORKERS with no full-time employment](https://www.youtube.com/watch?v=E4Zd9ZXjkao) — Hacker News
 <!--END_HEARTBEAT-->
