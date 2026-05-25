@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-24 09:24 UTC
+Last update: 2026-05-25 11:15 UTC
 
-- ["Write as Little Code as Possible"](https://age-of-product.com/little-code-ai/) — Hacker News
-- [OpenAI and Nvidia Are Using Google's SynthID to Watermark AI Content](https://firethering.com/openai-nvidia-using-google-synthid-ai-watermarking/) — Hacker News
-- [Karen Hao: AI creating a DESPERATE BASE OF WORKERS with no full-time employment](https://www.youtube.com/watch?v=E4Zd9ZXjkao) — Hacker News
+- [AI can chart a course to disaster faster than humans can notice](https://thebulletin.org/2026/05/ai-can-chart-a-course-to-disaster-faster-than-humans-can-notice/) — Hacker News
+- [Final Fantasy Creator Call AI-Generated Final Fantasy 6 Remake Video 'Amazing'](https://kotaku.com/final-fantasy-creator-says-viral-ai-generated-final-fantasy-6-remake-video-looks-awesome-2000697042) — Hacker News
+- [The AI Era Is Creating a Bug Hunting Arms Race](https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/) — Hacker News
 <!--END_HEARTBEAT-->
