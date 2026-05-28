@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-27 10:59 UTC
+Last update: 2026-05-28 11:00 UTC
 
-- [Avatar 4.0 – A living AI organism with physics body, emotions, on a GTX 1660 Ti](https://github.com/linga009/Avatar) — Hacker News
-- [Plan Mode Is a Crutch](https://graphcoder.ai/blog/plan-mode-is-a-crutch) — Hacker News
-- [Show HN: Legato – a Rust audio graph framework with a minimal DSL](https://legato.gg/docs/getting-started) — Hacker News
+- [Gemini Diffusion: Google DeepMind's experimental research model](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-diffusion/) — Hacker News
+- [The Despair of the Professor in the Age of A.I](https://www.newyorker.com/news/fault-lines/the-despair-of-the-professor-in-the-age-of-ai) — Hacker News
+- [Shields up: Guidance for defending in the age of AI-enabled attacks [pdf]](https://www.cisco.com/c/dam/en_us/about/doing_business/trust-center/docs/cisco-defending-against-ai-attacks-guidance.pdf) — Hacker News
 <!--END_HEARTBEAT-->
