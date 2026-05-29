@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-28 11:00 UTC
+Last update: 2026-05-29 10:53 UTC
 
-- [Gemini Diffusion: Google DeepMind's experimental research model](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-diffusion/) — Hacker News
-- [The Despair of the Professor in the Age of A.I](https://www.newyorker.com/news/fault-lines/the-despair-of-the-professor-in-the-age-of-ai) — Hacker News
-- [Shields up: Guidance for defending in the age of AI-enabled attacks [pdf]](https://www.cisco.com/c/dam/en_us/about/doing_business/trust-center/docs/cisco-defending-against-ai-attacks-guidance.pdf) — Hacker News
+- [Spectrograms vs. MFCCs: Practical Tradeoffs in Audio ML [video]](https://www.youtube.com/watch?v=mv-JdjSBQRM) — Hacker News
+- [DeepSeek Slashes AI Costs to Cents](https://businessanalytics.substack.com/p/deepseek-slashes-ai-costs-to-cents) — Hacker News
+- [New Intel Bureau Eyes AI Data Center Critics](https://www.kenklippenstein.com/p/exclusive-new-intel-agency-eyes-ai) — Hacker News
 <!--END_HEARTBEAT-->
