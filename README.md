@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-29 10:53 UTC
+Last update: 2026-05-30 09:24 UTC
 
-- [Spectrograms vs. MFCCs: Practical Tradeoffs in Audio ML [video]](https://www.youtube.com/watch?v=mv-JdjSBQRM) — Hacker News
-- [DeepSeek Slashes AI Costs to Cents](https://businessanalytics.substack.com/p/deepseek-slashes-ai-costs-to-cents) — Hacker News
-- [New Intel Bureau Eyes AI Data Center Critics](https://www.kenklippenstein.com/p/exclusive-new-intel-agency-eyes-ai) — Hacker News
+- [Show HN: AI-org – org-mode powered by AI](https://ai-org.net/) — Hacker News
+- [Thunderbolt-Ibverbs: InfiniBand for Everyone](https://blog.hellas.ai/blog/thunderbolt-ibverbs/) — Hacker News
+- [Apple working to cram Gemini model into iPhone to power new Siri](https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/) — Hacker News
 <!--END_HEARTBEAT-->
