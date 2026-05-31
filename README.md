@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-30 09:24 UTC
+Last update: 2026-05-31 09:49 UTC
 
-- [Show HN: AI-org – org-mode powered by AI](https://ai-org.net/) — Hacker News
-- [Thunderbolt-Ibverbs: InfiniBand for Everyone](https://blog.hellas.ai/blog/thunderbolt-ibverbs/) — Hacker News
-- [Apple working to cram Gemini model into iPhone to power new Siri](https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/) — Hacker News
+- [Show HN: AI Model Benchmark for Crypto Price Predictions](https://coinsignal.co/benchmark) — Hacker News
+- [Flathub disallows AI for submission and applications](https://social.treehouse.systems/@barthalion/116657011366876079) — Hacker News
+- [AI for Bio has a Fuzzy API problem](https://ankitg.me/blog/2026/05/04/fuzzy_api.html) — Hacker News
 <!--END_HEARTBEAT-->
