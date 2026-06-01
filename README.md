@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-05-31 09:49 UTC
+Last update: 2026-06-01 12:47 UTC
 
-- [Show HN: AI Model Benchmark for Crypto Price Predictions](https://coinsignal.co/benchmark) — Hacker News
-- [Flathub disallows AI for submission and applications](https://social.treehouse.systems/@barthalion/116657011366876079) — Hacker News
-- [AI for Bio has a Fuzzy API problem](https://ankitg.me/blog/2026/05/04/fuzzy_api.html) — Hacker News
+- [What Is Airbnb For, Exactly?](https://www.nytimes.com/2026/05/31/business/airbnb-brian-chesky.html) — Hacker News
+- [Nemotron 3 Ultra: high-speed, open weights, 550B params](https://artificialanalysis.ai/articles/nvidia-nemotron-3-ultra-launch-announced) — Hacker News
+- [AI isn't a value-add for software; software is a value-add for AI](https://brianguthrie.com/p/ai-isnt-a-value-add-for-software-software-is-a-value-add-for-ai/) — Hacker News
 <!--END_HEARTBEAT-->
