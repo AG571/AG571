@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-01 12:47 UTC
+Last update: 2026-06-02 11:40 UTC
 
-- [What Is Airbnb For, Exactly?](https://www.nytimes.com/2026/05/31/business/airbnb-brian-chesky.html) — Hacker News
-- [Nemotron 3 Ultra: high-speed, open weights, 550B params](https://artificialanalysis.ai/articles/nvidia-nemotron-3-ultra-launch-announced) — Hacker News
-- [AI isn't a value-add for software; software is a value-add for AI](https://brianguthrie.com/p/ai-isnt-a-value-add-for-software-software-is-a-value-add-for-ai/) — Hacker News
+- [A reflective AI that refuses to give you answers](https://web-production-07a822.up.railway.app/) — Hacker News
+- [A 2026 GPU Review for AI Inference. Based on Online Soures](https://old.reddit.com/r/AIProgrammingHardware/comments/1tumela/comprehensive_2026_gpu_review_for_ai_inference/) — Hacker News
+- [Small businesses can leverage AI](https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/) — Hacker News
 <!--END_HEARTBEAT-->
