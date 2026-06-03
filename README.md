@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-02 11:40 UTC
+Last update: 2026-06-03 12:05 UTC
 
-- [A reflective AI that refuses to give you answers](https://web-production-07a822.up.railway.app/) — Hacker News
-- [A 2026 GPU Review for AI Inference. Based on Online Soures](https://old.reddit.com/r/AIProgrammingHardware/comments/1tumela/comprehensive_2026_gpu_review_for_ai_inference/) — Hacker News
-- [Small businesses can leverage AI](https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/) — Hacker News
+- [Windsurf is now Devin Desktop](https://devin.ai/blog/windsurf-is-now-devin-desktop/) — Hacker News
+- [AI Workflows Need Topological Sort](https://arpitbhayani.me/blogs/ai-topological-sort/) — Hacker News
+- [Show HN: AI Council Toolkit – open-source playbook for AI governance](https://www.aicounciltoolkit.com/) — Hacker News
 <!--END_HEARTBEAT-->
