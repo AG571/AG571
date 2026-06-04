@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-03 12:05 UTC
+Last update: 2026-06-04 10:43 UTC
 
-- [Windsurf is now Devin Desktop](https://devin.ai/blog/windsurf-is-now-devin-desktop/) — Hacker News
-- [AI Workflows Need Topological Sort](https://arpitbhayani.me/blogs/ai-topological-sort/) — Hacker News
-- [Show HN: AI Council Toolkit – open-source playbook for AI governance](https://www.aicounciltoolkit.com/) — Hacker News
+- [Minimal EU AI Act Article 50 (AI Disclosure) Banner in React and Tailwind](https://github.com/alfalf09/minimal-eu-ai-act-compliance-banner) — Hacker News
+- [DiffusionBlocks: Training Neural Networks One Block at a Time](https://pub.sakana.ai/diffusionblocks/) — Hacker News
+- [As AI gets better, it reveals an empty promise (gift link)](https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise) — Hacker News
 <!--END_HEARTBEAT-->
