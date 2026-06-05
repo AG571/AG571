@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-04 10:43 UTC
+Last update: 2026-06-05 10:52 UTC
 
-- [Minimal EU AI Act Article 50 (AI Disclosure) Banner in React and Tailwind](https://github.com/alfalf09/minimal-eu-ai-act-compliance-banner) — Hacker News
-- [DiffusionBlocks: Training Neural Networks One Block at a Time](https://pub.sakana.ai/diffusionblocks/) — Hacker News
-- [As AI gets better, it reveals an empty promise (gift link)](https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise) — Hacker News
+- [I built an AI code reviewer that reads the room before commenting](https://codemouse.ai) — Hacker News
+- [AI Graduation Speech](https://www.smbc-comics.com/comic/speech) — Hacker News
+- [Grok Build 0.1 on API](https://x.ai/news/grok-build-0-1) — Hacker News
 <!--END_HEARTBEAT-->
