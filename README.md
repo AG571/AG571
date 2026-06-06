@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-05 10:52 UTC
+Last update: 2026-06-06 09:29 UTC
 
-- [I built an AI code reviewer that reads the room before commenting](https://codemouse.ai) — Hacker News
-- [AI Graduation Speech](https://www.smbc-comics.com/comic/speech) — Hacker News
-- [Grok Build 0.1 on API](https://x.ai/news/grok-build-0-1) — Hacker News
+- [Show HN: Akmon, verify what an AI agent did offline using only OpenSSL](https://github.com/radotsvetkov/akmon) — Hacker News
+- [The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/) — Hacker News
+- [I led the U.S. CDC response to the 2014 Ebola epidemic](https://www.statnews.com/2026/06/06/ebola-outbreak-us-aid-response-tom-frieden-action-plan/) — Hacker News
 <!--END_HEARTBEAT-->
