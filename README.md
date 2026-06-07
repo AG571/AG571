@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-06 09:29 UTC
+Last update: 2026-06-07 10:08 UTC
 
-- [Show HN: Akmon, verify what an AI agent did offline using only OpenSSL](https://github.com/radotsvetkov/akmon) — Hacker News
-- [The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/) — Hacker News
-- [I led the U.S. CDC response to the 2014 Ebola epidemic](https://www.statnews.com/2026/06/06/ebola-outbreak-us-aid-response-tom-frieden-action-plan/) — Hacker News
+- [Automated QA and Testing with AI](https://antirez.com/news/168) — Hacker News
+- [Klarna CMO created an AI "venting machine" of himself](https://www.businessinsider.com/klarna-cmo-built-ai-replica-himself-colleagues-vent-at-2026-5) — Hacker News
+- [Show HN: Best setup local LLM found for a 5090 (llama.cpp fork + turboquant)](https://local-llm.utop.workers.dev/) — Hacker News
 <!--END_HEARTBEAT-->
