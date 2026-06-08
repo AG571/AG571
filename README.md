@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-07 10:08 UTC
+Last update: 2026-06-08 12:06 UTC
 
-- [Automated QA and Testing with AI](https://antirez.com/news/168) — Hacker News
-- [Klarna CMO created an AI "venting machine" of himself](https://www.businessinsider.com/klarna-cmo-built-ai-replica-himself-colleagues-vent-at-2026-5) — Hacker News
-- [Show HN: Best setup local LLM found for a 5090 (llama.cpp fork + turboquant)](https://local-llm.utop.workers.dev/) — Hacker News
+- [Show HN: RepoSignal scores GitHub repos for adoption risk. No AI, no servers](https://github.com/udit-rawat/RepoSignal) — Hacker News
+- [SpaceX ($SPCX): AI, Chips, Sats, Launches and Orbital Compute Under One Roof](https://twitter.com/StockAnalystPro/status/2063675760725160211) — Hacker News
+- [Caddy Defender Plugin: return garbage responses for AI crawlers](https://github.com/jasonlovesdoggo/caddy-defender) — Hacker News
 <!--END_HEARTBEAT-->
