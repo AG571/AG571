@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-08 12:06 UTC
+Last update: 2026-06-09 10:38 UTC
 
-- [Show HN: RepoSignal scores GitHub repos for adoption risk. No AI, no servers](https://github.com/udit-rawat/RepoSignal) — Hacker News
-- [SpaceX ($SPCX): AI, Chips, Sats, Launches and Orbital Compute Under One Roof](https://twitter.com/StockAnalystPro/status/2063675760725160211) — Hacker News
-- [Caddy Defender Plugin: return garbage responses for AI crawlers](https://github.com/jasonlovesdoggo/caddy-defender) — Hacker News
+- [Record Conflicts Drive Peace to Historic Low as AI Warfare Surges](https://www.visionofhumanity.org/record-conflicts-drive-peace-to-historic-low-as-ai-warfare-surges/) — Hacker News
+- [Show HN: Open dataset for distilling GPU audio2face models to CPU students](https://huggingface.co/datasets/myned-ai/audio2face-emotion-arkit-teacher) — Hacker News
+- [How We Built Automatic Invoice Reconciliation Without AI](https://usecycle.co/blog/zero-reconcilation-for-invoices) — Hacker News
 <!--END_HEARTBEAT-->
