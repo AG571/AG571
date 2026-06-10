@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-09 10:38 UTC
+Last update: 2026-06-10 11:01 UTC
 
-- [Record Conflicts Drive Peace to Historic Low as AI Warfare Surges](https://www.visionofhumanity.org/record-conflicts-drive-peace-to-historic-low-as-ai-warfare-surges/) — Hacker News
-- [Show HN: Open dataset for distilling GPU audio2face models to CPU students](https://huggingface.co/datasets/myned-ai/audio2face-emotion-arkit-teacher) — Hacker News
-- [How We Built Automatic Invoice Reconciliation Without AI](https://usecycle.co/blog/zero-reconcilation-for-invoices) — Hacker News
+- [Is symbolic AI more relevant than ever?](https://www.heise.de/en/blog/Is-symbolic-AI-more-relevant-than-ever-11323023.html) — Hacker News
+- [Can tech companies learn to love cheaper AI models?](https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/) — Hacker News
+- [WSP WordPress MCP – Connect AI Coding Agents to WordPress](https://github.com/bilalnaseer/wsp-wordpress-mcp) — Hacker News
 <!--END_HEARTBEAT-->
