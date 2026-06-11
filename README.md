@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-10 11:01 UTC
+Last update: 2026-06-11 11:45 UTC
 
-- [Is symbolic AI more relevant than ever?](https://www.heise.de/en/blog/Is-symbolic-AI-more-relevant-than-ever-11323023.html) — Hacker News
-- [Can tech companies learn to love cheaper AI models?](https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/) — Hacker News
+- [AI Boom Stokes Inflation with Memory Chips at 'Insane' Prices](https://www.bloomberg.com/news/articles/2026-06-11/us-inflation-driven-partly-by-ai-boom-fueling-economy-stocks) — Hacker News
 - [WSP WordPress MCP – Connect AI Coding Agents to WordPress](https://github.com/bilalnaseer/wsp-wordpress-mcp) — Hacker News
+- [Show HN: A skill to audit your dbt project for what an AI agent will get wrong](https://github.com/GetCassis/dbt-agent-readiness) — Hacker News
 <!--END_HEARTBEAT-->
