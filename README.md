@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-11 11:45 UTC
+Last update: 2026-06-12 11:07 UTC
 
-- [AI Boom Stokes Inflation with Memory Chips at 'Insane' Prices](https://www.bloomberg.com/news/articles/2026-06-11/us-inflation-driven-partly-by-ai-boom-fueling-economy-stocks) — Hacker News
-- [WSP WordPress MCP – Connect AI Coding Agents to WordPress](https://github.com/bilalnaseer/wsp-wordpress-mcp) — Hacker News
-- [Show HN: A skill to audit your dbt project for what an AI agent will get wrong](https://github.com/GetCassis/dbt-agent-readiness) — Hacker News
+- [AI Economics for Dummies](https://www.mcsweeneys.net/articles/ai-economics-for-dummies) — Hacker News
+- [Production-Grade Claude/AI Skills for Ruby on Rails](https://github.com/sandeepmvl/rails-skills) — Hacker News
+- [I made a zero cost browser-use tool – let AI click and type on webpages for you](https://github.com/pdufour/browser-use-wasm) — Hacker News
 <!--END_HEARTBEAT-->
