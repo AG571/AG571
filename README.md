@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-12 11:07 UTC
+Last update: 2026-06-13 10:06 UTC
 
-- [AI Economics for Dummies](https://www.mcsweeneys.net/articles/ai-economics-for-dummies) — Hacker News
-- [Production-Grade Claude/AI Skills for Ruby on Rails](https://github.com/sandeepmvl/rails-skills) — Hacker News
-- [I made a zero cost browser-use tool – let AI click and type on webpages for you](https://github.com/pdufour/browser-use-wasm) — Hacker News
+- [Zuckerberg says Meta made 'mistakes' in AI workforce shift](https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/) — Hacker News
+- [Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](https://github.com/Paca-AI/paca) — Hacker News
+- [The five pillars of the post-AI interview](https://carette.xyz/posts/the_five_pillars_of_post_ai_interview/) — Hacker News
 <!--END_HEARTBEAT-->
