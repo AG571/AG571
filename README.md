@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-13 10:06 UTC
+Last update: 2026-06-14 10:30 UTC
 
-- [Zuckerberg says Meta made 'mistakes' in AI workforce shift](https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/) — Hacker News
-- [Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](https://github.com/Paca-AI/paca) — Hacker News
-- [The five pillars of the post-AI interview](https://carette.xyz/posts/the_five_pillars_of_post_ai_interview/) — Hacker News
+- [When asking for a date, aim for no](https://talk.bradwoods.io/blog/aim-for-no) — Hacker News
+- [Show HN: Velyr – an AI agent that finds and fixes conversion leaks on your site](https://velyr.io/) — Hacker News
+- [Richard Halsey Best – the man who sank two Japanese aircraft carriers in one day](https://en.wikipedia.org/wiki/Richard_Halsey_Best) — Hacker News
 <!--END_HEARTBEAT-->
