@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-14 10:30 UTC
+Last update: 2026-06-15 13:24 UTC
 
-- [When asking for a date, aim for no](https://talk.bradwoods.io/blog/aim-for-no) — Hacker News
-- [Show HN: Velyr – an AI agent that finds and fixes conversion leaks on your site](https://velyr.io/) — Hacker News
-- [Richard Halsey Best – the man who sank two Japanese aircraft carriers in one day](https://en.wikipedia.org/wiki/Richard_Halsey_Best) — Hacker News
+- [AI Readiness Radar](https://cakehurstryan.com/2026/06/12/ai-readiness-radar/) — Hacker News
+- [Generative AI and Ethical Speculation](https://www.internetruleslab.com/black-mirror-survey) — Hacker News
+- [WSP WordPress MCP – Connect AI Agents to WordPress](https://github.com/bilalnaseer/wsp-wordpress-mcp) — Hacker News
 <!--END_HEARTBEAT-->
