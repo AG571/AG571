@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-15 13:24 UTC
+Last update: 2026-06-16 12:19 UTC
 
-- [AI Readiness Radar](https://cakehurstryan.com/2026/06/12/ai-readiness-radar/) — Hacker News
-- [Generative AI and Ethical Speculation](https://www.internetruleslab.com/black-mirror-survey) — Hacker News
-- [WSP WordPress MCP – Connect AI Agents to WordPress](https://github.com/bilalnaseer/wsp-wordpress-mcp) — Hacker News
+- [SpaceX Will Buy AI Coding Firm Cursor for $60B](https://www.forbes.com/sites/siladityaray/2026/06/16/spacex-will-buy-ai-coding-firm-cursor-for-60-billion/) — Hacker News
+- [Anthropic Faces Lawsuit over Allegedly Misleading Claude AI Pricing](https://decrypt.co/371201/anthropic-lawsuit-allegedly-misleading-claude-ai-pricing) — Hacker News
+- [The White House Is Ratcheting Up Its War Against Anthropic](https://www.theatlantic.com/technology/2026/06/trump-anthropic-export-control-ai-race/687555/) — Hacker News
 <!--END_HEARTBEAT-->
