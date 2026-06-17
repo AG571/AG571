@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-16 12:19 UTC
+Last update: 2026-06-17 11:55 UTC
 
-- [SpaceX Will Buy AI Coding Firm Cursor for $60B](https://www.forbes.com/sites/siladityaray/2026/06/16/spacex-will-buy-ai-coding-firm-cursor-for-60-billion/) — Hacker News
-- [Anthropic Faces Lawsuit over Allegedly Misleading Claude AI Pricing](https://decrypt.co/371201/anthropic-lawsuit-allegedly-misleading-claude-ai-pricing) — Hacker News
-- [The White House Is Ratcheting Up Its War Against Anthropic](https://www.theatlantic.com/technology/2026/06/trump-anthropic-export-control-ai-race/687555/) — Hacker News
+- [Show HN: Paper UX for task management, that organizes your personal DB itself](https://notaru.ai) — Hacker News
+- [Qantas launches non-stop Sydney–London flights in modified Airbus A350](https://www.executivetraveller.com/news/qantas-non-stop-sydney-london-flights) — Hacker News
+- [Show HN: AI Agent Skills to Grow Your Open Source Project](https://github.com/marketingskills/open-source-growth) — Hacker News
 <!--END_HEARTBEAT-->
