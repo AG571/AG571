@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-17 11:55 UTC
+Last update: 2026-06-18 11:15 UTC
 
-- [Show HN: Paper UX for task management, that organizes your personal DB itself](https://notaru.ai) — Hacker News
-- [Qantas launches non-stop Sydney–London flights in modified Airbus A350](https://www.executivetraveller.com/news/qantas-non-stop-sydney-london-flights) — Hacker News
-- [Show HN: AI Agent Skills to Grow Your Open Source Project](https://github.com/marketingskills/open-source-growth) — Hacker News
+- [Show HN: Khwand – self-healing CI/CD for AI agents (GitHub App, Python-first)](https://wwww.khwand.com) — Hacker News
+- [An Interview with Michael Morton About E-Commerce in the Age of AI](https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/) — Hacker News
+- [Show HN: Causality Engine – Causal marketing attribution for e-commerce](https://www.causalityengine.ai) — Hacker News
 <!--END_HEARTBEAT-->
