@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-18 11:15 UTC
+Last update: 2026-06-19 11:40 UTC
 
-- [Show HN: Khwand – self-healing CI/CD for AI agents (GitHub App, Python-first)](https://wwww.khwand.com) — Hacker News
-- [An Interview with Michael Morton About E-Commerce in the Age of AI](https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/) — Hacker News
-- [Show HN: Causality Engine – Causal marketing attribution for e-commerce](https://www.causalityengine.ai) — Hacker News
+- [Show HN: Wolffish – An OS personal desktop AI agent](https://www.wolffi.sh/) — Hacker News
+- [AI Tool That Analyzes Reddit Complaints and Suggests Micro-SaaS Ideas](https://ideavault-alpha.vercel.app/) — Hacker News
+- [Co/Core – An AI Cooperative](https://console.cocore.dev/) — Hacker News
 <!--END_HEARTBEAT-->
