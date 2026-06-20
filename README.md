@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-19 11:40 UTC
+Last update: 2026-06-20 10:12 UTC
 
-- [Show HN: Wolffish – An OS personal desktop AI agent](https://www.wolffi.sh/) — Hacker News
-- [AI Tool That Analyzes Reddit Complaints and Suggests Micro-SaaS Ideas](https://ideavault-alpha.vercel.app/) — Hacker News
-- [Co/Core – An AI Cooperative](https://console.cocore.dev/) — Hacker News
+- [When a Robot Kicks a Child](https://www.law.kuleuven.be/citip/blog/when-a-robot-kicks-a-child-what-humanoid-ai-can-teach-us-about-liability-and-safety-by-design/) — Hacker News
+- [Show HN: Created On-Page SEO Tool – AI Action Plans for Search Console Data](https://blogr.ai) — Hacker News
+- [Show HN: F1l0 – Fitness Logger](https://f1l0.nickyreinert.de/) — Hacker News
 <!--END_HEARTBEAT-->
