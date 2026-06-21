@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-20 10:12 UTC
+Last update: 2026-06-21 10:41 UTC
 
-- [When a Robot Kicks a Child](https://www.law.kuleuven.be/citip/blog/when-a-robot-kicks-a-child-what-humanoid-ai-can-teach-us-about-liability-and-safety-by-design/) — Hacker News
-- [Show HN: Created On-Page SEO Tool – AI Action Plans for Search Console Data](https://blogr.ai) — Hacker News
-- [Show HN: F1l0 – Fitness Logger](https://f1l0.nickyreinert.de/) — Hacker News
+- [KitaabAI AI book and thesis writer with native Urdu support](https://kitaabai.com) — Hacker News
+- [Brands using AI-generated influencers to promote products on social media](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media) — Hacker News
+- [What does it mean for AI to be democratic?](https://blog.andymasley.com/p/what-does-it-mean-for-ai-to-be-democratic) — Hacker News
 <!--END_HEARTBEAT-->
