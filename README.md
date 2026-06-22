@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-21 10:41 UTC
+Last update: 2026-06-22 13:03 UTC
 
-- [KitaabAI AI book and thesis writer with native Urdu support](https://kitaabai.com) — Hacker News
-- [Brands using AI-generated influencers to promote products on social media](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media) — Hacker News
-- [What does it mean for AI to be democratic?](https://blog.andymasley.com/p/what-does-it-mean-for-ai-to-be-democratic) — Hacker News
+- [Is AI More Expensive Than the Employees It's Replacing?](https://www.profgmedia.com/p/is-ai-more-expensive-than-the-employees) — Hacker News
+- [You don't need ten agents. You need two tracks](https://tidewave.ai/blog/two-tracks) — Hacker News
+- [Google I/O 2026 Mobile Playbook: AI Studio, Android CLI, and Antigravity](https://geekyants.com/blog/google-io-2026-mobile-playbook-ai-studio-android-cli-and-antigravity-for-app-development) — Hacker News
 <!--END_HEARTBEAT-->
