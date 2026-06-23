@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-22 13:03 UTC
+Last update: 2026-06-23 10:41 UTC
 
-- [Is AI More Expensive Than the Employees It's Replacing?](https://www.profgmedia.com/p/is-ai-more-expensive-than-the-employees) — Hacker News
-- [You don't need ten agents. You need two tracks](https://tidewave.ai/blog/two-tracks) — Hacker News
-- [Google I/O 2026 Mobile Playbook: AI Studio, Android CLI, and Antigravity](https://geekyants.com/blog/google-io-2026-mobile-playbook-ai-studio-android-cli-and-antigravity-for-app-development) — Hacker News
+- [Car Hacking with Claude Code](https://www.csselectronics.com/pages/can-bus-reverse-engineering-ai-llm-claude) — Hacker News
+- [N8n 2026 AI agent builder report](https://n8n.io/reports/2026-ai-agent-development-tools/) — Hacker News
+- [Show HN: Shumai – open-source Frame.io alternative for creative work](https://github.com/shumaiOne/shumai) — Hacker News
 <!--END_HEARTBEAT-->
