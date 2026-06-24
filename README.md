@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-23 10:41 UTC
+Last update: 2026-06-24 10:26 UTC
 
-- [Car Hacking with Claude Code](https://www.csselectronics.com/pages/can-bus-reverse-engineering-ai-llm-claude) — Hacker News
-- [N8n 2026 AI agent builder report](https://n8n.io/reports/2026-ai-agent-development-tools/) — Hacker News
-- [Show HN: Shumai – open-source Frame.io alternative for creative work](https://github.com/shumaiOne/shumai) — Hacker News
+- [Debugging in the Age of Agents](https://www.akashtandon.in/ai/2026-06-24-debugging-in-the-age-of-agents/) — Hacker News
+- [Giving AI human-like memory limits (3–7 words) could improve language learning](https://www.mpi.nl/news/new-study-finds-forgetting-may-be-secret-better-ai-language-learning) — Hacker News
+- [Execlave vs. Credo AI: honest technical comparison](https://www.execlave.com/blog/execlave-vs-credo-ai) — Hacker News
 <!--END_HEARTBEAT-->
