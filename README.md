@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-24 10:26 UTC
+Last update: 2026-06-25 10:19 UTC
 
-- [Debugging in the Age of Agents](https://www.akashtandon.in/ai/2026-06-24-debugging-in-the-age-of-agents/) — Hacker News
-- [Giving AI human-like memory limits (3–7 words) could improve language learning](https://www.mpi.nl/news/new-study-finds-forgetting-may-be-secret-better-ai-language-learning) — Hacker News
-- [Execlave vs. Credo AI: honest technical comparison](https://www.execlave.com/blog/execlave-vs-credo-ai) — Hacker News
+- [SoftBank's Son calls AI bubble talk an 'insult,' delays retiring](https://www.taipeitimes.com/News/biz/archives/2026/06/25/2003859680) — Hacker News
+- [Show HN: How to Use Unlimited Token Plan with OpenCode](https://twitter.com/CanopyWave_AI/status/2069957571184832525) — Hacker News
+- [Anthropic Claims Alibaba Ran 'Brazen' Campaign to Access Its Claude AI Model](https://www.wsj.com/tech/ai/anthropic-claims-alibaba-ran-brazen-campaign-to-access-its-claude-ai-model-69d7a392) — Hacker News
 <!--END_HEARTBEAT-->
