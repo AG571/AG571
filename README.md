@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-25 10:19 UTC
+Last update: 2026-06-26 10:26 UTC
 
-- [SoftBank's Son calls AI bubble talk an 'insult,' delays retiring](https://www.taipeitimes.com/News/biz/archives/2026/06/25/2003859680) — Hacker News
-- [Show HN: How to Use Unlimited Token Plan with OpenCode](https://twitter.com/CanopyWave_AI/status/2069957571184832525) — Hacker News
-- [Anthropic Claims Alibaba Ran 'Brazen' Campaign to Access Its Claude AI Model](https://www.wsj.com/tech/ai/anthropic-claims-alibaba-ran-brazen-campaign-to-access-its-claude-ai-model-69d7a392) — Hacker News
+- [Why AI in the classroom is a catastrophe – Sophie Winkleman [ARC 2026] [video]](https://www.youtube.com/watch?v=yFp5-i5fzyQ) — Hacker News
+- [OpenAI Codex bombards SSDs with needless write operations, costing millions](https://www.theregister.com/ai-and-ml/2026/06/23/openai-codex-bombards-ssds-with-needless-write-operations-costing-millions/5260402) — Hacker News
+- [The AI LinkedIn Post Generator That Grows Your Professional Brand](https://elevenwritt.com/blog/ai-linkedin-post-generator) — Hacker News
 <!--END_HEARTBEAT-->
