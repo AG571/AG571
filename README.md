@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-26 10:26 UTC
+Last update: 2026-06-27 09:33 UTC
 
-- [Why AI in the classroom is a catastrophe – Sophie Winkleman [ARC 2026] [video]](https://www.youtube.com/watch?v=yFp5-i5fzyQ) — Hacker News
-- [OpenAI Codex bombards SSDs with needless write operations, costing millions](https://www.theregister.com/ai-and-ml/2026/06/23/openai-codex-bombards-ssds-with-needless-write-operations-costing-millions/5260402) — Hacker News
-- [The AI LinkedIn Post Generator That Grows Your Professional Brand](https://elevenwritt.com/blog/ai-linkedin-post-generator) — Hacker News
+- [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) — Hacker News
+- [What Everyone Gets Wrong About AI and Learning [video]](https://www.youtube.com/watch?v=0xS68sl2D70) — Hacker News
+- [Show HN: Brytlog – AI logger](https://github.com/Guy-Sela/brytlog) — Hacker News
 <!--END_HEARTBEAT-->
