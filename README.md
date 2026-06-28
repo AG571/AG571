@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-27 09:33 UTC
+Last update: 2026-06-28 10:06 UTC
 
-- [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) — Hacker News
-- [What Everyone Gets Wrong About AI and Learning [video]](https://www.youtube.com/watch?v=0xS68sl2D70) — Hacker News
-- [Show HN: Brytlog – AI logger](https://github.com/Guy-Sela/brytlog) — Hacker News
+- [Software Taste vs. Slop in the Age of AI – TWSoftwareDev26](https://blog.herlein.com/post/wisdom-in-specs/) — Hacker News
+- [If You Can Facilitate a Retrospective, You Can Audit Your AI](https://age-of-product.com/ai-delegation-audit/) — Hacker News
+- [Grok Is More Important Than Clean Air, DOJ Says](https://www.motherjones.com/environment/2026/06/grok-doj-justice-naacp-clean-air-act-gas-turbine-pollution-national-security-ai/) — Hacker News
 <!--END_HEARTBEAT-->
