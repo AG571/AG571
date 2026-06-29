@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-28 10:06 UTC
+Last update: 2026-06-29 12:06 UTC
 
-- [Software Taste vs. Slop in the Age of AI – TWSoftwareDev26](https://blog.herlein.com/post/wisdom-in-specs/) — Hacker News
-- [If You Can Facilitate a Retrospective, You Can Audit Your AI](https://age-of-product.com/ai-delegation-audit/) — Hacker News
-- [Grok Is More Important Than Clean Air, DOJ Says](https://www.motherjones.com/environment/2026/06/grok-doj-justice-naacp-clean-air-act-gas-turbine-pollution-national-security-ai/) — Hacker News
+- [Weathering the Storm of AI](https://www.bencodezen.io/blog/weathering-the-storm-of-ai/) — Hacker News
+- [Five Forecasts for the Future of Work](https://www.wealthsystems.ai/p/five-forecasts-for-the-future-of) — Hacker News
+- [Show HN: Reference MCP – let your AI agents search each other's past sessions](https://github.com/kuberwastaken/reference) — Hacker News
 <!--END_HEARTBEAT-->
