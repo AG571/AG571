@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-29 12:06 UTC
+Last update: 2026-06-30 10:34 UTC
 
-- [Weathering the Storm of AI](https://www.bencodezen.io/blog/weathering-the-storm-of-ai/) — Hacker News
-- [Five Forecasts for the Future of Work](https://www.wealthsystems.ai/p/five-forecasts-for-the-future-of) — Hacker News
-- [Show HN: Reference MCP – let your AI agents search each other's past sessions](https://github.com/kuberwastaken/reference) — Hacker News
+- [The missing context layer for AI-built apps](https://github.com/ohad6k/VibeRaven) — Hacker News
+- [Show HN: Turnitindetector.ai – Free AI checker for essays, no sign-up](https://www.turnitindetector.ai/) — Hacker News
+- [Show HN: GPTHumanizer – Free, unlimited AI humanizer for ChatGPT drafts](https://www.gpthumanizer.ai/) — Hacker News
 <!--END_HEARTBEAT-->
