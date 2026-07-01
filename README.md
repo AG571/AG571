@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-06-30 10:34 UTC
+Last update: 2026-07-01 10:47 UTC
 
-- [The missing context layer for AI-built apps](https://github.com/ohad6k/VibeRaven) — Hacker News
-- [Show HN: Turnitindetector.ai – Free AI checker for essays, no sign-up](https://www.turnitindetector.ai/) — Hacker News
-- [Show HN: GPTHumanizer – Free, unlimited AI humanizer for ChatGPT drafts](https://www.gpthumanizer.ai/) — Hacker News
+- [BIS Annual Report AI Scenarios](https://www.bis.org/publ/arpdf/ar2026e1.htm) — Hacker News
+- [Show HN: I built an automated productivity system (Telegram –> Notion)](https://singhos.com/) — Hacker News
+- [MacBook Air M4 for development: 1 year review](https://notnotp.com/notes/macbook-air-m4-for-dev/) — Hacker News
 <!--END_HEARTBEAT-->
