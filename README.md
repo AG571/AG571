@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-01 10:47 UTC
+Last update: 2026-07-02 10:13 UTC
 
-- [BIS Annual Report AI Scenarios](https://www.bis.org/publ/arpdf/ar2026e1.htm) — Hacker News
-- [Show HN: I built an automated productivity system (Telegram –> Notion)](https://singhos.com/) — Hacker News
-- [MacBook Air M4 for development: 1 year review](https://notnotp.com/notes/macbook-air-m4-for-dev/) — Hacker News
+- [The Anthropic Fable Ban Is Over. The Battle over How to Tame AI Has Just Begun](https://www.wsj.com/tech/ai/the-anthropic-fable-ban-is-over-the-battle-over-how-to-tame-ai-has-just-begun-e93f51d6) — Hacker News
+- [Trainety – a marketplace for AI project publishers and providers](https://www.trainety.com/) — Hacker News
+- ["Learning to Replicate Expert Judgment in Financial Tasks" – Thinking Machines](https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/) — Hacker News
 <!--END_HEARTBEAT-->
