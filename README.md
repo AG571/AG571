@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-02 10:13 UTC
+Last update: 2026-07-03 10:09 UTC
 
-- [The Anthropic Fable Ban Is Over. The Battle over How to Tame AI Has Just Begun](https://www.wsj.com/tech/ai/the-anthropic-fable-ban-is-over-the-battle-over-how-to-tame-ai-has-just-begun-e93f51d6) — Hacker News
-- [Trainety – a marketplace for AI project publishers and providers](https://www.trainety.com/) — Hacker News
-- ["Learning to Replicate Expert Judgment in Financial Tasks" – Thinking Machines](https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/) — Hacker News
+- [AI Art as Curation](https://blog.andymasley.com/p/ai-art-as-curation) — Hacker News
+- [Transcribe.cpp](https://blog.mozilla.ai/announcing-transcribe-cpp/) — Hacker News
+- [Godot says bye bye AI, bans vibe-coded contributions](https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344) — Hacker News
 <!--END_HEARTBEAT-->
