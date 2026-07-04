@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-03 10:09 UTC
+Last update: 2026-07-04 09:29 UTC
 
-- [AI Art as Curation](https://blog.andymasley.com/p/ai-art-as-curation) — Hacker News
-- [Transcribe.cpp](https://blog.mozilla.ai/announcing-transcribe-cpp/) — Hacker News
-- [Godot says bye bye AI, bans vibe-coded contributions](https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344) — Hacker News
+- [Intent-addressable code for AI coding agents](https://github.com/croviatrust/causari) — Hacker News
+- [LiteOne V3 – A 12KB Zero-Build framework aiming for strict CSP security](https://github.com/reflexmanofficial/LiteOne-v3) — Hacker News
+- [Radio Free AI: The voice of the resistance](https://open.spotify.com/show/033HWq6pzjHeleKR8jfxLm) — Hacker News
 <!--END_HEARTBEAT-->
