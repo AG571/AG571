@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-04 09:29 UTC
+Last update: 2026-07-05 09:45 UTC
 
-- [Intent-addressable code for AI coding agents](https://github.com/croviatrust/causari) — Hacker News
-- [LiteOne V3 – A 12KB Zero-Build framework aiming for strict CSP security](https://github.com/reflexmanofficial/LiteOne-v3) — Hacker News
-- [Radio Free AI: The voice of the resistance](https://open.spotify.com/show/033HWq6pzjHeleKR8jfxLm) — Hacker News
+- [Show HN: Self-healing review gate and knowledge base for Claude Code (Beta)](https://verity.md) — Hacker News
+- ["Stop Moralizing AirCon": How Institutions Shift Responsibility onto Individuals](https://jdjayne.substack.com/p/moralizing) — Hacker News
+- [Learning Multi-Agent Coordination via Sheaf-ADMM](https://pub.sakana.ai/sheaf-admm/) — Hacker News
 <!--END_HEARTBEAT-->
