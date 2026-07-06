@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-05 09:45 UTC
+Last update: 2026-07-06 11:42 UTC
 
-- [Show HN: Self-healing review gate and knowledge base for Claude Code (Beta)](https://verity.md) — Hacker News
-- ["Stop Moralizing AirCon": How Institutions Shift Responsibility onto Individuals](https://jdjayne.substack.com/p/moralizing) — Hacker News
-- [Learning Multi-Agent Coordination via Sheaf-ADMM](https://pub.sakana.ai/sheaf-admm/) — Hacker News
+- [I'm just so bored of AI](https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/) — Hacker News
+- [Tlbic: A Local Basic Income Proposal Built with AIs to Combat Despair](https://drive.google.com/file/d/16pfAwZc1E-X8waY3pyf8XUTVY60kUIvS/view?usp=drive_link) — Hacker News
+- [SvelteChatKit: Provider agnostic AI chat UI for OpenAI, Dify, n8n, and others](https://github.com/kristofers322/SvelteChatKit) — Hacker News
 <!--END_HEARTBEAT-->
