@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-08 09:32 UTC
+Last update: 2026-07-09 10:39 UTC
 
-- [Fiszki flashcards without an app: your AI quizzes you, FSRS keeps score](https://fiszki.zuzanow.pl/login) — Hacker News
-- [Show HN: Diagraw – hand-drawn diagrams, real-time collab, AI assistant](https://diagraw.com/es/) — Hacker News
-- [Viability of Local Models for Coding](https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html) — Hacker News
+- [Show HN: Self-Hosted AI That Sees, Plays Minecraft, and Reacts](https://github.com/Alradyin/wallie-V2) — Hacker News
+- [Show HN: Agentic FC – a football management SIM played by AI agents over MCP](https://github.com/gaemi/agentic-fc) — Hacker News
+- [Show HN: Internationalizationstack – Fix AI Localization Bugs in Claude Code](https://github.com/i18n-agent/i18nstack) — Hacker News
 <!--END_HEARTBEAT-->
