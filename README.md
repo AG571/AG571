@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-10 10:28 UTC
+Last update: 2026-07-11 08:56 UTC
 
-- [Impact of AI-Generated Text on the Internet](https://ai-on-the-internet.github.io/) — Hacker News
-- [Muscula – an AI-powered error tracking and monitoring platform](https://www.muscula.com/) — Hacker News
-- [CorvinOS – self-hosted OS for AI agents, compliance built into the runtime](https://corvin-labs.com/) — Hacker News
+- [Eliezer Yudkowsky: Will superintelligent AI end the world? [video]](https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world) — Hacker News
+- [Companies are scrambling to curtail soaring AI costs](https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs) — Hacker News
+- [AI is compressing the startup lifecycle, not just development speed](https://www.alexdelivet.com/insights/the-end-of-zombie-startup-land) — Hacker News
 <!--END_HEARTBEAT-->
