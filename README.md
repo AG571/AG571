@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-11 08:56 UTC
+Last update: 2026-07-12 09:11 UTC
 
-- [Eliezer Yudkowsky: Will superintelligent AI end the world? [video]](https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world) — Hacker News
-- [Companies are scrambling to curtail soaring AI costs](https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs) — Hacker News
-- [AI is compressing the startup lifecycle, not just development speed](https://www.alexdelivet.com/insights/the-end-of-zombie-startup-land) — Hacker News
+- [The Hard-Line Activists Ramping Up for the War with AI](https://www.wsj.com/tech/ai/anti-ai-activists-disappearance-sam-kirchner-6872879f) — Hacker News
+- [Shark: The First Light Aircraft That Cancels Turbulence [video]](https://www.youtube.com/watch?v=wHcZf9E0esA) — Hacker News
+- [Political Neutrality Benchmark of popular AI models](https://neutralityproject.org/results.html) — Hacker News
 <!--END_HEARTBEAT-->
