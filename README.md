@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-12 09:11 UTC
+Last update: 2026-07-13 10:33 UTC
 
-- [The Hard-Line Activists Ramping Up for the War with AI](https://www.wsj.com/tech/ai/anti-ai-activists-disappearance-sam-kirchner-6872879f) — Hacker News
-- [Shark: The First Light Aircraft That Cancels Turbulence [video]](https://www.youtube.com/watch?v=wHcZf9E0esA) — Hacker News
-- [Political Neutrality Benchmark of popular AI models](https://neutralityproject.org/results.html) — Hacker News
+- [Checkpoints for AI sessions – carry context across AI tools, self-hosted](https://github.com/OurThinkTank/founders-os) — Hacker News
+- [Automate your link building outreach with one tool](https://www.autobacklinks.ai) — Hacker News
+- [Show HN: Call to Control AI Agents via the Web](https://diffforge.ai/) — Hacker News
 <!--END_HEARTBEAT-->
