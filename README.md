@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-13 10:33 UTC
+Last update: 2026-07-14 09:14 UTC
 
-- [Checkpoints for AI sessions – carry context across AI tools, self-hosted](https://github.com/OurThinkTank/founders-os) — Hacker News
-- [Automate your link building outreach with one tool](https://www.autobacklinks.ai) — Hacker News
-- [Show HN: Call to Control AI Agents via the Web](https://diffforge.ai/) — Hacker News
+- [TSMC Spies Got 10 Years. Taiwan's AI Basic Act Has No Penalties at All](https://mrkt30.com/tsmc-spies-got-10-years-taiwans-ai-basic-act-has-no-penalties-at-all/) — Hacker News
+- [The EasyJet Takeover: Can Apollo Own a European Airline?](https://www.disruptionbanking.com/2026/07/14/the-easyjet-takeover-can-apollo-actually-own-a-european-airline/) — Hacker News
+- [Microsoft commits $2.5B, 6k employees AI implementation unit](https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html) — Hacker News
 <!--END_HEARTBEAT-->
