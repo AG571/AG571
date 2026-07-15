@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-14 09:14 UTC
+Last update: 2026-07-15 09:18 UTC
 
-- [TSMC Spies Got 10 Years. Taiwan's AI Basic Act Has No Penalties at All](https://mrkt30.com/tsmc-spies-got-10-years-taiwans-ai-basic-act-has-no-penalties-at-all/) — Hacker News
-- [The EasyJet Takeover: Can Apollo Own a European Airline?](https://www.disruptionbanking.com/2026/07/14/the-easyjet-takeover-can-apollo-actually-own-a-european-airline/) — Hacker News
-- [Microsoft commits $2.5B, 6k employees AI implementation unit](https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html) — Hacker News
+- [Language vs. Vectors](https://verantyx.ai) — Hacker News
+- [Nobel economists, tech leaders warn how AI could threaten jobs](https://www.washingtonpost.com/technology/2026/07/13/nobel-economists-tech-leaders-warn-how-ai-could-threaten-jobs/) — Hacker News
+- [Which Doc Format Is Best for AI Specifications?](http://blog.vanillajava.blog/2026/07/which-doc-format-is-best-for-ai.html) — Hacker News
 <!--END_HEARTBEAT-->
