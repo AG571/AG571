@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-17 09:18 UTC
+Last update: 2026-07-18 08:56 UTC
 
-- [My 'Grill Me' Skill Went Viral](https://www.aihero.dev/my-grill-me-skill-has-gone-viral) — Hacker News
-- [Why AI-Assisted Development Is More Exhausting Than It Should Be](https://tonyalicea.dev/blog/single-mode-burnout/) — Hacker News
-- [Five studies changing how I think about AI in software engineering](https://newsletter.getdx.com/p/five-studies-that-are-changing-how) — Hacker News
+- [Am I worried AI will take my job?](https://owl.billpg.com/am-i-worried-ai-will-take-my-job/) — Hacker News
+- [South Korea building sovereign cybersecurity AI after US Mythos export controls](https://en.yna.co.kr/view/AEN20260716005600320) — Hacker News
+- [Show HN: Fosnie – open-source self-hosted AI workspace for regulated teams](https://fosnie.dev/) — Hacker News
 <!--END_HEARTBEAT-->
