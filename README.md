@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-18 08:56 UTC
+Last update: 2026-07-19 09:14 UTC
 
-- [Am I worried AI will take my job?](https://owl.billpg.com/am-i-worried-ai-will-take-my-job/) — Hacker News
-- [South Korea building sovereign cybersecurity AI after US Mythos export controls](https://en.yna.co.kr/view/AEN20260716005600320) — Hacker News
-- [Show HN: Fosnie – open-source self-hosted AI workspace for regulated teams](https://fosnie.dev/) — Hacker News
+- [Linux Foundation Announces the Intent to Launch the Tokenomics Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-the-intent-to-launch-the-tokenomics-foundation-to-establish-open-standards-for-ai-cost-management) — Hacker News
+- [Show HN: AI mock interview tool that scores your answers – free, no signup](https://interviewpracticeai.com) — Hacker News
+- [Show HN: Shikigami, run AI coding agents in parallel, each in a Git worktree](https://shikigami.dev/) — Hacker News
 <!--END_HEARTBEAT-->
