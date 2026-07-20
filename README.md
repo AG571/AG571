@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-19 09:14 UTC
+Last update: 2026-07-20 10:19 UTC
 
-- [Linux Foundation Announces the Intent to Launch the Tokenomics Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-the-intent-to-launch-the-tokenomics-foundation-to-establish-open-standards-for-ai-cost-management) — Hacker News
-- [Show HN: AI mock interview tool that scores your answers – free, no signup](https://interviewpracticeai.com) — Hacker News
-- [Show HN: Shikigami, run AI coding agents in parallel, each in a Git worktree](https://shikigami.dev/) — Hacker News
+- [Show HN: I built a deterministic arena where AI agents fight using code](https://www.agentduel.app/b/cru8E9nG) — Hacker News
+- [Airbus Takes Flight from AWS](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109) — Hacker News
+- [Open Source Will Eat AI](https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code) — Hacker News
 <!--END_HEARTBEAT-->
