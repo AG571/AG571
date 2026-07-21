@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-20 10:19 UTC
+Last update: 2026-07-21 09:35 UTC
 
-- [Show HN: I built a deterministic arena where AI agents fight using code](https://www.agentduel.app/b/cru8E9nG) — Hacker News
-- [Airbus Takes Flight from AWS](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109) — Hacker News
-- [Open Source Will Eat AI](https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code) — Hacker News
+- [How Far Behind the Frontier Are Leading Open-Weight Models on Cyber?](https://www.aisi.gov.uk/blog/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber) — Hacker News
+- [Zero risk isn't the job: a CISO's guide to agentic AI](https://claude.com/blog/ciso-guide-to-agentic-ai) — Hacker News
+- [The secret Trump administration battle to fight Chinese AI](https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi) — Hacker News
 <!--END_HEARTBEAT-->
