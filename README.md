@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-21 09:35 UTC
+Last update: 2026-07-22 09:35 UTC
 
-- [How Far Behind the Frontier Are Leading Open-Weight Models on Cyber?](https://www.aisi.gov.uk/blog/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber) — Hacker News
-- [Zero risk isn't the job: a CISO's guide to agentic AI](https://claude.com/blog/ciso-guide-to-agentic-ai) — Hacker News
-- [The secret Trump administration battle to fight Chinese AI](https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi) — Hacker News
+- [Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral](https://www.france24.com/en/france/20260721-microsoft-strikes-multi-billion-dollar-deal-to-expand-france-ai-firm-mistral) — Hacker News
+- [Airbus is moving its most critical apps off AWS to a French cloud](https://thenextweb.com/news/airbus-scaleway-aws-sovereign-cloud) — Hacker News
+- [AI model release forecasts from prediction markets](https://matthewlloyd.github.io/ai-model-release-timeline/) — Hacker News
 <!--END_HEARTBEAT-->
