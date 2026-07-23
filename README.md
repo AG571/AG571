@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-22 09:35 UTC
+Last update: 2026-07-23 09:31 UTC
 
-- [Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral](https://www.france24.com/en/france/20260721-microsoft-strikes-multi-billion-dollar-deal-to-expand-france-ai-firm-mistral) — Hacker News
-- [Airbus is moving its most critical apps off AWS to a French cloud](https://thenextweb.com/news/airbus-scaleway-aws-sovereign-cloud) — Hacker News
-- [AI model release forecasts from prediction markets](https://matthewlloyd.github.io/ai-model-release-timeline/) — Hacker News
+- [Code review: slapping an AI reviewer on top of an AI author doesn't cut it](https://blog.codacy.com/ai-code-review-is-not-enough-how-engineering-leaders-should-gate-ai-generated-code) — Hacker News
+- [Find the prefect domain name with Gemeni and Agents (Antigravity)](https://rizz.dev/blog/guides/find-an-available-domain-name-with-ai) — Hacker News
+- [Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization](https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization) — Hacker News
 <!--END_HEARTBEAT-->
