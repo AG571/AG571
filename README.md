@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-23 09:31 UTC
+Last update: 2026-07-24 09:29 UTC
 
-- [Code review: slapping an AI reviewer on top of an AI author doesn't cut it](https://blog.codacy.com/ai-code-review-is-not-enough-how-engineering-leaders-should-gate-ai-generated-code) — Hacker News
-- [Find the prefect domain name with Gemeni and Agents (Antigravity)](https://rizz.dev/blog/guides/find-an-available-domain-name-with-ai) — Hacker News
-- [Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization](https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization) — Hacker News
+- [Grok muscles into Excel with an AI add-in of its own](https://www.theregister.com/ai-and-ml/2026/07/22/grok-muscles-into-excel-with-an-ai-add-in-of-its-own/5276138) — Hacker News
+- [Apertus 1.5](https://apertus-ai.org/articles/2026-07-apertus-1-5/) — Hacker News
+- [RTK and Claude Code Token Savings: A Closer Look](https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/) — Hacker News
 <!--END_HEARTBEAT-->
