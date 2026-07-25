@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-24 09:29 UTC
+Last update: 2026-07-25 09:09 UTC
 
-- [Grok muscles into Excel with an AI add-in of its own](https://www.theregister.com/ai-and-ml/2026/07/22/grok-muscles-into-excel-with-an-ai-add-in-of-its-own/5276138) — Hacker News
-- [Apertus 1.5](https://apertus-ai.org/articles/2026-07-apertus-1-5/) — Hacker News
-- [RTK and Claude Code Token Savings: A Closer Look](https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/) — Hacker News
+- [Case Study: AI Trainer Platform and Job Board [Months 1-6]](https://www.indiehackers.com/post/case-study-ai-trainer-platform-and-job-board-months-1-6-fcb5f25d54) — Hacker News
+- [Show HN: AI Toolbox supports Claude Opus 5](https://www.ai-toolbox.co) — Hacker News
+- [Show HN: The TERSE state language and protocol](https://github.com/terse-lang/terse) — Hacker News
 <!--END_HEARTBEAT-->
