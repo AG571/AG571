@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-25 09:09 UTC
+Last update: 2026-07-26 09:21 UTC
 
-- [Case Study: AI Trainer Platform and Job Board [Months 1-6]](https://www.indiehackers.com/post/case-study-ai-trainer-platform-and-job-board-months-1-6-fcb5f25d54) — Hacker News
-- [Show HN: AI Toolbox supports Claude Opus 5](https://www.ai-toolbox.co) — Hacker News
-- [Show HN: The TERSE state language and protocol](https://github.com/terse-lang/terse) — Hacker News
+- [The most capable resume editor I could build, as a solo dev](https://www.roleframe.ai/product/ai-resume-builder) — Hacker News
+- [If you feel the need to tell me your answer is AI-based, work it more](https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/) — Hacker News
+- [House AI 'kill switch' bill unveiled as OpenAI hack raises alarms](https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898) — Hacker News
 <!--END_HEARTBEAT-->
