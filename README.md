@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-26 09:21 UTC
+Last update: 2026-07-27 10:49 UTC
 
-- [The most capable resume editor I could build, as a solo dev](https://www.roleframe.ai/product/ai-resume-builder) — Hacker News
-- [If you feel the need to tell me your answer is AI-based, work it more](https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/) — Hacker News
-- [House AI 'kill switch' bill unveiled as OpenAI hack raises alarms](https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898) — Hacker News
+- [OpenAI is shutting down Atlas](https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/) — Hacker News
+- [Build a Basic AI Agent from Scratch: Security III](https://www.ruxu.dev/articles/ai/build-an-ai-agent-security-3/) — Hacker News
+- [Show HN: Dozenal – A Game of Spatial Arithmetic](https://dozenal.game) — Hacker News
 <!--END_HEARTBEAT-->
