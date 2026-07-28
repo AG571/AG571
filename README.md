@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-27 10:49 UTC
+Last update: 2026-07-28 09:43 UTC
 
-- [OpenAI is shutting down Atlas](https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/) — Hacker News
-- [Build a Basic AI Agent from Scratch: Security III](https://www.ruxu.dev/articles/ai/build-an-ai-agent-security-3/) — Hacker News
-- [Show HN: Dozenal – A Game of Spatial Arithmetic](https://dozenal.game) — Hacker News
+- [Qantas tests ultra long-range Airbus in 17K km flight from France to Melbourne](https://www.theguardian.com/business/2026/jul/24/qantas-project-sunrise-airbus-a350-1000ulr-ultra-long-range-france-melbourne-test-flight) — Hacker News
+- [Risk-Data API – Solana token risk scoring for AI trading agents](https://www.tnt-audit.com/risk-api) — Hacker News
+- [Airbus A350-1000 ULR Completes Non-Stop 24 Hour Flight](https://www.aerotime.aero/articles/airbus-qantas-a350-1000ulr-24-hour-flight) — Hacker News
 <!--END_HEARTBEAT-->
