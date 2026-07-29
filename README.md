@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-28 09:43 UTC
+Last update: 2026-07-29 09:46 UTC
 
-- [Qantas tests ultra long-range Airbus in 17K km flight from France to Melbourne](https://www.theguardian.com/business/2026/jul/24/qantas-project-sunrise-airbus-a350-1000ulr-ultra-long-range-france-melbourne-test-flight) — Hacker News
-- [Risk-Data API – Solana token risk scoring for AI trading agents](https://www.tnt-audit.com/risk-api) — Hacker News
-- [Airbus A350-1000 ULR Completes Non-Stop 24 Hour Flight](https://www.aerotime.aero/articles/airbus-qantas-a350-1000ulr-24-hour-flight) — Hacker News
+- [OpenAl, Anthropic ask U.S. government to consider slowing down Al](https://www.washingtonpost.com/technology/2026/07/29/openai-anthropic-endorse-call-government-pace-ai-progress/) — Hacker News
+- [Enprompta – Prompt Registry, LLM Evals, and Observability for Production AI Apps](https://enprompta.com/) — Hacker News
+- [Sam Altman says AI won't shorten the workweek because humans enjoy being busy](https://www.techspot.com/news/113264-sam-altman-ai-wont-shorten-workweek-because-humans.html) — Hacker News
 <!--END_HEARTBEAT-->
