@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-29 09:46 UTC
+Last update: 2026-07-30 09:37 UTC
 
-- [OpenAl, Anthropic ask U.S. government to consider slowing down Al](https://www.washingtonpost.com/technology/2026/07/29/openai-anthropic-endorse-call-government-pace-ai-progress/) — Hacker News
-- [Enprompta – Prompt Registry, LLM Evals, and Observability for Production AI Apps](https://enprompta.com/) — Hacker News
-- [Sam Altman says AI won't shorten the workweek because humans enjoy being busy](https://www.techspot.com/news/113264-sam-altman-ai-wont-shorten-workweek-because-humans.html) — Hacker News
+- [Every Amazon SaaS claims to use AI](https://clarisix.com/blog/on-the-ai-claim) — Hacker News
+- [Airlines Race to Adopt AI 'Surveillance Pricing' That Could Kill Off Cheap Seats](https://simpleflying.com/airlines-ai-surveillance-pricing-cheap-seats/) — Hacker News
+- [Google's SynthID watermark is hard to break, but doesn't solve AI disinformation](https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/) — Hacker News
 <!--END_HEARTBEAT-->
