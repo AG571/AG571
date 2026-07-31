@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-30 09:37 UTC
+Last update: 2026-07-31 09:50 UTC
 
-- [Every Amazon SaaS claims to use AI](https://clarisix.com/blog/on-the-ai-claim) — Hacker News
-- [Airlines Race to Adopt AI 'Surveillance Pricing' That Could Kill Off Cheap Seats](https://simpleflying.com/airlines-ai-surveillance-pricing-cheap-seats/) — Hacker News
-- [Google's SynthID watermark is hard to break, but doesn't solve AI disinformation](https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/) — Hacker News
+- [Gemini Spark Your 24/7 personal AI agent](https://gemini.google/overview/agent/spark/) — Hacker News
+- [Floatboat DeepSeek Agent – AI with real browser access](https://deepseek-agent.com/) — Hacker News
+- [Gemini Spark now integrates with Chrome](https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/) — Hacker News
 <!--END_HEARTBEAT-->
