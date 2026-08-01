@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-07-31 09:50 UTC
+Last update: 2026-08-01 09:16 UTC
 
-- [Gemini Spark Your 24/7 personal AI agent](https://gemini.google/overview/agent/spark/) — Hacker News
-- [Floatboat DeepSeek Agent – AI with real browser access](https://deepseek-agent.com/) — Hacker News
-- [Gemini Spark now integrates with Chrome](https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/) — Hacker News
+- [Reddit Stock Collapses 23% as AI Eats Away at User Growth](https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth) — Hacker News
+- [Show HN: SendPage – Paste AI-generated HTML, get a link clients can open](https://sendpageapp.com) — Hacker News
+- [The Obligatory AI Post](https://lapcatsoftware.com/articles/2026/7/15.html) — Hacker News
 <!--END_HEARTBEAT-->
