@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-01 09:16 UTC
+Last update: 2026-08-02 09:18 UTC
 
-- [Reddit Stock Collapses 23% as AI Eats Away at User Growth](https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth) — Hacker News
-- [Show HN: SendPage – Paste AI-generated HTML, get a link clients can open](https://sendpageapp.com) — Hacker News
-- [The Obligatory AI Post](https://lapcatsoftware.com/articles/2026/7/15.html) — Hacker News
+- [AirLLM: Inference 2.8T Kimi K3 on a single 4GB GPU](https://github.com/lyogavin/airllm) — Hacker News
+- [EU Icons for labelling AI-generated content – Shaping Europe's digital future](https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content) — Hacker News
+- [POV: An AI replaced your job this morning [video]](https://www.youtube.com/watch?v=k35i0o-b8sI) — Hacker News
 <!--END_HEARTBEAT-->
