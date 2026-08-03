@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-02 09:18 UTC
+Last update: 2026-08-03 10:50 UTC
 
-- [AirLLM: Inference 2.8T Kimi K3 on a single 4GB GPU](https://github.com/lyogavin/airllm) — Hacker News
-- [EU Icons for labelling AI-generated content – Shaping Europe's digital future](https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content) — Hacker News
-- [POV: An AI replaced your job this morning [video]](https://www.youtube.com/watch?v=k35i0o-b8sI) — Hacker News
+- [What Is Left for Us? Second Scholarship Against Degradation of Research by AI](https://philarchive.org/rec/NOVWIL) — Hacker News
+- [Hollywood fights AI in public while building it into movies](https://www.msn.com/en-us/money/other/hollywood-fights-ai-in-public-while-quietly-building-it-into-movies/ar-AA28IhCH) — Hacker News
+- [Show HN: Newsroom Self-hosted, AI-ranked meta-aggregator for HN Subreddits etc.](https://github.com/SpektrNO/newsroom) — Hacker News
 <!--END_HEARTBEAT-->
