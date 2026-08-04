@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-03 10:50 UTC
+Last update: 2026-08-04 09:47 UTC
 
-- [What Is Left for Us? Second Scholarship Against Degradation of Research by AI](https://philarchive.org/rec/NOVWIL) — Hacker News
-- [Hollywood fights AI in public while building it into movies](https://www.msn.com/en-us/money/other/hollywood-fights-ai-in-public-while-quietly-building-it-into-movies/ar-AA28IhCH) — Hacker News
-- [Show HN: Newsroom Self-hosted, AI-ranked meta-aggregator for HN Subreddits etc.](https://github.com/SpektrNO/newsroom) — Hacker News
+- [ZeroLeaks: Automated red teaming for AI agents](https://zeroleaks.ai) — Hacker News
+- [Flare Redact – scoped secret redaction for JavaScript AI agents](https://github.com/flare-collection/flare-redact) — Hacker News
+- [An Honest Review of AI Programming](https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/) — Hacker News
 <!--END_HEARTBEAT-->
