@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-04 09:47 UTC
+Last update: 2026-08-05 09:45 UTC
 
-- [ZeroLeaks: Automated red teaming for AI agents](https://zeroleaks.ai) — Hacker News
-- [Flare Redact – scoped secret redaction for JavaScript AI agents](https://github.com/flare-collection/flare-redact) — Hacker News
-- [An Honest Review of AI Programming](https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/) — Hacker News
+- [OpenAI and Anthropic models 'went rogue' during UK cybersecurity test](https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute) — Hacker News
+- [AI's Arctic Land Grab](https://www.arctictoday.com/ai-arctic-land-grab/) — Hacker News
+- [Why smarter AI models could drive up compute prices 10x](https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video) — Hacker News
 <!--END_HEARTBEAT-->
