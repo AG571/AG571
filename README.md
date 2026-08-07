@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-06 09:47 UTC
+Last update: 2026-08-07 08:19 UTC
 
-- [The Aikido Machine: on-prem AI pentesting that never leaves your network](https://www.aikido.dev/blog/the-aikido-machine-on-prem-ai-pentesting-that-never-leaves-your-network) — Hacker News
-- [Anthropic is hiring an AI chip design team](https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/) — Hacker News
-- [1 RCE, 2 AI models, 0 ways to tell who was right](https://zhenyi.gibber.blog/1-rce-2-ai-models-0-ways-to-tell-who-was-right) — Hacker News
+- [The AI slowdown is coming](https://www.transformernews.ai/p/the-ai-slowdown-is-coming) — Hacker News
+- [The Event of 2033 – An AI-Imagined Second Coming](https://www.amazon.com/dp/B0HCN65Q57) — Hacker News
+- [AI model achieves breakthrough in forecasting cyclones – Google DeepMind](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) — Hacker News
 <!--END_HEARTBEAT-->
