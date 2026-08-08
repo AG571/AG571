@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-07 08:19 UTC
+Last update: 2026-08-08 07:55 UTC
 
-- [The AI slowdown is coming](https://www.transformernews.ai/p/the-ai-slowdown-is-coming) — Hacker News
-- [The Event of 2033 – An AI-Imagined Second Coming](https://www.amazon.com/dp/B0HCN65Q57) — Hacker News
-- [AI model achieves breakthrough in forecasting cyclones – Google DeepMind](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) — Hacker News
+- [Roku now has a 24/7 AI slop channel](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel) — Hacker News
+- [AIUsageBar – Track Claude, Codex, Cursor and Gemini Usage from the Mac Menu Bar](https://www.aiusagebar.com) — Hacker News
+- [Linux Foundation Launches the Tokenomics Foundation](https://www.linuxfoundation.org/press/linux-foundation-launches-the-tokenomics-foundation-to-define-the-economics-and-roi-of-ai-value) — Hacker News
 <!--END_HEARTBEAT-->
