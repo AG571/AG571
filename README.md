@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-08 07:55 UTC
+Last update: 2026-08-09 07:58 UTC
 
-- [Roku now has a 24/7 AI slop channel](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel) — Hacker News
-- [AIUsageBar – Track Claude, Codex, Cursor and Gemini Usage from the Mac Menu Bar](https://www.aiusagebar.com) — Hacker News
-- [Linux Foundation Launches the Tokenomics Foundation](https://www.linuxfoundation.org/press/linux-foundation-launches-the-tokenomics-foundation-to-define-the-economics-and-roi-of-ai-value) — Hacker News
+- [I built the AI platform for a company crucial to a small nation's food safety](https://twitter.com/swisscheese4299/status/2086175870146998447) — Hacker News
+- [TechFlow Intelligence: The AI-Powered Technology Decision Engine](https://c33643568e89f8ad5d3286d09343df94.ctonew.app) — Hacker News
+- [Show HN: Sous.bio – your sous chef in the lab](https://sous.bio/) — Hacker News
 <!--END_HEARTBEAT-->
