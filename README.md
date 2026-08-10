@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-09 07:58 UTC
+Last update: 2026-08-10 08:48 UTC
 
-- [I built the AI platform for a company crucial to a small nation's food safety](https://twitter.com/swisscheese4299/status/2086175870146998447) — Hacker News
-- [TechFlow Intelligence: The AI-Powered Technology Decision Engine](https://c33643568e89f8ad5d3286d09343df94.ctonew.app) — Hacker News
-- [Show HN: Sous.bio – your sous chef in the lab](https://sous.bio/) — Hacker News
+- [The AI Barons Are Ready to Give Away Their Fortunes](https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/) — Hacker News
+- [AI won't kill the PM role. Same job, better tools](https://www.leadinginproduct.com/p/ai-pm-role-same-job) — Hacker News
+- ['Pervert glasses': Backlash against Meta's smart glasses grows](https://tech.yahoo.com/ai/meta-ai/articles/pervert-glasses-backlash-against-metas-100000746.html) — Hacker News
 <!--END_HEARTBEAT-->
