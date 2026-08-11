@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-10 08:48 UTC
+Last update: 2026-08-11 08:13 UTC
 
-- [The AI Barons Are Ready to Give Away Their Fortunes](https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/) — Hacker News
-- [AI won't kill the PM role. Same job, better tools](https://www.leadinginproduct.com/p/ai-pm-role-same-job) — Hacker News
-- ['Pervert glasses': Backlash against Meta's smart glasses grows](https://tech.yahoo.com/ai/meta-ai/articles/pervert-glasses-backlash-against-metas-100000746.html) — Hacker News
+- [Text AI watermarks will always be trivial to remove](https://www.seangoedecke.com/text-ai-watermarks/) — Hacker News
+- [Reproducing a 1976 black-hole radiation calculation from scratch](https://ai.bedvibe.studio/greybody/) — Hacker News
+- [On Comments](https://blog.helsing.ai/posts/on-comments/) — Hacker News
 <!--END_HEARTBEAT-->
