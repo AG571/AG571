@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-12 08:36 UTC
+Last update: 2026-08-13 08:40 UTC
 
-- [Creating a niche AI Benchmark with token anxiety](https://thijsbrits.nl/blog/20260804/) — Hacker News
-- [Mark Zuckerberg doesn't understand how to live](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision) — Hacker News
-- [New AI chip mimics the human brain's capacity for split-second motor control](https://www.livescience.com/technology/electronics/new-ai-chip-mimics-the-human-brains-capacity-for-split-second-motor-control-it-solved-problems-using-10-000-times-fewer-calculations) — Hacker News
+- [I built an AI video upscaler that runs the heavy GPU work in the cloud](https://videoupscaler.com) — Hacker News
+- [Twitch Now Trains Amazon's Generative AI Models on Your Channel by Default](https://www.ign.com/articles/twitch-now-trains-amazons-generative-ai-models-on-your-channel-by-default) — Hacker News
+- [Launch HN: Bullet (YC S26) – A Faster Coding Agent](https://www.codewithbullet.com) — Hacker News
 <!--END_HEARTBEAT-->
