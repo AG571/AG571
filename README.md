@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-14 08:34 UTC
+Last update: 2026-08-15 07:39 UTC
 
-- [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work/) — Hacker News
-- [AirSpace, Redux](https://kylechayka.substack.com/p/airspace-redux) — Hacker News
-- [OpenAI's Hugging Face Breach Fuels Fresh Calls for AI Regulation](https://www.forbes.com/sites/barrycollins/2026/07/22/rogue-openai-attack-fuels-demands-to-rein-in-big-tech/) — Hacker News
+- [Ukraine Finds Nvidia AI Chip in New Russian Missile](https://www.kyivpost.com/post/82225) — Hacker News
+- [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/) — Hacker News
+- [AI agents aren't legally responsible for harm they cause. So who is?](https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is) — Hacker News
 <!--END_HEARTBEAT-->
