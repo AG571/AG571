@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-15 07:39 UTC
+Last update: 2026-08-16 07:41 UTC
 
-- [Ukraine Finds Nvidia AI Chip in New Russian Missile](https://www.kyivpost.com/post/82225) — Hacker News
-- [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/) — Hacker News
-- [AI agents aren't legally responsible for harm they cause. So who is?](https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is) — Hacker News
+- [AI Agents have a half-life](https://construct.computer/blog/agent-task-half-life/) — Hacker News
+- [AI Stock Research Assistant · Streamlit](https://ai-stock-research-kiaan.streamlit.app) — Hacker News
+- [A leaked Composio key returned live Gmail, GitHub and CircleCI tokens](https://www.cyera.com/research/the-hidden-attack-surface-of-agentic-ai-securing-ai-agent-integration-platforms) — Hacker News
 <!--END_HEARTBEAT-->
