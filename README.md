@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-16 07:41 UTC
+Last update: 2026-08-17 07:57 UTC
 
-- [AI Agents have a half-life](https://construct.computer/blog/agent-task-half-life/) — Hacker News
-- [AI Stock Research Assistant · Streamlit](https://ai-stock-research-kiaan.streamlit.app) — Hacker News
-- [A leaked Composio key returned live Gmail, GitHub and CircleCI tokens](https://www.cyera.com/research/the-hidden-attack-surface-of-agentic-ai-securing-ai-agent-integration-platforms) — Hacker News
+- [Show HN: Verifying that an auto-submitted job application arrived](https://aiapplyd.com/) — Hacker News
+- [Every student is cheating with AI](https://ben.page/cheating) — Hacker News
+- [HackEurope 2026: A short rant on AI and hackathons](https://duti.dev/blog/2026/spr/) — Hacker News
 <!--END_HEARTBEAT-->
