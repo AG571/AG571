@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-17 07:57 UTC
+Last update: 2026-08-18 07:49 UTC
 
-- [Show HN: Verifying that an auto-submitted job application arrived](https://aiapplyd.com/) — Hacker News
-- [Every student is cheating with AI](https://ben.page/cheating) — Hacker News
-- [HackEurope 2026: A short rant on AI and hackathons](https://duti.dev/blog/2026/spr/) — Hacker News
+- [Show HN: I built an M2M payment loop where AI Agents pay for data via x402](https://github.com/tianzizhiming-svg/agentbridge) — Hacker News
+- [Show HN: AiJarvi – 80 free AI tools for creators in one workspace](https://aijarvi.com) — Hacker News
+- [Coin size device can hack Boeing airplanes](https://ia.acs.org.au/article/2026/coin-sized-device-could-hack-boeing-airplanes.html) — Hacker News
 <!--END_HEARTBEAT-->
