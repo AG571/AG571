@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-18 07:49 UTC
+Last update: 2026-08-19 07:49 UTC
 
-- [Show HN: I built an M2M payment loop where AI Agents pay for data via x402](https://github.com/tianzizhiming-svg/agentbridge) — Hacker News
-- [Show HN: AiJarvi – 80 free AI tools for creators in one workspace](https://aijarvi.com) — Hacker News
-- [Coin size device can hack Boeing airplanes](https://ia.acs.org.au/article/2026/coin-sized-device-could-hack-boeing-airplanes.html) — Hacker News
+- [AI Marketing Stash: a directory for discovering AI marketing tools](https://www.aimarketingstash.com) — Hacker News
+- [Show HN: Superprez.io – Sharing and Collaboration for AI-Generated Decks](https://www.superprez.io) — Hacker News
+- [Show HN: Open-source extension to transfer AI chats without losing context](https://github.com/VC067/MoveChat) — Hacker News
 <!--END_HEARTBEAT-->
