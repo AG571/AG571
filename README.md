@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-19 07:49 UTC
+Last update: 2026-08-20 07:52 UTC
 
-- [AI Marketing Stash: a directory for discovering AI marketing tools](https://www.aimarketingstash.com) — Hacker News
-- [Show HN: Superprez.io – Sharing and Collaboration for AI-Generated Decks](https://www.superprez.io) — Hacker News
-- [Show HN: Open-source extension to transfer AI chats without losing context](https://github.com/VC067/MoveChat) — Hacker News
+- [Florida police officer accused of using Flock AI cameras](https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226/) — Hacker News
+- [It used to be our imperfect bodies that made us insecure. With AI, its our minds](https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans) — Hacker News
+- [Our security harness can hack to get root 9/10 times](https://donely.ai/ai-employees/autonomous-security-agent) — Hacker News
 <!--END_HEARTBEAT-->
