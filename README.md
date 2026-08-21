@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-20 07:52 UTC
+Last update: 2026-08-21 07:53 UTC
 
-- [Florida police officer accused of using Flock AI cameras](https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226/) — Hacker News
-- [It used to be our imperfect bodies that made us insecure. With AI, its our minds](https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans) — Hacker News
-- [Our security harness can hack to get root 9/10 times](https://donely.ai/ai-employees/autonomous-security-agent) — Hacker News
+- [Writing with AI Is Stupid](https://lambdaland.org/posts/2026-08-07-ai-writing-stupid/) — Hacker News
+- [Claude Opus 4.6 returned nothing 900/900 times. Should agents retry?](https://zenodo.org/records/21696066) — Hacker News
+- [Domain-Driven Design matters more when AI writes your code](https://threedots.tech/post/ddd-and-ai-coding/) — Hacker News
 <!--END_HEARTBEAT-->
