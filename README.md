@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-21 07:53 UTC
+Last update: 2026-08-22 07:41 UTC
 
-- [Writing with AI Is Stupid](https://lambdaland.org/posts/2026-08-07-ai-writing-stupid/) — Hacker News
-- [Claude Opus 4.6 returned nothing 900/900 times. Should agents retry?](https://zenodo.org/records/21696066) — Hacker News
-- [Domain-Driven Design matters more when AI writes your code](https://threedots.tech/post/ddd-and-ai-coding/) — Hacker News
+- [Would a Hiroshima-scale AI disaster make humanity protect itself? I fear not](https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology) — Hacker News
+- [Linus Torvalds Endures a Debug Session from Hell, "Enormously Helped" by AI](https://www.phoronix.com/news/Linus-Torvalds-Debug-AI) — Hacker News
+- [How Much of the Internet Is Written with AI?](https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/) — Hacker News
 <!--END_HEARTBEAT-->
