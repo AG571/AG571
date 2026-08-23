@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-22 07:41 UTC
+Last update: 2026-08-23 07:43 UTC
 
-- [Would a Hiroshima-scale AI disaster make humanity protect itself? I fear not](https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology) — Hacker News
-- [Linus Torvalds Endures a Debug Session from Hell, "Enormously Helped" by AI](https://www.phoronix.com/news/Linus-Torvalds-Debug-AI) — Hacker News
-- [How Much of the Internet Is Written with AI?](https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/) — Hacker News
+- [ISO 24495 [pdf]](https://cdn.standards.iteh.ai/samples/78907/d194fac21d6a45f38bfcfec9657f7498/ISO-24495-1-2023.pdf) — Hacker News
+- [Wild AI-related reliability incidents are coming](https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/) — Hacker News
+- [Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty](https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html) — Hacker News
 <!--END_HEARTBEAT-->
