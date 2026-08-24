@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-23 07:43 UTC
+Last update: 2026-08-24 08:02 UTC
 
-- [ISO 24495 [pdf]](https://cdn.standards.iteh.ai/samples/78907/d194fac21d6a45f38bfcfec9657f7498/ISO-24495-1-2023.pdf) — Hacker News
-- [Wild AI-related reliability incidents are coming](https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/) — Hacker News
-- [Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty](https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html) — Hacker News
+- [Flock camera backlash adds fuel to midterm anti-AI frenzy](https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech) — Hacker News
+- [Oneiric, AI-generated, open source [video]](https://www.youtube.com/watch?v=aAg9iDh9_BQ) — Hacker News
+- [Woe Is Em: The Sad Lifecycle of an AI Tell](https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/) — Hacker News
 <!--END_HEARTBEAT-->
