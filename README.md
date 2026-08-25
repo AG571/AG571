@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-24 08:02 UTC
+Last update: 2026-08-25 07:54 UTC
 
-- [Flock camera backlash adds fuel to midterm anti-AI frenzy](https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech) — Hacker News
-- [Oneiric, AI-generated, open source [video]](https://www.youtube.com/watch?v=aAg9iDh9_BQ) — Hacker News
-- [Woe Is Em: The Sad Lifecycle of an AI Tell](https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/) — Hacker News
+- [What "Traceable Lineage" Requires: A Teardown of the FBI TSC AI Sources Sought](https://zatona.dev/blog/fbi-tsc-traceable-lineage) — Hacker News
+- [Do You Still Need to Read AI Code?](https://adamtornhill.substack.com/p/controlling-the-uncertainty-machine) — Hacker News
+- [DeepSeek V4 Flash Vision Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-vision) — Hacker News
 <!--END_HEARTBEAT-->
