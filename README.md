@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-25 07:54 UTC
+Last update: 2026-08-26 07:55 UTC
 
-- [What "Traceable Lineage" Requires: A Teardown of the FBI TSC AI Sources Sought](https://zatona.dev/blog/fbi-tsc-traceable-lineage) — Hacker News
-- [Do You Still Need to Read AI Code?](https://adamtornhill.substack.com/p/controlling-the-uncertainty-machine) — Hacker News
-- [DeepSeek V4 Flash Vision Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-vision) — Hacker News
+- [ByteDance Launches AI Office Product "Doubao Work"](https://www.ithome.com/0/993/865.htm) — Hacker News
+- [Bill Gates says world has "no plan" on AI in new essay](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make) — Hacker News
+- [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/) — Hacker News
 <!--END_HEARTBEAT-->
