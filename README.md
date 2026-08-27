@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-26 07:55 UTC
+Last update: 2026-08-27 18:15 UTC
 
-- [ByteDance Launches AI Office Product "Doubao Work"](https://www.ithome.com/0/993/865.htm) — Hacker News
-- [Bill Gates says world has "no plan" on AI in new essay](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make) — Hacker News
-- [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/) — Hacker News
+- [AI's hacking capabilities are severely underestimated](https://www.ft.com/content/3f154376-fd8b-4255-ac5b-538c5e90fc40) — Hacker News
+- [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/) — Hacker News
+- [Show HN: Sparrow-2 – Solving the cocktail party problem](https://www.tavus.io/blog/sparrow-2) — Hacker News
 <!--END_HEARTBEAT-->
