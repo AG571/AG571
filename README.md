@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-27 18:15 UTC
+Last update: 2026-08-28 19:24 UTC
 
-- [AI's hacking capabilities are severely underestimated](https://www.ft.com/content/3f154376-fd8b-4255-ac5b-538c5e90fc40) — Hacker News
-- [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/) — Hacker News
-- [Show HN: Sparrow-2 – Solving the cocktail party problem](https://www.tavus.io/blog/sparrow-2) — Hacker News
+- [Show HN: iOS app for learning any song on piano with AI music transcription](https://apps.apple.com/us/app/anything-piano-learn-any-song/id6761146933) — Hacker News
+- [Hy4 Preview](https://hy.tencent.ai/research/hy4-preview) — Hacker News
+- [The Analytical AI Handbook](https://handbook.sutro.sh) — Hacker News
 <!--END_HEARTBEAT-->
