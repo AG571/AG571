@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-28 19:24 UTC
+Last update: 2026-08-29 13:08 UTC
 
-- [Show HN: iOS app for learning any song on piano with AI music transcription](https://apps.apple.com/us/app/anything-piano-learn-any-song/id6761146933) — Hacker News
-- [Hy4 Preview](https://hy.tencent.ai/research/hy4-preview) — Hacker News
-- [The Analytical AI Handbook](https://handbook.sutro.sh) — Hacker News
+- [My answer to AI burnout: more AI (but context is king)](https://sycdan.wordpress.com/2026/08/29/my-answer-to-ai-burnout-more-ai-but-context-is-king/) — Hacker News
+- [LoRA Primer](https://tinker-docs.thinkingmachines.ai/tinker/lora-primer/) — Hacker News
+- [Tech backlash reaches fever pitch as AI angst collides with social media fears](https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html) — Hacker News
 <!--END_HEARTBEAT-->
