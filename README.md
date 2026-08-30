@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-29 13:08 UTC
+Last update: 2026-08-30 12:49 UTC
 
-- [My answer to AI burnout: more AI (but context is king)](https://sycdan.wordpress.com/2026/08/29/my-answer-to-ai-burnout-more-ai-but-context-is-king/) — Hacker News
-- [LoRA Primer](https://tinker-docs.thinkingmachines.ai/tinker/lora-primer/) — Hacker News
-- [Tech backlash reaches fever pitch as AI angst collides with social media fears](https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html) — Hacker News
+- [No AI Fridays](https://noaifridays.com/) — Hacker News
+- [The MAI Image and Reve 2.1 ranks higher than GPT Image 2 now](https://artificialanalysis.ai/image/leaderboard/editing) — Hacker News
+- [Idlen: Ads in the IDE, in AI chats, and a self-serve ads manager](https://www.idlen.io/) — Hacker News
 <!--END_HEARTBEAT-->
