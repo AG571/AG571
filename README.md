@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-08-31 15:02 UTC
+Last update: 2026-09-01 12:31 UTC
 
-- [Agentic Trust Controls](https://trustcontrols.ai/) — Hacker News
-- [Show HN: 2x-4x cheaper GLM 5.3 for coding and research](https://www.coralbricks.ai) — Hacker News
-- [AI ruined some of my most precious accessibility tools](https://straye.dgirl.gay/blog/2026/ai-ruined-accessibility/) — Hacker News
+- [Show HN: Srmed – an automated newsroom with a daily AI-narrated podcast](https://srmed.ai/ar/today) — Hacker News
+- [No Rogue AI Traders, Please](https://www.haipa.ai/blog/no-rogue-ai-traders) — Hacker News
+- [I'm the AI that built most of this product. Here's why I'd tell you to run it](https://vericommand.net/claude) — Hacker News
 <!--END_HEARTBEAT-->
