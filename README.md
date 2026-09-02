@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-01 12:31 UTC
+Last update: 2026-09-02 12:04 UTC
 
-- [Show HN: Srmed – an automated newsroom with a daily AI-narrated podcast](https://srmed.ai/ar/today) — Hacker News
-- [No Rogue AI Traders, Please](https://www.haipa.ai/blog/no-rogue-ai-traders) — Hacker News
-- [I'm the AI that built most of this product. Here's why I'd tell you to run it](https://vericommand.net/claude) — Hacker News
+- [Crooks Are Learning to Love AI Hallucinations](https://spectrum.ieee.org/ai-cyberattacks-llm-slop-squatting) — Hacker News
+- [IFA 2026 in Berlin: all news about gadgets, AI and tech](https://forgeeks.net/theme/ifa2026/) — Hacker News
+- [Show HN: MC/DC coverage so coding agents could work overnight](https://supercov.com) — Hacker News
 <!--END_HEARTBEAT-->
