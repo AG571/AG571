@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-02 12:04 UTC
+Last update: 2026-09-03 12:03 UTC
 
-- [Crooks Are Learning to Love AI Hallucinations](https://spectrum.ieee.org/ai-cyberattacks-llm-slop-squatting) — Hacker News
-- [IFA 2026 in Berlin: all news about gadgets, AI and tech](https://forgeeks.net/theme/ifa2026/) — Hacker News
-- [Show HN: MC/DC coverage so coding agents could work overnight](https://supercov.com) — Hacker News
+- [We ported 65 OSS projects with AI](https://akka.io/blog/we-ported-65-oss-projects) — Hacker News
+- [Show HN: StillMade – Programmable AI video pipeline; Chat to video (now)](https://www.stillmade.shop) — Hacker News
+- [Paid Actors, AI Writing](https://www.semafor.com/article/09/02/2026/paid-actors-ai-writing-how-a-new-kind-of-video-business-cashed-in-on-americas-divided-politics) — Hacker News
 <!--END_HEARTBEAT-->
