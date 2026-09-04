@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-03 12:03 UTC
+Last update: 2026-09-04 12:05 UTC
 
-- [We ported 65 OSS projects with AI](https://akka.io/blog/we-ported-65-oss-projects) — Hacker News
-- [Show HN: StillMade – Programmable AI video pipeline; Chat to video (now)](https://www.stillmade.shop) — Hacker News
-- [Paid Actors, AI Writing](https://www.semafor.com/article/09/02/2026/paid-actors-ai-writing-how-a-new-kind-of-video-business-cashed-in-on-americas-divided-politics) — Hacker News
+- [Meta new layoff goal of 60% to AI after moving 30% engineers to labelers](https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/) — Hacker News
+- [Crew, a multiplayer workspace for humans and AI agents to work together](https://github.com/JamelHammoud/crew) — Hacker News
+- [Show HN: What if AI did the prompting – and humans did the thinking?](https://www.antiagent.site) — Hacker News
 <!--END_HEARTBEAT-->
