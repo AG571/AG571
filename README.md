@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-04 12:05 UTC
+Last update: 2026-09-05 11:14 UTC
 
-- [Meta new layoff goal of 60% to AI after moving 30% engineers to labelers](https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/) — Hacker News
-- [Crew, a multiplayer workspace for humans and AI agents to work together](https://github.com/JamelHammoud/crew) — Hacker News
-- [Show HN: What if AI did the prompting – and humans did the thinking?](https://www.antiagent.site) — Hacker News
+- [GateKeep402, Deterministic pre-payment guardrails for AI agents](https://github.com/al1-nasir/gatekeep402) — Hacker News
+- [Authors Wrangle with Publishers over $1.5B Anthropic A.I. Settlement](https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html) — Hacker News
+- [From Inbound to Outbound –> use it wisely](https://callprep.app/) — Hacker News
 <!--END_HEARTBEAT-->
