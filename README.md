@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-05 11:14 UTC
+Last update: 2026-09-06 11:37 UTC
 
-- [GateKeep402, Deterministic pre-payment guardrails for AI agents](https://github.com/al1-nasir/gatekeep402) — Hacker News
-- [Authors Wrangle with Publishers over $1.5B Anthropic A.I. Settlement](https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html) — Hacker News
-- [From Inbound to Outbound –> use it wisely](https://callprep.app/) — Hacker News
+- [TCS commits $7.4B to a one-gigawatt AI campus in Hyderabad](https://thenextweb.com/news/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364) — Hacker News
+- [What does "good" AI mean?](https://thoughts.wyounas.com/p/what-does-good-ai-mean) — Hacker News
+- [Dolly Parton's Sister Slams "Endless Garbage": AI, Social Media Misinformation](https://deadline.com/2026/09/dolly-parton-stella-ai-social-media-1237068956/) — Hacker News
 <!--END_HEARTBEAT-->
