@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-06 11:37 UTC
+Last update: 2026-09-07 13:28 UTC
 
-- [TCS commits $7.4B to a one-gigawatt AI campus in Hyderabad](https://thenextweb.com/news/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364) — Hacker News
-- [What does "good" AI mean?](https://thoughts.wyounas.com/p/what-does-good-ai-mean) — Hacker News
-- [Dolly Parton's Sister Slams "Endless Garbage": AI, Social Media Misinformation](https://deadline.com/2026/09/dolly-parton-stella-ai-social-media-1237068956/) — Hacker News
+- [AI Backlash Comes to the Classroom](https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles) — Hacker News
+- [AI Agents Aha Moment](https://k1024.org/posts/2026/2026-09-06-ai-agents-aha/) — Hacker News
+- [The next valuable file on your computer won't contain your work](https://tansei.io/blog/ai-agent-skills-workflows-as-files) — Hacker News
 <!--END_HEARTBEAT-->
