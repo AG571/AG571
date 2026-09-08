@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-07 13:28 UTC
+Last update: 2026-09-08 12:06 UTC
 
-- [AI Backlash Comes to the Classroom](https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles) — Hacker News
-- [AI Agents Aha Moment](https://k1024.org/posts/2026/2026-09-06-ai-agents-aha/) — Hacker News
-- [The next valuable file on your computer won't contain your work](https://tansei.io/blog/ai-agent-skills-workflows-as-files) — Hacker News
+- [ElevenLabs Aims to Be IPO-Ready in 2-3 Years](https://www.bloomberg.com/news/articles/2026-03-09/ai-startup-elevenlabs-aims-to-be-ipo-ready-in-two-or-three-years) — Hacker News
+- [Getting Out of the Loop: 8 Months Solo-Building with AI](https://github.com/patforna/writing) — Hacker News
+- [Early Data Indicates an A.I.-Generated Drug Could Slow Aging](https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html) — Hacker News
 <!--END_HEARTBEAT-->
