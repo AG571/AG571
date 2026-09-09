@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-08 12:06 UTC
+Last update: 2026-09-09 12:18 UTC
 
-- [ElevenLabs Aims to Be IPO-Ready in 2-3 Years](https://www.bloomberg.com/news/articles/2026-03-09/ai-startup-elevenlabs-aims-to-be-ipo-ready-in-two-or-three-years) — Hacker News
-- [Getting Out of the Loop: 8 Months Solo-Building with AI](https://github.com/patforna/writing) — Hacker News
-- [Early Data Indicates an A.I.-Generated Drug Could Slow Aging](https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html) — Hacker News
+- [10.7% of top sites block AI search crawlers but still allow Googlebot](https://ai-visibility.lastminutedealshq.com/data) — Hacker News
+- [AI made procrastination look like work](https://nedio.xyz/research/ai-procrastination-in-software-development) — Hacker News
+- [OpenRouter Offers In-Region API Routing](https://openrouter.ai/docs/guides/features/in-region-routing) — Hacker News
 <!--END_HEARTBEAT-->
