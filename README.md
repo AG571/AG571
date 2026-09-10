@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-09 12:18 UTC
+Last update: 2026-09-10 12:11 UTC
 
-- [10.7% of top sites block AI search crawlers but still allow Googlebot](https://ai-visibility.lastminutedealshq.com/data) — Hacker News
-- [AI made procrastination look like work](https://nedio.xyz/research/ai-procrastination-in-software-development) — Hacker News
-- [OpenRouter Offers In-Region API Routing](https://openrouter.ai/docs/guides/features/in-region-routing) — Hacker News
+- [Show HN: Oracle Forms to Java: A Two-Week AI Migration Experiment](https://vaadin.com/blog/oracle-forms-to-java-a-two-week-ai-migration-experiment) — Hacker News
+- [Show HN: Listpro – Turn product screenshots into launch assets](https://listpro.app) — Hacker News
+- [Show HN: Security Cards – Reducing insecure AI-generated code by 72%](https://www.rewarelabs.com/blog/introducing-security-cards/) — Hacker News
 <!--END_HEARTBEAT-->
