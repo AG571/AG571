@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-10 12:11 UTC
+Last update: 2026-09-11 12:10 UTC
 
-- [Show HN: Oracle Forms to Java: A Two-Week AI Migration Experiment](https://vaadin.com/blog/oracle-forms-to-java-a-two-week-ai-migration-experiment) — Hacker News
-- [Show HN: Listpro – Turn product screenshots into launch assets](https://listpro.app) — Hacker News
-- [Show HN: Security Cards – Reducing insecure AI-generated code by 72%](https://www.rewarelabs.com/blog/introducing-security-cards/) — Hacker News
+- [Airflow re-engineered for speed and scale](https://www.astronomer.io/blog/astro-airflow-re-engineered-for-speed-and-scale/) — Hacker News
+- [Culture slop: how AI gave Brazil an American 1980s](https://albertoescarlate.substack.com/p/culture-slop-how-ai-gave-brazil-an) — Hacker News
+- [Europe's difficult choices on AI – Mario Draghi](https://www.ft.com/content/f054f927-b512-452a-b494-ea53f5ac1079) — Hacker News
 <!--END_HEARTBEAT-->
