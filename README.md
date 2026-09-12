@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-11 12:10 UTC
+Last update: 2026-09-12 11:34 UTC
 
-- [Airflow re-engineered for speed and scale](https://www.astronomer.io/blog/astro-airflow-re-engineered-for-speed-and-scale/) — Hacker News
-- [Culture slop: how AI gave Brazil an American 1980s](https://albertoescarlate.substack.com/p/culture-slop-how-ai-gave-brazil-an) — Hacker News
-- [Europe's difficult choices on AI – Mario Draghi](https://www.ft.com/content/f054f927-b512-452a-b494-ea53f5ac1079) — Hacker News
+- [Altman tells staff OpenAI is open to slowing AI development](https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/) — Hacker News
+- [The Houthi's weapon programme and AI](https://www.karlsnotes.com/the-houthis-weapon-programme-and-ai/) — Hacker News
+- [The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/) — Hacker News
 <!--END_HEARTBEAT-->
