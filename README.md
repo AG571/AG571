@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-12 11:34 UTC
+Last update: 2026-09-13 12:41 UTC
 
-- [Altman tells staff OpenAI is open to slowing AI development](https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/) — Hacker News
-- [The Houthi's weapon programme and AI](https://www.karlsnotes.com/the-houthis-weapon-programme-and-ai/) — Hacker News
-- [The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/) — Hacker News
+- [Show HN: I built ThreadShelf to reuse hard-to-export AI chats like OpenRouter](https://github.com/ChrystianSchutz/ThreadShelf) — Hacker News
+- [Why AI Benchmarks Are Total BS](https://www.pcmag.com/opinions/why-ai-benchmarks-are-total-bs-and-how-openai-and-anthropic-use-them-to) — Hacker News
+- [Void Linux Maintainer Orphans 100 Packages over AI Policy Dispute](https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan) — Hacker News
 <!--END_HEARTBEAT-->
