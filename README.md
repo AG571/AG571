@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-13 12:41 UTC
+Last update: 2026-09-14 13:58 UTC
 
-- [Show HN: I built ThreadShelf to reuse hard-to-export AI chats like OpenRouter](https://github.com/ChrystianSchutz/ThreadShelf) — Hacker News
-- [Why AI Benchmarks Are Total BS](https://www.pcmag.com/opinions/why-ai-benchmarks-are-total-bs-and-how-openai-and-anthropic-use-them-to) — Hacker News
-- [Void Linux Maintainer Orphans 100 Packages over AI Policy Dispute](https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan) — Hacker News
+- [The AI job market in 2026](https://www.ilinmaks.com/blog/en/ai-jobs-market-2026) — Hacker News
+- [AI Norms and Values, Part 3 of 3: Things We Hold True](https://www.honeycomb.io/blog/ai-norms-values-part-3-things-we-hold-true) — Hacker News
+- [China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic](https://www.reuters.com/world/china/china-state-newspaper-blasts-anthropics-calls-slow-ai-cold-war-tactic-2026-09-14/) — Hacker News
 <!--END_HEARTBEAT-->
