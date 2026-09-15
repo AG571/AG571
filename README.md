@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-14 13:58 UTC
+Last update: 2026-09-15 12:38 UTC
 
-- [The AI job market in 2026](https://www.ilinmaks.com/blog/en/ai-jobs-market-2026) — Hacker News
-- [AI Norms and Values, Part 3 of 3: Things We Hold True](https://www.honeycomb.io/blog/ai-norms-values-part-3-things-we-hold-true) — Hacker News
-- [China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic](https://www.reuters.com/world/china/china-state-newspaper-blasts-anthropics-calls-slow-ai-cold-war-tactic-2026-09-14/) — Hacker News
+- [Who bankrolls the AI agent swarm?](https://noperator.dev/posts/who-bankrolls-the-ai-agent-swarm/) — Hacker News
+- [Agentic test processes, LLM benchmarks, and other notes on agentic coding](https://danluu.com/ai-coding/) — Hacker News
+- [16 of 32 well-known sites block at least one AI search crawler](https://ai-visibility.lastminutedealshq.com/who-blocks-ai-search) — Hacker News
 <!--END_HEARTBEAT-->
