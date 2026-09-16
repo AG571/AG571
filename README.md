@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-15 12:38 UTC
+Last update: 2026-09-16 12:34 UTC
 
-- [Who bankrolls the AI agent swarm?](https://noperator.dev/posts/who-bankrolls-the-ai-agent-swarm/) — Hacker News
-- [Agentic test processes, LLM benchmarks, and other notes on agentic coding](https://danluu.com/ai-coding/) — Hacker News
-- [16 of 32 well-known sites block at least one AI search crawler](https://ai-visibility.lastminutedealshq.com/who-blocks-ai-search) — Hacker News
+- [AI writing patterns across 10,126 pages of real marketing copy](https://www.getsitetell.com/data) — Hacker News
+- [AIUC raises $40M Series A to build confidence infrastructure for frontier AI](https://aiuc.com/updates/series-a-announcement) — Hacker News
+- [Show HN: MS Comic Chat for ChatGPT](https://github.com/theletterf/comic-chat-ai/tree/main) — Hacker News
 <!--END_HEARTBEAT-->
