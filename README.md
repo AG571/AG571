@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-16 12:34 UTC
+Last update: 2026-09-17 12:33 UTC
 
-- [AI writing patterns across 10,126 pages of real marketing copy](https://www.getsitetell.com/data) — Hacker News
-- [AIUC raises $40M Series A to build confidence infrastructure for frontier AI](https://aiuc.com/updates/series-a-announcement) — Hacker News
-- [Show HN: MS Comic Chat for ChatGPT](https://github.com/theletterf/comic-chat-ai/tree/main) — Hacker News
+- [Facing Outrage, Flock Got Help from Group That Uses AI to Rally Support](https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/) — Hacker News
+- [We're releasing Kalypta, the first app to block AI notetakers in your meetings](https://twitter.com/aidaxbaradari/status/2100223250789970186/video/1) — Hacker News
+- [AI tool turns any paper into an 'agent' that can collaborate and answer queries](https://www.nature.com/articles/d41586-026-02899-2) — Hacker News
 <!--END_HEARTBEAT-->
