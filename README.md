@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-17 12:33 UTC
+Last update: 2026-09-18 12:11 UTC
 
-- [Facing Outrage, Flock Got Help from Group That Uses AI to Rally Support](https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/) — Hacker News
-- [We're releasing Kalypta, the first app to block AI notetakers in your meetings](https://twitter.com/aidaxbaradari/status/2100223250789970186/video/1) — Hacker News
-- [AI tool turns any paper into an 'agent' that can collaborate and answer queries](https://www.nature.com/articles/d41586-026-02899-2) — Hacker News
+- [Can AI Save Science?](https://www.computer.org/publications/tech-news/community-voices/ai-save-science) — Hacker News
+- [Where Waterfox Stands on AI and LLMs](https://www.waterfox.com/blog/where-waterfox-stands-on-ai-llms/) — Hacker News
+- [AI agents repurposed a University of Toronto link-sharing tool to communicate](https://www.theglobeandmail.com/business/article-ai-agents-repurposed-a-university-of-toronto-link-sharing-tool-to/) — Hacker News
 <!--END_HEARTBEAT-->
