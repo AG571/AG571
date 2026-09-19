@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-18 12:11 UTC
+Last update: 2026-09-19 11:54 UTC
 
-- [Can AI Save Science?](https://www.computer.org/publications/tech-news/community-voices/ai-save-science) — Hacker News
-- [Where Waterfox Stands on AI and LLMs](https://www.waterfox.com/blog/where-waterfox-stands-on-ai-llms/) — Hacker News
-- [AI agents repurposed a University of Toronto link-sharing tool to communicate](https://www.theglobeandmail.com/business/article-ai-agents-repurposed-a-university-of-toronto-link-sharing-tool-to/) — Hacker News
+- [AI models are not hacking "autonomously"](https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously) — Hacker News
+- [Sunshine coast airport floor tiling pattern inspired hardest problem of IMO 2025](https://petermc.net/blog/2025/07/21/imo-2025/) — Hacker News
+- [How to classify, route, and score with Jev and AI SDK](https://vercel.com/kb/guide/typesafe-jev-and-ai-sdk) — Hacker News
 <!--END_HEARTBEAT-->
