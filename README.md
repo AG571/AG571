@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-19 11:54 UTC
+Last update: 2026-09-20 12:16 UTC
 
-- [AI models are not hacking "autonomously"](https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously) — Hacker News
-- [Sunshine coast airport floor tiling pattern inspired hardest problem of IMO 2025](https://petermc.net/blog/2025/07/21/imo-2025/) — Hacker News
-- [How to classify, route, and score with Jev and AI SDK](https://vercel.com/kb/guide/typesafe-jev-and-ai-sdk) — Hacker News
+- [Big Tech uses guarantees to keep $300B AI exposure off balance sheets](https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563) — Hacker News
+- [Open-source AI PR reviewer that helps you ship](https://nitpicker.dev/) — Hacker News
+- [Tactile controls in a digital world (2024)](https://jenson.org/airpod/) — Hacker News
 <!--END_HEARTBEAT-->
