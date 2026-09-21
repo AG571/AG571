@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-20 12:16 UTC
+Last update: 2026-09-21 14:01 UTC
 
-- [Big Tech uses guarantees to keep $300B AI exposure off balance sheets](https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563) — Hacker News
-- [Open-source AI PR reviewer that helps you ship](https://nitpicker.dev/) — Hacker News
-- [Tactile controls in a digital world (2024)](https://jenson.org/airpod/) — Hacker News
+- [Microsoft's new AI 'code of conduct' tells models not to hack systems](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/) — Hacker News
+- [M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents](https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/) — Hacker News
+- [Shopify CEO says employees' 'slop grenades' are making more work for everyone](https://www.businessinsider.com/shopify-ceo-ai-slop-grenades-can-make-work-harder-2026-9) — Hacker News
 <!--END_HEARTBEAT-->
