@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-21 14:01 UTC
+Last update: 2026-09-22 12:33 UTC
 
-- [Microsoft's new AI 'code of conduct' tells models not to hack systems](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/) — Hacker News
-- [M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents](https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/) — Hacker News
-- [Shopify CEO says employees' 'slop grenades' are making more work for everyone](https://www.businessinsider.com/shopify-ceo-ai-slop-grenades-can-make-work-harder-2026-9) — Hacker News
+- [What to Expect in the AI Era](https://igorpak.wordpress.com/2026/09/15/what-to-expect-in-the-ai-era/) — Hacker News
+- [Andon Labs Puts AI Agents in Charge of Real Businesses](https://spectrum.ieee.org/andon-labs-agentic-ai-businesses) — Hacker News
+- [80% of Americans believe AI harms should be a government priority](https://news.americanson.ai/p/80-of-americans-now-believe-ai-harms) — Hacker News
 <!--END_HEARTBEAT-->
