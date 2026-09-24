@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-23 12:43 UTC
+Last update: 2026-09-24 12:41 UTC
 
-- [BannerGen – AI Social Media Banner Generator (CLI, Open Source)](https://github.com/astra-intelligence/bannergen-cli) — Hacker News
-- [Testing AIs on 68 of the hardest open Erdos problems, verified in Lean](https://arxiv.org/abs/2609.25050) — Hacker News
-- [OpenAI is enlisting an influencer army to make it look 'good for the world'](https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9) — Hacker News
+- [Mark Zuckerberg Showcases Muse AI Agent Fused with Smartglasses](https://www.wsj.com/tech/ai/mark-zuckerberg-lays-out-his-vision-muse-ai-agent-fused-with-smartglasses-18d9c85e) — Hacker News
+- [What China's Vibe-Coding Capital Can Tell Us About The AI Boom](https://www.newyorker.com/news/the-lede/what-chinas-vibe-coding-capital-can-tell-us-about-the-ai-boom) — Hacker News
+- [Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher](https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html) — Hacker News
 <!--END_HEARTBEAT-->
