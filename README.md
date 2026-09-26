@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-25 12:43 UTC
+Last update: 2026-09-26 12:11 UTC
 
-- [Ali Alkhatib: Weeds tend not to grow where they can't take root](https://ali-alkhatib.com/blog/weeding-out-ai) — Hacker News
-- [EU Member States plan "digital expropriation" in the interest of AI companies](https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies) — Hacker News
-- [Show HN: Wave – Layered gradient wave backgrounds using Three.js and shaders](https://wave.subworkflow.ai/) — Hacker News
+- [Is the AI Bubble About to Be Tested?](https://www.youtube.com/watch?v=T-oXyXwD6sE) — Hacker News
+- [Restricting AI Agents When No Human Is Watching](https://a16y.ai/blog/securing-ai-agents-when-no-human-is-watching) — Hacker News
+- [Focal Prompt: tools for studying how AI systems allocate attention](https://www.focalprompt.com/) — Hacker News
 <!--END_HEARTBEAT-->
