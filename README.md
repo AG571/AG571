@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-27 12:57 UTC
+Last update: 2026-09-28 15:21 UTC
 
-- [Show HN: Augur – Sandboxed macOS VMs with Xcode for AI Coding Agents](https://github.com/h1d3mun3/augur) — Hacker News
-- [A wall that listens: the local-LLM pipeline behind an AI party in Vilnius](https://vania-novikau.me/ai-party-wall/) — Hacker News
-- [Understanding the Four AI Risk Domains](https://sdarchitect.blog/2026/09/27/ai-risk-a-users-guide-part-iv-understanding-the-four-ai-risk-domains/) — Hacker News
+- [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) — Hacker News
+- [UK government tells staff to stop thanking AI chatbots](https://www.tomshardware.com/tech-industry/artificial-intelligence/uk-government-tells-staff-to-stop-thanking-ai-chatbots-draft-guidance-pushes-lightweight-models-and-shorter-prompts-to-cut-environmental-impact) — Hacker News
+- [ProjecturEd: One data structure, many editable views, with an AI assistant](https://projectured.org) — Hacker News
 <!--END_HEARTBEAT-->
