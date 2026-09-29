@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-28 15:21 UTC
+Last update: 2026-09-29 14:00 UTC
 
-- [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) — Hacker News
-- [UK government tells staff to stop thanking AI chatbots](https://www.tomshardware.com/tech-industry/artificial-intelligence/uk-government-tells-staff-to-stop-thanking-ai-chatbots-draft-guidance-pushes-lightweight-models-and-shorter-prompts-to-cut-environmental-impact) — Hacker News
-- [ProjecturEd: One data structure, many editable views, with an AI assistant](https://projectured.org) — Hacker News
+- [Anthropic's IPO prospectus shows AI vision, surging costs](https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html) — Hacker News
+- [On The Value of Doing a PhD in the Age of AI](https://web.mit.edu/phillipi/www/writing/PhD-in-age-of-AI.html) — Hacker News
+- [Stupid Over-Reliance on Palantir AI Helped Lead to US Bombing of Iranian School](https://www.techdirt.com/2026/09/29/reporting-confirms-stupid-over-reliance-on-palantir-ai-helped-lead-to-us-bombing-of-iranian-schoolgirls/) — Hacker News
 <!--END_HEARTBEAT-->
