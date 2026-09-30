@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-29 14:00 UTC
+Last update: 2026-09-30 13:37 UTC
 
-- [Anthropic's IPO prospectus shows AI vision, surging costs](https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html) — Hacker News
-- [On The Value of Doing a PhD in the Age of AI](https://web.mit.edu/phillipi/www/writing/PhD-in-age-of-AI.html) — Hacker News
-- [Stupid Over-Reliance on Palantir AI Helped Lead to US Bombing of Iranian School](https://www.techdirt.com/2026/09/29/reporting-confirms-stupid-over-reliance-on-palantir-ai-helped-lead-to-us-bombing-of-iranian-schoolgirls/) — Hacker News
+- [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/) — Hacker News
+- [Show HN: Hosted MCP Server for Google Search Console](https://askwatch.ai/free-tools/google-search-console-mcp) — Hacker News
+- [Harvard Study: AI tutoring outperforms in-class active learning](https://www.nature.com/articles/s41598-025-97652-6) — Hacker News
 <!--END_HEARTBEAT-->
