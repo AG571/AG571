@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-09-30 13:37 UTC
+Last update: 2026-10-01 14:25 UTC
 
-- [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/) — Hacker News
-- [Show HN: Hosted MCP Server for Google Search Console](https://askwatch.ai/free-tools/google-search-console-mcp) — Hacker News
-- [Harvard Study: AI tutoring outperforms in-class active learning](https://www.nature.com/articles/s41598-025-97652-6) — Hacker News
+- [When AI Agents Break In, Governments Shouldn't Be Stuck with the Cleanup](https://www.techpolicy.press/when-ai-agents-break-in-governments-shouldnt-be-stuck-with-the-cleanup/) — Hacker News
+- [Stanislas: What if AI had been imagined back in 1984?](https://maicintosh.eu) — Hacker News
+- [Teaching a Robot Three-Point Turn](https://www.atirobotics.ai/resources/blogs/teaching-a-three-point-turn/) — Hacker News
 <!--END_HEARTBEAT-->
