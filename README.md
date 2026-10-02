@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-01 14:25 UTC
+Last update: 2026-10-02 13:48 UTC
 
-- [When AI Agents Break In, Governments Shouldn't Be Stuck with the Cleanup](https://www.techpolicy.press/when-ai-agents-break-in-governments-shouldnt-be-stuck-with-the-cleanup/) — Hacker News
-- [Stanislas: What if AI had been imagined back in 1984?](https://maicintosh.eu) — Hacker News
-- [Teaching a Robot Three-Point Turn](https://www.atirobotics.ai/resources/blogs/teaching-a-three-point-turn/) — Hacker News
+- [Show HN: SOC2 Auditor Skill](https://github.com/heychristoph/soc2-auditor) — Hacker News
+- [Benchmarking retrieval for agents on messy real-world company knowledge](https://www.kapa.ai/blog/company-knowledge-bench) — Hacker News
+- [GamesByAI – 528 browser games made with AI, and which tools made them](https://gamesbyai.win/stats/) — Hacker News
 <!--END_HEARTBEAT-->
