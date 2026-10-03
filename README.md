@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-02 13:48 UTC
+Last update: 2026-10-03 12:28 UTC
 
-- [Show HN: SOC2 Auditor Skill](https://github.com/heychristoph/soc2-auditor) — Hacker News
-- [Benchmarking retrieval for agents on messy real-world company knowledge](https://www.kapa.ai/blog/company-knowledge-bench) — Hacker News
-- [GamesByAI – 528 browser games made with AI, and which tools made them](https://gamesbyai.win/stats/) — Hacker News
+- [OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group](https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528) — Hacker News
+- [Reddit will stop supporting RSS feeds on November 13th](https://www.theverge.com/tech/1002788/old-reddit-ai-scraping) — Hacker News
+- [4.5 Ideogram 4.5: The most precise edit model](https://ideogram.ai/models/4.5/) — Hacker News
 <!--END_HEARTBEAT-->
