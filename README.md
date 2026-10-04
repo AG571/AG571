@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-03 12:28 UTC
+Last update: 2026-10-04 13:09 UTC
 
-- [OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group](https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528) — Hacker News
-- [Reddit will stop supporting RSS feeds on November 13th](https://www.theverge.com/tech/1002788/old-reddit-ai-scraping) — Hacker News
-- [4.5 Ideogram 4.5: The most precise edit model](https://ideogram.ai/models/4.5/) — Hacker News
+- [AI's 'Thought' Process Can No Longer Be Trusted, Raising Risks of Rogue Models](https://www.wsj.com/tech/ai/ai-monitoring-chain-of-thought-research-b46a05fd) — Hacker News
+- [Herbarium – keep and review the HTML pages AI tools generate](https://github.com/abdoufermat5/herbarium) — Hacker News
+- [Harden Your AI Agent](https://sometechblog.com/harden-your-ai-agent) — Hacker News
 <!--END_HEARTBEAT-->
