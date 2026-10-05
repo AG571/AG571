@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-04 13:09 UTC
+Last update: 2026-10-05 15:56 UTC
 
-- [AI's 'Thought' Process Can No Longer Be Trusted, Raising Risks of Rogue Models](https://www.wsj.com/tech/ai/ai-monitoring-chain-of-thought-research-b46a05fd) — Hacker News
-- [Herbarium – keep and review the HTML pages AI tools generate](https://github.com/abdoufermat5/herbarium) — Hacker News
-- [Harden Your AI Agent](https://sometechblog.com/harden-your-ai-agent) — Hacker News
+- [What AI Means for Career Growth](https://letters.unchartedpathbreakthroughs.com/posts/what-ai-means-for-career-growth) — Hacker News
+- [I'm Calling for a Pause in the Development of the Universal Bone Dissolver](https://www.theatlantic.com/newsletters/2026/10/ai-slowdown-bone-dissolver/688854/) — Hacker News
+- [AI Parametric Part Design with FreeCAD on Browser](https://chat.extrudeai.com/) — Hacker News
 <!--END_HEARTBEAT-->
