@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-05 15:56 UTC
+Last update: 2026-10-06 14:08 UTC
 
-- [What AI Means for Career Growth](https://letters.unchartedpathbreakthroughs.com/posts/what-ai-means-for-career-growth) — Hacker News
-- [I'm Calling for a Pause in the Development of the Universal Bone Dissolver](https://www.theatlantic.com/newsletters/2026/10/ai-slowdown-bone-dissolver/688854/) — Hacker News
-- [AI Parametric Part Design with FreeCAD on Browser](https://chat.extrudeai.com/) — Hacker News
+- [PromptOwl's Context Management adds native rich media – PDF, Video and Images](https://promptowl.ai/resources/product-update-september-2026/) — Hacker News
+- [The WarGames problem: AI agents don't go rogue](https://mappingignorance.org/2026/10/06/the-wargames-problem-ai-agents-dont-go-rogue/) — Hacker News
+- [Show HN: I turned Andrej Karpathy's tips on understanding LLM output into Skill](https://github.com/ajithraghavan/make-it-click) — Hacker News
 <!--END_HEARTBEAT-->
