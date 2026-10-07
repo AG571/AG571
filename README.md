@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-06 14:08 UTC
+Last update: 2026-10-07 14:27 UTC
 
-- [PromptOwl's Context Management adds native rich media – PDF, Video and Images](https://promptowl.ai/resources/product-update-september-2026/) — Hacker News
-- [The WarGames problem: AI agents don't go rogue](https://mappingignorance.org/2026/10/06/the-wargames-problem-ai-agents-dont-go-rogue/) — Hacker News
-- [Show HN: I turned Andrej Karpathy's tips on understanding LLM output into Skill](https://github.com/ajithraghavan/make-it-click) — Hacker News
+- [Show HN: InBrief – open-source AI news aggregator with LLM filtering](https://github.com/frankzch/ai-news-brief) — Hacker News
+- [Show HN: Clawock – AI argues, code settles the trades](https://github.com/KCNyu/clawock) — Hacker News
+- [Device detection and occupancy monitoring for Airbnb hosts](https://www.minut.com/features/occupancy-monitoring) — Hacker News
 <!--END_HEARTBEAT-->
