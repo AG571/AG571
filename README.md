@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-07 14:27 UTC
+Last update: 2026-10-08 14:32 UTC
 
-- [Show HN: InBrief – open-source AI news aggregator with LLM filtering](https://github.com/frankzch/ai-news-brief) — Hacker News
-- [Show HN: Clawock – AI argues, code settles the trades](https://github.com/KCNyu/clawock) — Hacker News
-- [Device detection and occupancy monitoring for Airbnb hosts](https://www.minut.com/features/occupancy-monitoring) — Hacker News
+- [Show HN: Llmll – AI agents fill typed holes, an SMT solver rejects wrong fills](https://github.com/machunter/llmll) — Hacker News
+- [AI Ends Closed-Source Software](https://www.heise.de/en/news/Open-Source-Guru-Raymond-AI-Ends-Closed-Source-Software-11480690.html) — Hacker News
+- [Show HN: Reverse-Engineered C++ Aureal 3D API from 1999](https://github.com/oxiKKK/re-a3d-api) — Hacker News
 <!--END_HEARTBEAT-->
