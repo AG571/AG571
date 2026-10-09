@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-08 14:32 UTC
+Last update: 2026-10-09 14:19 UTC
 
-- [Show HN: Llmll – AI agents fill typed holes, an SMT solver rejects wrong fills](https://github.com/machunter/llmll) — Hacker News
-- [AI Ends Closed-Source Software](https://www.heise.de/en/news/Open-Source-Guru-Raymond-AI-Ends-Closed-Source-Software-11480690.html) — Hacker News
-- [Show HN: Reverse-Engineered C++ Aureal 3D API from 1999](https://github.com/oxiKKK/re-a3d-api) — Hacker News
+- [Court throws out killer's sentence after judge said he loved AI video of victim](https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457) — Hacker News
+- [American Airlines extends Starlink Wi-Fi roll-out to mainline fleet](https://www.reuters.com/business/aerospace-defense/american-airlines-extends-starlink-wi-fi-roll-out-entire-mainline-fleet-2026-10-08/) — Hacker News
+- [In Race with U.S., China Struggles to Recruit Foreign A.I. Researchers](https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html) — Hacker News
 <!--END_HEARTBEAT-->
