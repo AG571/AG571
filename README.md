@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-09 14:19 UTC
+Last update: 2026-10-10 13:35 UTC
 
-- [Court throws out killer's sentence after judge said he loved AI video of victim](https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457) — Hacker News
-- [American Airlines extends Starlink Wi-Fi roll-out to mainline fleet](https://www.reuters.com/business/aerospace-defense/american-airlines-extends-starlink-wi-fi-roll-out-entire-mainline-fleet-2026-10-08/) — Hacker News
-- [In Race with U.S., China Struggles to Recruit Foreign A.I. Researchers](https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html) — Hacker News
+- [AI found solutions to problems in 22 scientific fields hiding in plain sight](https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them?referrer=https%3A%2F%2Fnews.google.com%2F) — Hacker News
+- [Show HN: ShipOrNah – Free security scan for AI-generated apps](https://shipornah.com) — Hacker News
+- [Jensen Huang Doing Michale Jackson Dance (AI)](https://www.instagram.com/reel/DeRdcT5iGjW/) — Hacker News
 <!--END_HEARTBEAT-->
