@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-10 13:35 UTC
+Last update: 2026-10-11 13:58 UTC
 
-- [AI found solutions to problems in 22 scientific fields hiding in plain sight](https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them?referrer=https%3A%2F%2Fnews.google.com%2F) — Hacker News
-- [Show HN: ShipOrNah – Free security scan for AI-generated apps](https://shipornah.com) — Hacker News
-- [Jensen Huang Doing Michale Jackson Dance (AI)](https://www.instagram.com/reel/DeRdcT5iGjW/) — Hacker News
+- [Tensordyne is making AI compute more efficient using logarithms](https://www.zach.be/p/tensordyne-is-making-ai-compute-more) — Hacker News
+- [AI does math. Should you get a PhD?](https://jasonpolak.substack.com/p/ai-does-math-should-you-get-a-phd) — Hacker News
+- [Simulate coding pre-AI by year](https://beforetheprompt.xipu.li/) — Hacker News
 <!--END_HEARTBEAT-->
