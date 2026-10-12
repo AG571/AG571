@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-11 13:58 UTC
+Last update: 2026-10-12 16:41 UTC
 
-- [Tensordyne is making AI compute more efficient using logarithms](https://www.zach.be/p/tensordyne-is-making-ai-compute-more) — Hacker News
-- [AI does math. Should you get a PhD?](https://jasonpolak.substack.com/p/ai-does-math-should-you-get-a-phd) — Hacker News
-- [Simulate coding pre-AI by year](https://beforetheprompt.xipu.li/) — Hacker News
+- [Helix World: A real-time world model that generates video and stereo sound](https://noiz.ai/lp/blog/meet-helix-world) — Hacker News
+- [AI didn't create the identity problem. It removed the speed limit](https://fusionauth.io/blog/announcing-fusionauth-1-69) — Hacker News
+- [Show HN: IHMT – Infinite Hierarchical Memory Tree for AI Agents](https://github.com/gonzaroman/IHMT-MEMORY) — Hacker News
 <!--END_HEARTBEAT-->
