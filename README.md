@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-12 16:41 UTC
+Last update: 2026-10-13 14:58 UTC
 
-- [Helix World: A real-time world model that generates video and stereo sound](https://noiz.ai/lp/blog/meet-helix-world) — Hacker News
-- [AI didn't create the identity problem. It removed the speed limit](https://fusionauth.io/blog/announcing-fusionauth-1-69) — Hacker News
-- [Show HN: IHMT – Infinite Hierarchical Memory Tree for AI Agents](https://github.com/gonzaroman/IHMT-MEMORY) — Hacker News
+- [Show HN: Podway – your self-hosted apps, run by an AI admin](https://podway.io) — Hacker News
+- [Mobile Tunnel: Giving AI agents control of Android to drive drones and IoT](https://sealgate.ai/blog/mobile-tunnel-agents-control-android-devices) — Hacker News
+- [NetBSD may have found a new role: The AI-free FOSS OS](https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818) — Hacker News
 <!--END_HEARTBEAT-->
