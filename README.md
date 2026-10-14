@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-13 14:58 UTC
+Last update: 2026-10-14 12:49 UTC
 
-- [Show HN: Podway – your self-hosted apps, run by an AI admin](https://podway.io) — Hacker News
-- [Mobile Tunnel: Giving AI agents control of Android to drive drones and IoT](https://sealgate.ai/blog/mobile-tunnel-agents-control-android-devices) — Hacker News
-- [NetBSD may have found a new role: The AI-free FOSS OS](https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818) — Hacker News
+- [Will China overtake the US in the AI race? (In charts)](https://salvozappa.com/will-china-overtake-the-us-in-the-ai-race.html) — Hacker News
+- [Has the AI Boom Impacted the U.S. Current Account?](https://libertystreeteconomics.newyorkfed.org/2026/10/has-the-ai-boom-impacted-the-u-s-current-account/) — Hacker News
+- [DeepMind and Singapore fine-tune an on-device Gemma model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) — Hacker News
 <!--END_HEARTBEAT-->
