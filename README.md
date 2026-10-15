@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-14 12:49 UTC
+Last update: 2026-10-15 12:36 UTC
 
-- [Will China overtake the US in the AI race? (In charts)](https://salvozappa.com/will-china-overtake-the-us-in-the-ai-race.html) — Hacker News
-- [Has the AI Boom Impacted the U.S. Current Account?](https://libertystreeteconomics.newyorkfed.org/2026/10/has-the-ai-boom-impacted-the-u-s-current-account/) — Hacker News
-- [DeepMind and Singapore fine-tune an on-device Gemma model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) — Hacker News
+- [Article: Writing Code versus Shipping Code](https://cepr.org/voxeu/columns/writing-code-versus-shipping-code-productivity-effects-across-generations-ai-coding) — Hacker News
+- [RIAA Flags Anna's Archive and AI Voice Cloner to U.S. Government](https://torrentfreak.com/riaa-flags-annas-archive-and-ai-voice-cloner-to-u-s-government/) — Hacker News
+- [Show HN: Multi persona library to eradicate Spec Hallucination](https://github.com/sidgitind/Sparring) — Hacker News
 <!--END_HEARTBEAT-->
