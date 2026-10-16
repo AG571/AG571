@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-15 12:36 UTC
+Last update: 2026-10-16 12:20 UTC
 
-- [Article: Writing Code versus Shipping Code](https://cepr.org/voxeu/columns/writing-code-versus-shipping-code-productivity-effects-across-generations-ai-coding) — Hacker News
-- [RIAA Flags Anna's Archive and AI Voice Cloner to U.S. Government](https://torrentfreak.com/riaa-flags-annas-archive-and-ai-voice-cloner-to-u-s-government/) — Hacker News
-- [Show HN: Multi persona library to eradicate Spec Hallucination](https://github.com/sidgitind/Sparring) — Hacker News
+- [Will we continue mathematical research?](https://irregular-rhomboid.github.io/2026/10/09/math-in-the-age-of-ai.html) — Hacker News
+- [AeroSandbox: Design and optimize aircraft through automatic differentiation](https://github.com/peterdsharpe/AeroSandbox) — Hacker News
+- [The AI Bill Is the Cheap Part](https://avivbenyosef.com/the-ai-bill-is-the-cheap-part/) — Hacker News
 <!--END_HEARTBEAT-->
