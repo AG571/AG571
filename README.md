@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-16 12:20 UTC
+Last update: 2026-10-17 11:33 UTC
 
-- [Will we continue mathematical research?](https://irregular-rhomboid.github.io/2026/10/09/math-in-the-age-of-ai.html) — Hacker News
-- [AeroSandbox: Design and optimize aircraft through automatic differentiation](https://github.com/peterdsharpe/AeroSandbox) — Hacker News
-- [The AI Bill Is the Cheap Part](https://avivbenyosef.com/the-ai-bill-is-the-cheap-part/) — Hacker News
+- [The fastest DeepSeek v4.1 flash 1017 – Day 0](https://runinfra.ai/inference-api/deepseek-v4-1-flash-1017) — Hacker News
+- [The AI Expectations Gap](https://www.anthropic.com/research/ai-expectations-gap) — Hacker News
+- [Roundtables: A Conversation with the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/) — Hacker News
 <!--END_HEARTBEAT-->
