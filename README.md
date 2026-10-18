@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-17 11:33 UTC
+Last update: 2026-10-18 12:01 UTC
 
-- [The fastest DeepSeek v4.1 flash 1017 – Day 0](https://runinfra.ai/inference-api/deepseek-v4-1-flash-1017) — Hacker News
-- [The AI Expectations Gap](https://www.anthropic.com/research/ai-expectations-gap) — Hacker News
-- [Roundtables: A Conversation with the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/) — Hacker News
+- [I've been using an AI agent for a month, and I'm both impressed and terrified](https://www.androidauthority.com/using-ai-agent-instinct-one-month-later-impressions-3720825/) — Hacker News
+- [Show HN: Shipback – SFTP deploys your AI agent can undo](https://github.com/aldohushi1-stack/shipback-sftp) — Hacker News
+- [Doctors and Lawyers Are Joining AI's $400-an-Hour Gig Economy](https://news.bloomberglaw.com/esg/doctors-and-lawyers-are-joining-ais-400-an-hour-gig-economy) — Hacker News
 <!--END_HEARTBEAT-->
