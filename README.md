@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-18 12:01 UTC
+Last update: 2026-10-19 14:37 UTC
 
-- [I've been using an AI agent for a month, and I'm both impressed and terrified](https://www.androidauthority.com/using-ai-agent-instinct-one-month-later-impressions-3720825/) — Hacker News
-- [Show HN: Shipback – SFTP deploys your AI agent can undo](https://github.com/aldohushi1-stack/shipback-sftp) — Hacker News
-- [Doctors and Lawyers Are Joining AI's $400-an-Hour Gig Economy](https://news.bloomberglaw.com/esg/doctors-and-lawyers-are-joining-ais-400-an-hour-gig-economy) — Hacker News
+- [Nearly $3B: Mapping the Money Behind the AI Existential Risk Ecosystem](https://www.aipanic.news/p/nearly-3-billion-mapping-the-money) — Hacker News
+- [What business wants from AI, and why we built an agentic kernel: an essay](https://loomcycle.dev/blog/beneath-the-foam) — Hacker News
+- [US banning Chinese AI DeepSeek from government agency IT systems](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/) — Hacker News
 <!--END_HEARTBEAT-->
