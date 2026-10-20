@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-19 14:37 UTC
+Last update: 2026-10-20 12:40 UTC
 
-- [Nearly $3B: Mapping the Money Behind the AI Existential Risk Ecosystem](https://www.aipanic.news/p/nearly-3-billion-mapping-the-money) — Hacker News
-- [What business wants from AI, and why we built an agentic kernel: an essay](https://loomcycle.dev/blog/beneath-the-foam) — Hacker News
-- [US banning Chinese AI DeepSeek from government agency IT systems](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/) — Hacker News
+- [Missing the Psychosis Forest for the AI Trees](https://figbert.com/posts/digital-psychosis/) — Hacker News
+- [Startup Claims to Treat a Patient with A.I.-Created Viruses](https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html) — Hacker News
+- [Show HN: MarkItDown AI – Convert documents to Markdown locally in the browser](https://markitdownai.org) — Hacker News
 <!--END_HEARTBEAT-->
