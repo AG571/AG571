@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-20 12:40 UTC
+Last update: 2026-10-21 12:53 UTC
 
-- [Missing the Psychosis Forest for the AI Trees](https://figbert.com/posts/digital-psychosis/) — Hacker News
-- [Startup Claims to Treat a Patient with A.I.-Created Viruses](https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html) — Hacker News
-- [Show HN: MarkItDown AI – Convert documents to Markdown locally in the browser](https://markitdownai.org) — Hacker News
+- [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/) — Hacker News
+- [Homeport AI: Continuous monitoring of leads and accounts](https://homeport.ai/en) — Hacker News
+- [Reliability at the core: five ground rules for building an agent loop](https://dbln.me/blog/5-rules-for-building-reliable-ai-agents) — Hacker News
 <!--END_HEARTBEAT-->
