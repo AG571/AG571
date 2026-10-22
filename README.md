@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-21 12:53 UTC
+Last update: 2026-10-22 12:55 UTC
 
-- [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/) — Hacker News
-- [Homeport AI: Continuous monitoring of leads and accounts](https://homeport.ai/en) — Hacker News
-- [Reliability at the core: five ground rules for building an agent loop](https://dbln.me/blog/5-rules-for-building-reliable-ai-agents) — Hacker News
+- [Show HN: I made a Chrome extension to dim YouTube videos labeled "Made with AI"](https://github.com/Nova-47/ai-label-filter-for-youtube) — Hacker News
+- [Show HN: Lumabri – Run large AI models across your computers and servers.Pure C](https://github.com/JustVugg/lumabri/blob/main/README.md) — Hacker News
+- [Show HN: Whybook, tackling the gap between AI notebooks and human understanding](https://whybook.dev/) — Hacker News
 <!--END_HEARTBEAT-->
