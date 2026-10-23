@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-22 12:55 UTC
+Last update: 2026-10-23 12:34 UTC
 
-- [Show HN: I made a Chrome extension to dim YouTube videos labeled "Made with AI"](https://github.com/Nova-47/ai-label-filter-for-youtube) — Hacker News
-- [Show HN: Lumabri – Run large AI models across your computers and servers.Pure C](https://github.com/JustVugg/lumabri/blob/main/README.md) — Hacker News
-- [Show HN: Whybook, tackling the gap between AI notebooks and human understanding](https://whybook.dev/) — Hacker News
+- [AI Identity Management System](https://datatracker.ietf.org/doc/draft-ietf-wimse-aims/00/) — Hacker News
+- [Only 13% of companies see real returns from AI, survey finds](https://www.gartner.com/en/newsroom/press-releases/2026-10-19-gartner-survey-finds-only-13-percent-of-cios-say-their-enterprise-has-realized-significant-or-transformational-value-from-ai) — Hacker News
+- [Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches](https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357) — Hacker News
 <!--END_HEARTBEAT-->
