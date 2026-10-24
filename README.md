@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-23 12:34 UTC
+Last update: 2026-10-24 11:57 UTC
 
-- [AI Identity Management System](https://datatracker.ietf.org/doc/draft-ietf-wimse-aims/00/) — Hacker News
-- [Only 13% of companies see real returns from AI, survey finds](https://www.gartner.com/en/newsroom/press-releases/2026-10-19-gartner-survey-finds-only-13-percent-of-cios-say-their-enterprise-has-realized-significant-or-transformational-value-from-ai) — Hacker News
-- [Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches](https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357) — Hacker News
+- [Shigeru Miyamoto on Gen AI](https://www.ndw.jp/nintendo-interview-261023/) — Hacker News
+- [Draggy: A Windows desktop app for local and cloud AI chat and coding](https://github.com/Lucki74/draggy) — Hacker News
+- [Show HN: AI text detector that never sees your text (runs 100% in-browser)](https://kouh.me/ai-text-detector) — Hacker News
 <!--END_HEARTBEAT-->
