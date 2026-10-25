@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-24 11:57 UTC
+Last update: 2026-10-25 12:31 UTC
 
-- [Shigeru Miyamoto on Gen AI](https://www.ndw.jp/nintendo-interview-261023/) — Hacker News
-- [Draggy: A Windows desktop app for local and cloud AI chat and coding](https://github.com/Lucki74/draggy) — Hacker News
-- [Show HN: AI text detector that never sees your text (runs 100% in-browser)](https://kouh.me/ai-text-detector) — Hacker News
+- [Cybersecurity bounty hunter says Samsung TVs use AI to record audio](https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting) — Hacker News
+- [Report on alpha school, AI-based education](https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html) — Hacker News
+- [Show HN: Find overlapping Rust tests with mutation testing](https://github.com/yasuyuky/cargo-test-prune) — Hacker News
 <!--END_HEARTBEAT-->
