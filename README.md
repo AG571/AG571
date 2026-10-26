@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-25 12:31 UTC
+Last update: 2026-10-26 14:10 UTC
 
-- [Cybersecurity bounty hunter says Samsung TVs use AI to record audio](https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting) — Hacker News
-- [Report on alpha school, AI-based education](https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html) — Hacker News
-- [Show HN: Find overlapping Rust tests with mutation testing](https://github.com/yasuyuky/cargo-test-prune) — Hacker News
+- [Markdown Is the New Executable: Attackers Drop Agent Instructions into Downloads](https://forever.security/blog/hijacking-ai-agents-via-downloads-folder/) — Hacker News
+- [AI coding agents hijacked using AGENTS.md file in Downloads folder](https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/) — Hacker News
+- [Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent) — Hacker News
 <!--END_HEARTBEAT-->
