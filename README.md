@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-26 14:10 UTC
+Last update: 2026-10-27 13:08 UTC
 
-- [Markdown Is the New Executable: Attackers Drop Agent Instructions into Downloads](https://forever.security/blog/hijacking-ai-agents-via-downloads-folder/) — Hacker News
-- [AI coding agents hijacked using AGENTS.md file in Downloads folder](https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/) — Hacker News
-- [Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent) — Hacker News
+- [Show HN: Multi-viewer Pi/Jetson streaming with shared control via Cloudflare SFU](https://github.com/mazupo/cf-sfu-worker) — Hacker News
+- [Apple Creator Studio adds powerful new AI features and more creative tools](https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/) — Hacker News
+- [Show HN: CiteWing – AI backlink outreach agent](https://citewing.com/) — Hacker News
 <!--END_HEARTBEAT-->
