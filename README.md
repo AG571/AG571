@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-27 13:08 UTC
+Last update: 2026-10-28 13:58 UTC
 
-- [Show HN: Multi-viewer Pi/Jetson streaming with shared control via Cloudflare SFU](https://github.com/mazupo/cf-sfu-worker) — Hacker News
-- [Apple Creator Studio adds powerful new AI features and more creative tools](https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/) — Hacker News
-- [Show HN: CiteWing – AI backlink outreach agent](https://citewing.com/) — Hacker News
+- [Beta Technologies Is Clearing the Runway for Electric Flight](https://spectrum.ieee.org/beta-technologies-electric-aircraft) — Hacker News
+- [Hyperbolic – Open-Access GPU and AI Cloud](https://www.hyperbolic.ai) — Hacker News
+- [Decompiling Games with AI: Virtueel Zoetermeer](https://bou.ke/blog/zoetermeer/) — Hacker News
 <!--END_HEARTBEAT-->
