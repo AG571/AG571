@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-28 13:58 UTC
+Last update: 2026-10-29 14:11 UTC
 
-- [Beta Technologies Is Clearing the Runway for Electric Flight](https://spectrum.ieee.org/beta-technologies-electric-aircraft) — Hacker News
-- [Hyperbolic – Open-Access GPU and AI Cloud](https://www.hyperbolic.ai) — Hacker News
-- [Decompiling Games with AI: Virtueel Zoetermeer](https://bou.ke/blog/zoetermeer/) — Hacker News
+- [Show HN: ROAL – AI phone host for restaurants that builds itself from your site](https://tryroal.com) — Hacker News
+- [You can just ask AI to do things](https://www.seangoedecke.com/you-can-just-ask-ai-to-do-things/) — Hacker News
+- [Language and Intelligence: What Can/Cannot AI Do with Natural Language? (2022)](https://arxiv.org/abs/2209.12829) — Hacker News
 <!--END_HEARTBEAT-->
