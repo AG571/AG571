@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-29 14:11 UTC
+Last update: 2026-10-30 14:03 UTC
 
-- [Show HN: ROAL – AI phone host for restaurants that builds itself from your site](https://tryroal.com) — Hacker News
-- [You can just ask AI to do things](https://www.seangoedecke.com/you-can-just-ask-ai-to-do-things/) — Hacker News
-- [Language and Intelligence: What Can/Cannot AI Do with Natural Language? (2022)](https://arxiv.org/abs/2209.12829) — Hacker News
+- [AI Can Breach Crypto Apps, Not Bitcoin – That's Where the Real Risk Lives](https://www.ainvest.com/news/ai-breach-crypto-apps-bitcoin-real-risk-lives-2610/) — Hacker News
+- [Why is the Stripe Codex plugin inserting itself into unrelated procurement tasks](https://github.com/stripe/ai/blob/867a598/providers/agent-plugins/plugin/skills/stripe-directory/SKILL.md) — Hacker News
+- [AI Bubble Burst](https://seekingalpha.com/article/4960031-ai-bubble-burst-confirmed-by-alphabet-caterpillar-servicenow-amazon) — Hacker News
 <!--END_HEARTBEAT-->
