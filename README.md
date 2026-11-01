@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-10-31 13:35 UTC
+Last update: 2026-11-01 14:14 UTC
 
-- [AI startup hacks Anthropic, gains access to employee details, internal messages](https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26) — Hacker News
-- [Anthropic's Claude AI blocks video game cloning and reverse-engineering](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked) — Hacker News
-- [To Bin or Not to Bin: A Tutorial on Fast Feedback Loops for AI Capabilities](https://alexhans.github.io/posts/to-bin-or-not-to-bin.html) — Hacker News
+- [Show HN: Let formal specs test AI implementations](https://github.com/mrasu/spec-guardian) — Hacker News
+- [Show HN: IsSiteDown – Chrome extension to check current site availability](https://chromewebstore.google.com/detail/issitedown/ifilnamlilffdbhbfmkkkajlgckimjlo) — Hacker News
+- [Show HN: Shroom – screen recording and sharing, your own Cloudflare, 10M setup](https://shroom.am) — Hacker News
 <!--END_HEARTBEAT-->
