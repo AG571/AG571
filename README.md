@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-01 14:14 UTC
+Last update: 2026-11-02 16:59 UTC
 
-- [Show HN: Let formal specs test AI implementations](https://github.com/mrasu/spec-guardian) — Hacker News
-- [Show HN: IsSiteDown – Chrome extension to check current site availability](https://chromewebstore.google.com/detail/issitedown/ifilnamlilffdbhbfmkkkajlgckimjlo) — Hacker News
-- [Show HN: Shroom – screen recording and sharing, your own Cloudflare, 10M setup](https://shroom.am) — Hacker News
+- [Show HN: Prepd – System design interview practice with AI mock interviews](https://prepd.tech/) — Hacker News
+- [Show HN: Agent Drift Game – short games about why AI agents drift](https://drift.seethis.dev/) — Hacker News
+- [SUSE to cut one in ten employees because of AI](https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950) — Hacker News
 <!--END_HEARTBEAT-->
