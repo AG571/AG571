@@ -27,9 +27,7 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-02 16:59 UTC
+Last update: 2026-11-03 15:01 UTC
 
-- [Show HN: Prepd – System design interview practice with AI mock interviews](https://prepd.tech/) — Hacker News
-- [Show HN: Agent Drift Game – short games about why AI agents drift](https://drift.seethis.dev/) — Hacker News
-- [SUSE to cut one in ten employees because of AI](https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950) — Hacker News
+- [How to learn AI from first principles](https://news.ycombinator.com/) — Hacker News
 <!--END_HEARTBEAT-->
