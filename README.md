@@ -27,7 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-03 15:01 UTC
+Last update: 2026-11-04 15:21 UTC
 
-- [How to learn AI from first principles](https://news.ycombinator.com/) — Hacker News
+- [AI agents can persuade other AI agents to approve decisions they should reject](https://www.cooperativeai.com/seminars/inter-agent-influence-ai-agents-capabilities-for-persuading-deceiving-and-coercing-each-other) — Hacker News
+- [I built one dollar clarity for mental issues try it](https://onedollarclarity.com/) — Hacker News
+- [Ukraine's drone strikes spur hasty Russian plans for underground data centers](https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/) — Hacker News
 <!--END_HEARTBEAT-->
