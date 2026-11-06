@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-05 15:24 UTC
+Last update: 2026-11-06 14:57 UTC
 
-- [Show HN: QuanterLab, describe a trading strategy, watch it build in front of you](https://quanterlab.com/) — Hacker News
-- [Show HN: PDF Reading, Annotation and Signing Inside Your Markdown Notes](https://blog.etherpk.com/pdf-reading-annotation-and-signing-inside-your-markdown-notes) — Hacker News
-- [Show HN: I built Postraid to help founders create social media content with AI](https://www.postraid.com) — Hacker News
+- [AI's Götterdämmerung – Food for Agile Thought #569](https://age-of-product.com/food-agile-thought-569-ai-goetterdaemmerung/) — Hacker News
+- [Physical AI can't learn from the internet. We build the worlds it learns from](https://www.physicl.ai/insights/inside-studio) — Hacker News
+- [The Future of Knowledge Work with AI](https://www.noemamag.com/now-entering-the-era-of-bleh/) — Hacker News
 <!--END_HEARTBEAT-->
