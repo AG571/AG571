@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-06 14:57 UTC
+Last update: 2026-11-07 13:56 UTC
 
-- [AI's Götterdämmerung – Food for Agile Thought #569](https://age-of-product.com/food-agile-thought-569-ai-goetterdaemmerung/) — Hacker News
-- [Physical AI can't learn from the internet. We build the worlds it learns from](https://www.physicl.ai/insights/inside-studio) — Hacker News
-- [The Future of Knowledge Work with AI](https://www.noemamag.com/now-entering-the-era-of-bleh/) — Hacker News
+- [Show HN: I made a guardrail against AI outreach slop (API/MCP)](https://maildignity.com/) — Hacker News
+- [Why does America hate AI?](https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232) — Hacker News
+- [AI Santa Video Generator – Personalized Santa Videos](https://aisantavideo.net) — Hacker News
 <!--END_HEARTBEAT-->
