@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-07 13:56 UTC
+Last update: 2026-11-08 14:15 UTC
 
-- [Show HN: I made a guardrail against AI outreach slop (API/MCP)](https://maildignity.com/) — Hacker News
-- [Why does America hate AI?](https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232) — Hacker News
-- [AI Santa Video Generator – Personalized Santa Videos](https://aisantavideo.net) — Hacker News
+- [Archimedes: AI agents that design physical things](https://standardphysics.com/archimedes) — Hacker News
+- [Anthropic Let an Outsider Check Its AI Progress. Here's What We Can't See](https://www.youtube.com/watch?v=oFuoPEtIqWg) — Hacker News
+- [I Resist Generative "AI"](https://estherweidauer.com/articles/why-resist-generative-ai.html) — Hacker News
 <!--END_HEARTBEAT-->
