@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-08 14:15 UTC
+Last update: 2026-11-09 17:25 UTC
 
-- [Archimedes: AI agents that design physical things](https://standardphysics.com/archimedes) — Hacker News
-- [Anthropic Let an Outsider Check Its AI Progress. Here's What We Can't See](https://www.youtube.com/watch?v=oFuoPEtIqWg) — Hacker News
-- [I Resist Generative "AI"](https://estherweidauer.com/articles/why-resist-generative-ai.html) — Hacker News
+- [AI and Irontown](https://lucumr.pocoo.org/2026/11/9/irontown/) — Hacker News
+- [A Smarter Model Won't Save Your Bad Harness](https://www.cerebras.ai/blog/a-smarter-model-won-t-save-your-bad-harness) — Hacker News
+- [Show HN: Venzx – Pause AI agent tool calls until a human approves](https://venzx.com/try) — Hacker News
 <!--END_HEARTBEAT-->
