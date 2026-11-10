@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-09 17:25 UTC
+Last update: 2026-11-10 15:31 UTC
 
-- [AI and Irontown](https://lucumr.pocoo.org/2026/11/9/irontown/) — Hacker News
-- [A Smarter Model Won't Save Your Bad Harness](https://www.cerebras.ai/blog/a-smarter-model-won-t-save-your-bad-harness) — Hacker News
-- [Show HN: Venzx – Pause AI agent tool calls until a human approves](https://venzx.com/try) — Hacker News
+- [Show HN: Mantis – Faster browser interaction than Playwright MCP](https://github.com/perzianhq/mantis/blob/main/README.md) — Hacker News
+- [AI Companies Crack Down on the Coolest Thing People Were Doing with AI](https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/) — Hacker News
+- [Xanadu and HyperLight Breakthrough of Nearly 3x Reduction in Optical Switch Loss](https://investors.xanadu.ai/news-releases/news-release-details/xanadu-and-hyperlight-achieve-breakthrough-nearly-3x-reduction) — Hacker News
 <!--END_HEARTBEAT-->
