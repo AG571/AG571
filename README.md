@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-11 15:06 UTC
+Last update: 2026-11-12 15:56 UTC
 
-- [Ring's AI-Powered Drone Automatically Patrols Inside Your Home](https://petapixel.com/2026/11/10/rings-ai-powered-drone-automatically-patrols-inside-your-home/) — Hacker News
-- [Show HN: AI Code Rating – a 3-character disclosure of how AI was used in a repo](https://aicoderating.com/) — Hacker News
-- [Claude's AI Starts Refusing to Assist with Pokémon ROM Hack and Fan-Game Dev](https://retrododo.com/claudes-ai-starts-refusing-to-assist-with-pokemon-rom-hack-fan-game-development/) — Hacker News
+- [Open benchmark of AI decision APIs vs. XGBoost for fraud triage](https://github.com/SmartMobileHouse/fraud-decision-lab) — Hacker News
+- [Learning shaders when AI can write them for you](https://shader-learn.vercel.app/en) — Hacker News
+- [Show HN: Cinnamon AI – an agent for your family](https://getcinnamon.ai/) — Hacker News
 <!--END_HEARTBEAT-->
