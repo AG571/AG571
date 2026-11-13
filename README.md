@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-12 15:56 UTC
+Last update: 2026-11-13 15:18 UTC
 
-- [Open benchmark of AI decision APIs vs. XGBoost for fraud triage](https://github.com/SmartMobileHouse/fraud-decision-lab) — Hacker News
-- [Learning shaders when AI can write them for you](https://shader-learn.vercel.app/en) — Hacker News
-- [Show HN: Cinnamon AI – an agent for your family](https://getcinnamon.ai/) — Hacker News
+- [Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call](https://github.com/langfuse/langfuse/tree/main/ai-gateway) — Hacker News
+- [Show HN: Skylands – Run coding agents on any machine, approve from your phone](https://github.com/skylands-ai/skylands) — Hacker News
+- [Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]](https://www.youtube.com/watch?v=IRK8h67ol7Q) — Hacker News
 <!--END_HEARTBEAT-->
