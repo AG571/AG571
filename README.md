@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-13 15:18 UTC
+Last update: 2026-11-14 14:04 UTC
 
-- [Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call](https://github.com/langfuse/langfuse/tree/main/ai-gateway) — Hacker News
-- [Show HN: Skylands – Run coding agents on any machine, approve from your phone](https://github.com/skylands-ai/skylands) — Hacker News
-- [Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]](https://www.youtube.com/watch?v=IRK8h67ol7Q) — Hacker News
+- [Navigating Open Source Software Development in the Generative AI Era](https://www.linuxfoundation.org/research/oss-development-gen-ai-era-2026) — Hacker News
+- [Vyrma – Herhlaup (100% AI music/visuals/audio showing what's possible) [video]](https://www.youtube.com/watch?v=drjltnetKtQ) — Hacker News
+- [Show HN: SunsetLint – find retiring AI model IDs in your GitHub repos](https://www.sunsetlint.com) — Hacker News
 <!--END_HEARTBEAT-->
