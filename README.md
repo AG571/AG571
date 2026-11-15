@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-14 14:04 UTC
+Last update: 2026-11-15 14:42 UTC
 
-- [Navigating Open Source Software Development in the Generative AI Era](https://www.linuxfoundation.org/research/oss-development-gen-ai-era-2026) — Hacker News
-- [Vyrma – Herhlaup (100% AI music/visuals/audio showing what's possible) [video]](https://www.youtube.com/watch?v=drjltnetKtQ) — Hacker News
-- [Show HN: SunsetLint – find retiring AI model IDs in your GitHub repos](https://www.sunsetlint.com) — Hacker News
+- [Show HN: SecureVibe – Find and trace vulnerabilities before shipping](https://securevibe-dev.vercel.app/) — Hacker News
+- [Amazon Threat Intelligence observes threat actor campaigns with ARTEX AI agents](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/) — Hacker News
+- [Anatomy of a trojan: backdooring an LLM by editing few dormant neurons](https://int8.io/implanting-ai-with-lazarus/) — Hacker News
 <!--END_HEARTBEAT-->
