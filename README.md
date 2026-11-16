@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-15 14:42 UTC
+Last update: 2026-11-16 16:57 UTC
 
-- [Show HN: SecureVibe – Find and trace vulnerabilities before shipping](https://securevibe-dev.vercel.app/) — Hacker News
-- [Amazon Threat Intelligence observes threat actor campaigns with ARTEX AI agents](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/) — Hacker News
-- [Anatomy of a trojan: backdooring an LLM by editing few dormant neurons](https://int8.io/implanting-ai-with-lazarus/) — Hacker News
+- [The hardest part of a robotics is the hand](https://stormy.ai/hands) — Hacker News
+- [Is AI Crashing?](https://dfarq.homeip.net/is-ai-crashing/) — Hacker News
+- [What an Agent Can Reach Through the Headless 360 MCP Server](https://www.reco.ai/blog/what-an-agent-can-reach-through-the-headless-360-mcp-server) — Hacker News
 <!--END_HEARTBEAT-->
