@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-16 16:57 UTC
+Last update: 2026-11-17 16:50 UTC
 
-- [The hardest part of a robotics is the hand](https://stormy.ai/hands) — Hacker News
-- [Is AI Crashing?](https://dfarq.homeip.net/is-ai-crashing/) — Hacker News
-- [What an Agent Can Reach Through the Headless 360 MCP Server](https://www.reco.ai/blog/what-an-agent-can-reach-through-the-headless-360-mcp-server) — Hacker News
+- [Show HN: Atlas – Give Your AI Agent Better Web Context](https://atlas-compiler.com/) — Hacker News
+- [Show HN: Ask your AI before you renew any SaaS (free MCP server)](https://hissingkitty.com/developers) — Hacker News
+- [Hoy: A macOS VMM on Hypervisor.framework with GPU acceleration for local models](https://hoy.cua.ai/launch) — Hacker News
 <!--END_HEARTBEAT-->
