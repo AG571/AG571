@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-17 16:50 UTC
+Last update: 2026-11-18 16:23 UTC
 
-- [Show HN: Atlas – Give Your AI Agent Better Web Context](https://atlas-compiler.com/) — Hacker News
-- [Show HN: Ask your AI before you renew any SaaS (free MCP server)](https://hissingkitty.com/developers) — Hacker News
-- [Hoy: A macOS VMM on Hypervisor.framework with GPU acceleration for local models](https://hoy.cua.ai/launch) — Hacker News
+- [ECB says AI borrowing binge has 'historic parallels' with subprime bubble](https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9) — Hacker News
+- [Who's afraid of open source AI? [video]](https://www.youtube.com/watch?v=siy0744Ykys) — Hacker News
+- [Nobody Is Ready for This Future. But Nobody Is Stopping It](https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html) — Hacker News
 <!--END_HEARTBEAT-->
