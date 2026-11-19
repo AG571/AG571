@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-18 16:23 UTC
+Last update: 2026-11-19 16:30 UTC
 
-- [ECB says AI borrowing binge has 'historic parallels' with subprime bubble](https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9) — Hacker News
-- [Who's afraid of open source AI? [video]](https://www.youtube.com/watch?v=siy0744Ykys) — Hacker News
-- [Nobody Is Ready for This Future. But Nobody Is Stopping It](https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html) — Hacker News
+- [Terminal-Bench 4.1](https://www.tbench.ai/?version=4.1) — Hacker News
+- [Will AI Coding Eat Video Game Engines?](https://spectrum.ieee.org/epic-games-unreal-engine-ai) — Hacker News
+- [Elon Musk's SpaceXAI suffers chemical spill at Mississippi AI data center](https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-suffers-chemical-spill-at-mississippi-ai-data-center-up-to-6-000-gallons-of-propylene-glycol-heat-transfer-fluid-lost-environment-agency-says-no-threat-to-residents) — Hacker News
 <!--END_HEARTBEAT-->
