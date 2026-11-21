@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-20 16:04 UTC
+Last update: 2026-11-21 15:17 UTC
 
-- [Bounded checking and repair for AI(or other) proposers](https://github.com/Onescale414/BRACE-Harness) — Hacker News
-- [Show HN: Lichess of Schotten Totten](https://schottentotten.com/?src=hn) — Hacker News
-- [Channel.is – email and social media with no AI. take back the human internet](https://channel.is/) — Hacker News
+- [How to Iterate on Videos with AI](https://www.agent-swarm.dev/blog/how-to-iterate-on-videos-with-ai) — Hacker News
+- [Show HN: Klistra – Make launch videos and product demos, all in one AI studio](https://klistra.ai) — Hacker News
+- [Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks](https://www.far.ai/research/prefill-level-jailbreak-a-black-box-risk-analysis-of-large-language-models) — Hacker News
 <!--END_HEARTBEAT-->
