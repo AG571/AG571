@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-21 15:17 UTC
+Last update: 2026-11-22 15:14 UTC
 
-- [How to Iterate on Videos with AI](https://www.agent-swarm.dev/blog/how-to-iterate-on-videos-with-ai) — Hacker News
-- [Show HN: Klistra – Make launch videos and product demos, all in one AI studio](https://klistra.ai) — Hacker News
-- [Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks](https://www.far.ai/research/prefill-level-jailbreak-a-black-box-risk-analysis-of-large-language-models) — Hacker News
+- [Local AI agents investigate an unknown machine attached to a serial port](https://github.com/podstawek/explorer-of-serial) — Hacker News
+- [Show HN: Relaticle, an open-source CRM that Claude and ChatGPT can work in](https://github.com/relaticle/relaticle) — Hacker News
+- [AI as a Lifestyle Choice](https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/) — Hacker News
 <!--END_HEARTBEAT-->
