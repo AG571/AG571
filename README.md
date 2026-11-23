@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-22 15:14 UTC
+Last update: 2026-11-23 19:11 UTC
 
-- [Local AI agents investigate an unknown machine attached to a serial port](https://github.com/podstawek/explorer-of-serial) — Hacker News
-- [Show HN: Relaticle, an open-source CRM that Claude and ChatGPT can work in](https://github.com/relaticle/relaticle) — Hacker News
-- [AI as a Lifestyle Choice](https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/) — Hacker News
+- [CrowdStrike to buy Zscaler in $44B deal as AI supercharges cyberattacks](https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html) — Hacker News
+- [File slicing controls in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/) — Hacker News
+- [Google Wants to Make a 24/7 AI TV Channel. You'll Be the Main Character](https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/) — Hacker News
 <!--END_HEARTBEAT-->
