@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-23 19:11 UTC
+Last update: 2026-11-24 18:50 UTC
 
-- [CrowdStrike to buy Zscaler in $44B deal as AI supercharges cyberattacks](https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html) — Hacker News
-- [File slicing controls in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/) — Hacker News
-- [Google Wants to Make a 24/7 AI TV Channel. You'll Be the Main Character](https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/) — Hacker News
+- [China Just Gave Itself a Switch for Open AI Models [video]](https://www.youtube.com/watch?v=E5Trav-bgmo) — Hacker News
+- [Training temporal foundation models at scale](https://x.com/aionic_labs/article/2125019686136095036) — Hacker News
+- [PRætore, a Rust authorization engine between AI agents and their tools](https://github.com/Mavericksantander/praetore) — Hacker News
 <!--END_HEARTBEAT-->
