@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-24 18:50 UTC
+Last update: 2026-11-25 17:55 UTC
 
-- [China Just Gave Itself a Switch for Open AI Models [video]](https://www.youtube.com/watch?v=E5Trav-bgmo) — Hacker News
-- [Training temporal foundation models at scale](https://x.com/aionic_labs/article/2125019686136095036) — Hacker News
-- [PRætore, a Rust authorization engine between AI agents and their tools](https://github.com/Mavericksantander/praetore) — Hacker News
+- [An $80K breach forced us to own our AI stack. We're never going back](https://twitter.com/benadamsky/status/2125643724596314433) — Hacker News
+- [Trying to get our Arms around AI efficiency](https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/) — Hacker News
+- [Game Autoresearch Bench: Can AI agents train strong game bots on a budget?](https://gameautoresearch.github.io/) — Hacker News
 <!--END_HEARTBEAT-->
