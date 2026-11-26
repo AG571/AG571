@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-25 17:55 UTC
+Last update: 2026-11-26 17:40 UTC
 
-- [An $80K breach forced us to own our AI stack. We're never going back](https://twitter.com/benadamsky/status/2125643724596314433) — Hacker News
-- [Trying to get our Arms around AI efficiency](https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/) — Hacker News
-- [Game Autoresearch Bench: Can AI agents train strong game bots on a budget?](https://gameautoresearch.github.io/) — Hacker News
+- [What a rule-based checker found in 561 public projects, mostly AI-built](https://lintsure.com/research/561-projects) — Hacker News
+- [The Trap of Understanding: Why AI Cannot Be Regulated Like Oil](https://medium.com/@smoking2man/the-trap-of-understanding-why-ai-cannot-be-regulated-like-oil-and-how-to-get-out-of-it-e6f790b382e2) — Hacker News
+- [Sara – A financial workspace with persistent context across AI models](https://www.usesara.ai) — Hacker News
 <!--END_HEARTBEAT-->
