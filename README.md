@@ -27,9 +27,9 @@ Automating QA, moderation, and intelligent workflows.
 _Auto-updated daily from my AI Heartbeat_
 
 <!--START_HEARTBEAT-->
-Last update: 2026-11-26 17:40 UTC
+Last update: 2026-11-27 17:24 UTC
 
-- [What a rule-based checker found in 561 public projects, mostly AI-built](https://lintsure.com/research/561-projects) — Hacker News
-- [The Trap of Understanding: Why AI Cannot Be Regulated Like Oil](https://medium.com/@smoking2man/the-trap-of-understanding-why-ai-cannot-be-regulated-like-oil-and-how-to-get-out-of-it-e6f790b382e2) — Hacker News
-- [Sara – A financial workspace with persistent context across AI models](https://www.usesara.ai) — Hacker News
+- [Tech Stocks Jump as Investors Take a Break from AI Jitters](https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846) — Hacker News
+- [Dungeons and Dragons maker will pass AI settlement money to authors](https://www.seattletimes.com/business/dungeons-dragons-maker-will-pass-ai-settlement-money-to-authors/) — Hacker News
+- [What AI regulation could learn from the most hazardous industries in the world](https://theconversation.com/what-ai-regulation-could-learn-from-the-most-hazardous-industries-in-the-world-295475) — Hacker News
 <!--END_HEARTBEAT-->
